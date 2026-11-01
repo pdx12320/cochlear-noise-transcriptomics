@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "journal": "Scientific Reports",
+  "format_scope": "Initial submission",
+  "source_guideline": "https://www.nature.com/srep/author-instructions/submission-guidelines",
+  "source_checklist": "srep-checklist-for-initial-submissions.pdf",
+  "pdfs": {
+    "main.pdf": {
+      "pages": 18,
+      "bytes": 1067080,
+      "sha256": "2620bd13d9ea8b98564c5c4c17fec99395fde4dd43eb2a56a3903160e59f072b"
+    },
+    "supplementary.pdf": {
+      "pages": 9,
+      "bytes": 6026024,
+      "sha256": "dd5d0756b6658ec90261bcfe26c8fcfdc2c414c2fca49bc837fab370b0e49a09"
+    },
+    "cover_letter.pdf": {
+      "pages": 1,
+      "bytes": 12666,
+      "sha256": "061f301d10cc65473965e10de6ed28c32ec7bff17ab2d37d7cad3a43dd56cda8"
+    }
+  },
+  "main_scientific_reports_alias": "Byte-identical to main.pdf",
+  "title_words": 12,
+  "abstract_words": 146,
+  "main_figures": 6,
+  "supplementary_figures": 8,
+  "supplementary_tables": 1,
+  "references": 36,
+  "DOI_links": 34,
+  "citation_order": "PASS; 36 first-appearance keys match numbered bibliography",
+  "section_order": [
+    "Introduction",
+    "Results",
+    "Discussion",
+    "Methods",
+    "Use of artificial intelligence",
+    "Data Availability",
+    "Code Availability",
+    "References",
+    "Acknowledgements",
+    "Funding",
+    "Author contributions",
+    "Additional Information"
+  ],
+  "supplementary_citations": "All S1\u2013S8 figures in first-appearance order; Table S1 present",
+  "main_size_below_3MB": true,
+  "bibliography_source": "Byte-identical; only reference-list styling changed",
+  "scientific_parameters_and_results": "Retained without analysis reruns",
+  "frozen_files_verified": {
+    "source_data": 28,
+    "source_inputs": 93,
+    "revision_inputs": 25,
+    "reanalysis": 174,
+    "recovered_materials": 206
+  },
+  "figure_panel_audit": "All 50 letters changed to lowercase; other PDF text, SVG geometry and pixels outside letter boxes identical",
+  "visual_QA": "PASS: all18 manuscript pages,9 supplementary pages and1 cover-letter page rendered and inspected.",
+  "online_submission": "Not performed; matching text supplied in SUBMISSION_METADATA.txt"
+}

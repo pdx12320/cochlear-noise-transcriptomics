@@ -1,0 +1,17 @@
+{
+  "scope": [
+    "repository",
+    "release_assets"
+  ],
+  "files": 45,
+  "counts": {
+    "text": 47,
+    "gzip": 13
+  },
+  "findings": [],
+  "read_errors": [],
+  "RDS_scope": "Decompressed printable strings only; this audit does not deserialize/evaluate objects.",
+  "RDS_inventory": [],
+  "filename_scan_included": true,
+  "raw_values_printed": false
+}

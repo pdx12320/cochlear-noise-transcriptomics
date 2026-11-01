@@ -1,0 +1,19 @@
+{
+  "iterations_per_program_per_matching_mode": 100,
+  "programs": 4,
+  "matching_modes": 2,
+  "prespecified_tests_per_mode": 6,
+  "wall_seconds": 79.32,
+  "max_resident_kbytes": 5955712,
+  "max_resident_GiB": 5.6798095703125,
+  "cpu_threads": 1,
+  "memory_limit_GiB": 24,
+  "wall_limit_seconds": 300,
+  "exit_status": 0,
+  "full_run_started": true,
+  "full_iterations": 10000,
+  "full_wall_limit_seconds": 2400,
+  "same_parameters_as_original": true,
+  "rank_cache_reused_read_only": true,
+  "checkpoint_frequency": "after each program/matching-mode block"
+}

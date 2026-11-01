@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+SGN_naive_1	GSM5124291	Naive	1	SGN	Pericyte / vascular smooth muscle	35	155973	1.0172064042510298	4.440423124562036
+SGN_naive_2	GSM5124292	Naive	2	SGN	Pericyte / vascular smooth muscle	98	385127	7.253355768779215	2.2810526826811732
+SGN_naive_3	GSM5124293	Naive	3	SGN	Pericyte / vascular smooth muscle	44	178886	10.357236205477394	2.0120779743615436
+SGN_naive_4	GSM5124294	Naive	4	SGN	Pericyte / vascular smooth muscle	47	165194	8.413032341778473	9.280561583399628
+SGN_noise_1	GSM5124295	Noise	1	SGN	Pericyte / vascular smooth muscle	58	248741	0.13091577682875286	1.4607788063573588
+SGN_noise_2	GSM5124296	Noise	2	SGN	Pericyte / vascular smooth muscle	26	119240	12.03242140267241	4.887285409633281
+SGN_noise_3	GSM5124297	Noise	3	SGN	Pericyte / vascular smooth muscle	27	122333	-3.8981482129947964	-33.084319464078625
+SGN_noise_4	GSM5124298	Noise	4	SGN	Pericyte / vascular smooth muscle	30	144543	-35.306019686792446	8.722139883083644

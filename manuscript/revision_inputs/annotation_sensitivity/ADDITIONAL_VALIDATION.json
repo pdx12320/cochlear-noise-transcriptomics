@@ -1,0 +1,9 @@
+{
+  "cache_matches_user_supplied_archive": true,
+  "original_UCell_summary_rows_verified": 42,
+  "maximum_error": 9.992007221626409e-16,
+  "all_original_main11_retained": true,
+  "newly_stable_genes": [
+    "Cebpb"
+  ]
+}

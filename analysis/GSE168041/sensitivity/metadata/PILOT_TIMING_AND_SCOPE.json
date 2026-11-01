@@ -1,0 +1,22 @@
+{
+  "status": "PILOT_PASS",
+  "DE_fit_internal_seconds": 12.896607126109302,
+  "DE_total_wall_seconds": 23.9,
+  "GSEA_total_wall_seconds": 16.06,
+  "max_observed_process_rss_kib": 337272,
+  "estimated_remaining_sequential_minutes": 31.301999999999996,
+  "execution_concurrency_amendment": {
+    "active_tasks_max": 2,
+    "inference_workers_per_fit": 8,
+    "inference_workers_total_max": 16,
+    "fgsea_processes_per_task": 1,
+    "BLAS_OpenMP_threads_per_process": 1,
+    "expected_wall_minutes": [
+      18,
+      22
+    ],
+    "controller_budget_seconds": 3600
+  },
+  "new_dependencies_installed": false,
+  "scientific_parameters_changed": false
+}

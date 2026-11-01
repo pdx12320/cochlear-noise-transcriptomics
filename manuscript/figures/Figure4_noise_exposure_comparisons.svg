@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.083333in" height="6.583333in" viewBox="0 0 510 474">
+<rect width="100%" height="100%" fill="white"/>
+<text x="8" y="16" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 8 16)">a</text>
+<text x="24" y="16" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 16)">Whole-cochlea pathway responses in GSE160639</text>
+<text x="262" y="39" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 262 39)">94 dB vs 70 dB</text>
+<text x="356" y="39" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 356 39)">105 dB vs 70 dB</text>
+<text x="450" y="39" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 450 39)">105 dB vs 94 dB</text>
+<text x="207" y="67" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 67)">TNF signaling via NF-kB</text>
+<rect x="217" y="50" width="89" height="25" fill="#d47d6f" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="61" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 261.5 61)">+2.56*</text>
+<text x="261.5" y="71" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 261.5 71)">q = 3.4e-18</text>
+<rect x="311" y="50" width="89" height="25" fill="#ce695a" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="61" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 355.5 61)">+2.98*</text>
+<text x="355.5" y="71" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 355.5 71)">q = 4.4e-24</text>
+<rect x="405" y="50" width="89" height="25" fill="#b4ccd9" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="61" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 61)">-1.14</text>
+<text x="449.5" y="71" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 71)">q = 0.223</text>
+<text x="207" y="94" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 94)">Inflammatory response</text>
+<rect x="217" y="77" width="89" height="25" fill="#e5bab2" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="88" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 88)">+1.26</text>
+<text x="261.5" y="98" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 98)">q = 0.100</text>
+<rect x="311" y="77" width="89" height="25" fill="#e3b5ad" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="88" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 88)">+1.35*</text>
+<text x="355.5" y="98" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 98)">q = 0.028</text>
+<rect x="405" y="77" width="89" height="25" fill="#c1d4de" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="88" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 88)">-0.91</text>
+<text x="449.5" y="98" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 98)">q = 0.722</text>
+<text x="207" y="121" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 121)">Cytokine-mediated signaling</text>
+<rect x="217" y="104" width="89" height="25" fill="#e5bab2" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="115" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 115)">+1.26*</text>
+<text x="261.5" y="125" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 125)">q = 0.027</text>
+<rect x="311" y="104" width="89" height="25" fill="#e3b4ac" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="115" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 115)">+1.38*</text>
+<text x="355.5" y="125" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 125)">q = 0.006</text>
+<rect x="405" y="104" width="89" height="25" fill="#bad0dc" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="115" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 115)">-1.02</text>
+<text x="449.5" y="125" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 125)">q = 0.425</text>
+<text x="207" y="148" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 148)">Unfolded protein response</text>
+<rect x="217" y="131" width="89" height="25" fill="#da9489" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="142" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 142)">+2.06*</text>
+<text x="261.5" y="152" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 152)">q = 3.8e-06</text>
+<rect x="311" y="131" width="89" height="25" fill="#d47f72" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="142" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 355.5 142)">+2.51*</text>
+<text x="355.5" y="152" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 355.5 152)">q = 5.2e-10</text>
+<rect x="405" y="131" width="89" height="25" fill="#b5cdda" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="142" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 142)">-1.10</text>
+<text x="449.5" y="152" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 152)">q = 0.298</text>
+<text x="207" y="175" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 175)">Protein folding</text>
+<rect x="217" y="158" width="89" height="25" fill="#dea096" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="169" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 169)">+1.80*</text>
+<text x="261.5" y="179" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 179)">q = 2.8e-05</text>
+<rect x="311" y="158" width="89" height="25" fill="#d99084" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="169" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 169)">+2.15*</text>
+<text x="355.5" y="179" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 179)">q = 3.1e-08</text>
+<rect x="405" y="158" width="89" height="25" fill="#b0cad8" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="169" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 169)">-1.19</text>
+<text x="449.5" y="179" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 179)">q = 0.148</text>
+<text x="207" y="202" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 202)">Response to ER stress</text>
+<rect x="217" y="185" width="89" height="25" fill="#e3b4ac" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="196" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 196)">+1.38*</text>
+<text x="261.5" y="206" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 206)">q = 0.013</text>
+<rect x="311" y="185" width="89" height="25" fill="#e3b4ab" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="196" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 196)">+1.39*</text>
+<text x="355.5" y="206" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 206)">q = 0.012</text>
+<rect x="405" y="185" width="89" height="25" fill="#aec8d7" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="196" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 196)">-1.23</text>
+<text x="449.5" y="206" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 206)">q = 0.094</text>
+<text x="207" y="229" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 229)">Reactive oxygen species pathway</text>
+<rect x="217" y="212" width="89" height="25" fill="#db968b" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="223" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 223)">+2.01*</text>
+<text x="261.5" y="233" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 233)">q = 1.4e-04</text>
+<rect x="311" y="212" width="89" height="25" fill="#dd9f94" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="223" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 223)">+1.84*</text>
+<text x="355.5" y="233" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 233)">q = 0.003</text>
+<rect x="405" y="212" width="89" height="25" fill="#9fbfd1" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="223" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 223)">-1.49</text>
+<text x="449.5" y="233" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 233)">q = 0.060</text>
+<text x="207" y="256" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 256)">Response to oxidative stress</text>
+<rect x="217" y="239" width="89" height="25" fill="#e3b2aa" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="250" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 250)">+1.42*</text>
+<text x="261.5" y="260" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 260)">q = 0.003</text>
+<rect x="311" y="239" width="89" height="25" fill="#dfa79e" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="250" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 250)">+1.65*</text>
+<text x="355.5" y="260" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 260)">q = 2.8e-05</text>
+<rect x="405" y="239" width="89" height="25" fill="#e7c1ba" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="250" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 250)">+1.10</text>
+<text x="449.5" y="260" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 260)">q = 0.159</text>
+<text x="207" y="283" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 207 283)">Apoptosis</text>
+<rect x="217" y="266" width="89" height="25" fill="#e2b2a9" stroke="none" stroke-width="0.5"/>
+<text x="261.5" y="277" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 277)">+1.43*</text>
+<text x="261.5" y="287" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 261.5 287)">q = 0.016</text>
+<rect x="311" y="266" width="89" height="25" fill="#e0a9a0" stroke="none" stroke-width="0.5"/>
+<text x="355.5" y="277" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 277)">+1.62*</text>
+<text x="355.5" y="287" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 355.5 287)">q = 0.003</text>
+<rect x="405" y="266" width="89" height="25" fill="#c2d5df" stroke="none" stroke-width="0.5"/>
+<text x="449.5" y="277" font-family="Arial, sans-serif" font-size="8" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 277)">-0.89</text>
+<text x="449.5" y="287" font-family="Arial, sans-serif" font-size="6.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 449.5 287)">q = 0.743</text>
+<text x="217" y="309" font-family="Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 217 309)">NES</text>
+<rect x="242.0" y="299" width="1.5" height="8" fill="#377da8" stroke="none" stroke-width="0.5"/>
+<rect x="243.4" y="299" width="1.5" height="8" fill="#3b7faa" stroke="none" stroke-width="0.5"/>
+<rect x="244.8" y="299" width="1.5" height="8" fill="#3f82ab" stroke="none" stroke-width="0.5"/>
+<rect x="246.2" y="299" width="1.5" height="8" fill="#4384ad" stroke="none" stroke-width="0.5"/>
+<rect x="247.6" y="299" width="1.5" height="8" fill="#4687ae" stroke="none" stroke-width="0.5"/>
+<rect x="249.0" y="299" width="1.5" height="8" fill="#4a89b0" stroke="none" stroke-width="0.5"/>
+<rect x="250.4" y="299" width="1.5" height="8" fill="#4e8cb1" stroke="none" stroke-width="0.5"/>
+<rect x="251.8" y="299" width="1.5" height="8" fill="#528eb3" stroke="none" stroke-width="0.5"/>
+<rect x="253.2" y="299" width="1.5" height="8" fill="#5690b4" stroke="none" stroke-width="0.5"/>
+<rect x="254.6" y="299" width="1.5" height="8" fill="#5a93b6" stroke="none" stroke-width="0.5"/>
+<rect x="256.0" y="299" width="1.5" height="8" fill="#5d95b7" stroke="none" stroke-width="0.5"/>
+<rect x="257.4" y="299" width="1.5" height="8" fill="#6198b9" stroke="none" stroke-width="0.5"/>
+<rect x="258.8" y="299" width="1.5" height="8" fill="#659aba" stroke="none" stroke-width="0.5"/>
+<rect x="260.2" y="299" width="1.5" height="8" fill="#699dbc" stroke="none" stroke-width="0.5"/>
+<rect x="261.6" y="299" width="1.5" height="8" fill="#6d9fbd" stroke="none" stroke-width="0.5"/>
+<rect x="263.0" y="299" width="1.5" height="8" fill="#71a1bf" stroke="none" stroke-width="0.5"/>
+<rect x="264.4" y="299" width="1.5" height="8" fill="#74a4c0" stroke="none" stroke-width="0.5"/>
+<rect x="265.8" y="299" width="1.5" height="8" fill="#78a6c2" stroke="none" stroke-width="0.5"/>
+<rect x="267.2" y="299" width="1.5" height="8" fill="#7ca9c3" stroke="none" stroke-width="0.5"/>
+<rect x="268.6" y="299" width="1.5" height="8" fill="#80abc5" stroke="none" stroke-width="0.5"/>
+<rect x="270.0" y="299" width="1.5" height="8" fill="#84adc6" stroke="none" stroke-width="0.5"/>
+<rect x="271.4" y="299" width="1.5" height="8" fill="#88b0c8" stroke="none" stroke-width="0.5"/>
+<rect x="272.8" y="299" width="1.5" height="8" fill="#8bb2c9" stroke="none" stroke-width="0.5"/>
+<rect x="274.2" y="299" width="1.5" height="8" fill="#8fb5cb" stroke="none" stroke-width="0.5"/>
+<rect x="275.6" y="299" width="1.5" height="8" fill="#93b7cc" stroke="none" stroke-width="0.5"/>
+<rect x="277.0" y="299" width="1.5" height="8" fill="#97bace" stroke="none" stroke-width="0.5"/>
+<rect x="278.4" y="299" width="1.5" height="8" fill="#9bbccf" stroke="none" stroke-width="0.5"/>
+<rect x="279.8" y="299" width="1.5" height="8" fill="#9fbed1" stroke="none" stroke-width="0.5"/>
+<rect x="281.2" y="299" width="1.5" height="8" fill="#a2c1d2" stroke="none" stroke-width="0.5"/>
+<rect x="282.6" y="299" width="1.5" height="8" fill="#a6c3d4" stroke="none" stroke-width="0.5"/>
+<rect x="284.0" y="299" width="1.5" height="8" fill="#aac6d5" stroke="none" stroke-width="0.5"/>
+<rect x="285.4" y="299" width="1.5" height="8" fill="#aec8d7" stroke="none" stroke-width="0.5"/>
+<rect x="286.8" y="299" width="1.5" height="8" fill="#b2cbd8" stroke="none" stroke-width="0.5"/>
+<rect x="288.2" y="299" width="1.5" height="8" fill="#b6cdda" stroke="none" stroke-width="0.5"/>
+<rect x="289.6" y="299" width="1.5" height="8" fill="#bacfdc" stroke="none" stroke-width="0.5"/>
+<rect x="291.0" y="299" width="1.5" height="8" fill="#bdd2dd" stroke="none" stroke-width="0.5"/>
+<rect x="292.4" y="299" width="1.5" height="8" fill="#c1d4df" stroke="none" stroke-width="0.5"/>
+<rect x="293.8" y="299" width="1.5" height="8" fill="#c5d7e0" stroke="none" stroke-width="0.5"/>
+<rect x="295.2" y="299" width="1.5" height="8" fill="#c9d9e2" stroke="none" stroke-width="0.5"/>
+<rect x="296.6" y="299" width="1.5" height="8" fill="#cddce3" stroke="none" stroke-width="0.5"/>
+<rect x="298.0" y="299" width="1.5" height="8" fill="#d1dee5" stroke="none" stroke-width="0.5"/>
+<rect x="299.4" y="299" width="1.5" height="8" fill="#d4e0e6" stroke="none" stroke-width="0.5"/>
+<rect x="300.8" y="299" width="1.5" height="8" fill="#d8e3e8" stroke="none" stroke-width="0.5"/>
+<rect x="302.2" y="299" width="1.5" height="8" fill="#dce5e9" stroke="none" stroke-width="0.5"/>
+<rect x="303.6" y="299" width="1.5" height="8" fill="#e0e8eb" stroke="none" stroke-width="0.5"/>
+<rect x="305.0" y="299" width="1.5" height="8" fill="#e4eaec" stroke="none" stroke-width="0.5"/>
+<rect x="306.4" y="299" width="1.5" height="8" fill="#e8edee" stroke="none" stroke-width="0.5"/>
+<rect x="307.8" y="299" width="1.5" height="8" fill="#ebefef" stroke="none" stroke-width="0.5"/>
+<rect x="309.2" y="299" width="1.5" height="8" fill="#eff1f1" stroke="none" stroke-width="0.5"/>
+<rect x="310.6" y="299" width="1.5" height="8" fill="#f3f4f2" stroke="none" stroke-width="0.5"/>
+<rect x="312.0" y="299" width="1.5" height="8" fill="#f5f3f1" stroke="none" stroke-width="0.5"/>
+<rect x="313.4" y="299" width="1.5" height="8" fill="#f4f0ee" stroke="none" stroke-width="0.5"/>
+<rect x="314.8" y="299" width="1.5" height="8" fill="#f3edea" stroke="none" stroke-width="0.5"/>
+<rect x="316.2" y="299" width="1.5" height="8" fill="#f2eae7" stroke="none" stroke-width="0.5"/>
+<rect x="317.6" y="299" width="1.5" height="8" fill="#f1e7e4" stroke="none" stroke-width="0.5"/>
+<rect x="319.0" y="299" width="1.5" height="8" fill="#f0e4e0" stroke="none" stroke-width="0.5"/>
+<rect x="320.4" y="299" width="1.5" height="8" fill="#efe1dd" stroke="none" stroke-width="0.5"/>
+<rect x="321.8" y="299" width="1.5" height="8" fill="#eeded9" stroke="none" stroke-width="0.5"/>
+<rect x="323.2" y="299" width="1.5" height="8" fill="#eedad6" stroke="none" stroke-width="0.5"/>
+<rect x="324.6" y="299" width="1.5" height="8" fill="#edd7d2" stroke="none" stroke-width="0.5"/>
+<rect x="326.0" y="299" width="1.5" height="8" fill="#ecd4cf" stroke="none" stroke-width="0.5"/>
+<rect x="327.4" y="299" width="1.5" height="8" fill="#ebd1cc" stroke="none" stroke-width="0.5"/>
+<rect x="328.8" y="299" width="1.5" height="8" fill="#eacec8" stroke="none" stroke-width="0.5"/>
+<rect x="330.2" y="299" width="1.5" height="8" fill="#e9cbc5" stroke="none" stroke-width="0.5"/>
+<rect x="331.6" y="299" width="1.5" height="8" fill="#e8c8c1" stroke="none" stroke-width="0.5"/>
+<rect x="333.0" y="299" width="1.5" height="8" fill="#e8c4be" stroke="none" stroke-width="0.5"/>
+<rect x="334.4" y="299" width="1.5" height="8" fill="#e7c1ba" stroke="none" stroke-width="0.5"/>
+<rect x="335.8" y="299" width="1.5" height="8" fill="#e6beb7" stroke="none" stroke-width="0.5"/>
+<rect x="337.2" y="299" width="1.5" height="8" fill="#e5bbb3" stroke="none" stroke-width="0.5"/>
+<rect x="338.6" y="299" width="1.5" height="8" fill="#e4b8b0" stroke="none" stroke-width="0.5"/>
+<rect x="340.0" y="299" width="1.5" height="8" fill="#e3b5ad" stroke="none" stroke-width="0.5"/>
+<rect x="341.4" y="299" width="1.5" height="8" fill="#e2b2a9" stroke="none" stroke-width="0.5"/>
+<rect x="342.8" y="299" width="1.5" height="8" fill="#e1afa6" stroke="none" stroke-width="0.5"/>
+<rect x="344.2" y="299" width="1.5" height="8" fill="#e1aba2" stroke="none" stroke-width="0.5"/>
+<rect x="345.6" y="299" width="1.5" height="8" fill="#e0a89f" stroke="none" stroke-width="0.5"/>
+<rect x="347.0" y="299" width="1.5" height="8" fill="#dfa59b" stroke="none" stroke-width="0.5"/>
+<rect x="348.4" y="299" width="1.5" height="8" fill="#dea298" stroke="none" stroke-width="0.5"/>
+<rect x="349.8" y="299" width="1.5" height="8" fill="#dd9f95" stroke="none" stroke-width="0.5"/>
+<rect x="351.2" y="299" width="1.5" height="8" fill="#dc9c91" stroke="none" stroke-width="0.5"/>
+<rect x="352.6" y="299" width="1.5" height="8" fill="#db998e" stroke="none" stroke-width="0.5"/>
+<rect x="354.0" y="299" width="1.5" height="8" fill="#db958a" stroke="none" stroke-width="0.5"/>
+<rect x="355.4" y="299" width="1.5" height="8" fill="#da9287" stroke="none" stroke-width="0.5"/>
+<rect x="356.8" y="299" width="1.5" height="8" fill="#d98f83" stroke="none" stroke-width="0.5"/>
+<rect x="358.2" y="299" width="1.5" height="8" fill="#d88c80" stroke="none" stroke-width="0.5"/>
+<rect x="359.6" y="299" width="1.5" height="8" fill="#d7897d" stroke="none" stroke-width="0.5"/>
+<rect x="361.0" y="299" width="1.5" height="8" fill="#d68679" stroke="none" stroke-width="0.5"/>
+<rect x="362.4" y="299" width="1.5" height="8" fill="#d58376" stroke="none" stroke-width="0.5"/>
+<rect x="363.8" y="299" width="1.5" height="8" fill="#d48072" stroke="none" stroke-width="0.5"/>
+<rect x="365.2" y="299" width="1.5" height="8" fill="#d47c6f" stroke="none" stroke-width="0.5"/>
+<rect x="366.6" y="299" width="1.5" height="8" fill="#d3796b" stroke="none" stroke-width="0.5"/>
+<rect x="368.0" y="299" width="1.5" height="8" fill="#d27668" stroke="none" stroke-width="0.5"/>
+<rect x="369.4" y="299" width="1.5" height="8" fill="#d17364" stroke="none" stroke-width="0.5"/>
+<rect x="370.79999999999995" y="299" width="1.5" height="8" fill="#d07061" stroke="none" stroke-width="0.5"/>
+<rect x="372.2" y="299" width="1.5" height="8" fill="#cf6d5e" stroke="none" stroke-width="0.5"/>
+<rect x="373.6" y="299" width="1.5" height="8" fill="#ce6a5a" stroke="none" stroke-width="0.5"/>
+<rect x="375.0" y="299" width="1.5" height="8" fill="#cd6757" stroke="none" stroke-width="0.5"/>
+<rect x="376.4" y="299" width="1.5" height="8" fill="#cd6353" stroke="none" stroke-width="0.5"/>
+<rect x="377.79999999999995" y="299" width="1.5" height="8" fill="#cc6050" stroke="none" stroke-width="0.5"/>
+<rect x="379.2" y="299" width="1.5" height="8" fill="#cb5d4c" stroke="none" stroke-width="0.5"/>
+<rect x="380.6" y="299" width="1.5" height="8" fill="#ca5a49" stroke="none" stroke-width="0.5"/>
+<text x="242" y="319" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 242 319)">−3.3</text>
+<text x="312" y="319" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 312 319)">0</text>
+<text x="382" y="319" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 382 319)">+3.3</text>
+<text x="495" y="309" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 495 309)">* Global q &lt; 0.05</text>
+<text x="8" y="342" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 8 342)">b</text>
+<text x="24" y="342" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 342)">Differentially expressed genes across exposure comparisons</text>
+<text x="151" y="369" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 151 369)">94 dB vs 70 dB</text>
+<rect x="199.1052857142857" y="361" width="126.39471428571429" height="10" fill="#377DA8" stroke="none" stroke-width="0.5"/>
+<rect x="325.5" y="361" width="146.77485714285714" height="10" fill="#CA5A49" stroke="none" stroke-width="0.5"/>
+<text x="195.1052857142857" y="369" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 195.1052857142857 369)">2673</text>
+<text x="476.2748571428572" y="369" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 476.2748571428572 369)">3104</text>
+<text x="151" y="393" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 151 393)">105 dB vs 70 dB</text>
+<rect x="307.626" y="385" width="17.874" height="10" fill="#377DA8" stroke="none" stroke-width="0.5"/>
+<rect x="325.5" y="385" width="24.163" height="10" fill="#CA5A49" stroke="none" stroke-width="0.5"/>
+<text x="303.626" y="393" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 303.626 393)">378</text>
+<text x="353.663" y="393" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 353.663 393)">511</text>
+<text x="151" y="417" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 151 417)">105 dB vs 94 dB</text>
+<rect x="218.20871428571428" y="409" width="107.2912857142857" height="10" fill="#377DA8" stroke="none" stroke-width="0.5"/>
+<rect x="325.5" y="409" width="90.22114285714285" height="10" fill="#CA5A49" stroke="none" stroke-width="0.5"/>
+<text x="214.20871428571428" y="417" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 214.20871428571428 417)">2269</text>
+<text x="419.72114285714287" y="417" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 419.72114285714287 417)">1908</text>
+<line x1="325.5" y1="355" x2="325.5" y2="424" stroke="#171717" stroke-width="0.6" />
+<line x1="160" y1="430" x2="491" y2="430" stroke="#171717" stroke-width="0.6" />
+<line x1="183.64285714285714" y1="430" x2="183.64285714285714" y2="433" stroke="#171717" stroke-width="0.5" />
+<text x="183.64285714285714" y="443" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 183.64285714285714 443)">-3000</text>
+<line x1="254.57142857142856" y1="430" x2="254.57142857142856" y2="433" stroke="#171717" stroke-width="0.5" />
+<text x="254.57142857142856" y="443" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 254.57142857142856 443)">-1500</text>
+<line x1="325.5" y1="430" x2="325.5" y2="433" stroke="#171717" stroke-width="0.5" />
+<text x="325.5" y="443" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 325.5 443)">0</text>
+<line x1="396.42857142857144" y1="430" x2="396.42857142857144" y2="433" stroke="#171717" stroke-width="0.5" />
+<text x="396.42857142857144" y="443" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 396.42857142857144 443)">1500</text>
+<line x1="467.3571428571429" y1="430" x2="467.3571428571429" y2="433" stroke="#171717" stroke-width="0.5" />
+<text x="467.3571428571429" y="443" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 467.3571428571429 443)">3000</text>
+<text x="235" y="459" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 235 459)">Lower in numerator</text>
+<text x="419" y="459" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 419 459)">Higher in numerator</text>
+</svg>

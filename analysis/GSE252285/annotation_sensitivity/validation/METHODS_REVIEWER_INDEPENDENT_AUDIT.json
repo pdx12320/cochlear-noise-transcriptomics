@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "scope": "Read-only independent summary verification; no model or data changes",
+  "original_condition_rows_matched": 420,
+  "original_expression_max_absolute_errors": {
+    "mean_expression": 0.0,
+    "n_total_cells": 0.0,
+    "n_expressing_old": 0.0,
+    "pct_expressing_old": 9.947598300641403e-14
+  },
+  "changed_labels": 319,
+  "changed_cluster": 19,
+  "label_change": "UNRESOLVED to Fibrocyte_mesenchymal",
+  "stable_mean_localization_genes": {
+    "c19_fibrocyte": [
+      "Apold1",
+      "Ccn1",
+      "Cebpb",
+      "Depp1",
+      "Dusp1",
+      "Egr1",
+      "Errfi1",
+      "Fosb",
+      "Nfkbia",
+      "Nr4a1",
+      "Rasd1",
+      "Sik1"
+    ],
+    "original": [
+      "Apold1",
+      "Ccn1",
+      "Depp1",
+      "Dusp1",
+      "Egr1",
+      "Errfi1",
+      "Fosb",
+      "Nfkbia",
+      "Nr4a1",
+      "Rasd1",
+      "Sik1"
+    ]
+  },
+  "original_11_retained": true,
+  "newly_stable": [
+    "Cebpb"
+  ],
+  "original_UCell_broad_rows_matched": 42,
+  "Apold1_cluster19_mean": 1.5854305469431,
+  "Apold1_cluster19_pct": 75.8620689655172,
+  "Apold1_pooled_endothelial_mean": 1.33751469761804,
+  "Apold1_pooled_endothelial_pct": 66.9090909090909
+}

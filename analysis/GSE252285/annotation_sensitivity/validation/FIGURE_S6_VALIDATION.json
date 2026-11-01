@@ -1,0 +1,23 @@
+{
+  "figure": "FigureS6_annotation_sensitivity",
+  "pages": 1,
+  "pdf_dimensions_pt": [
+    600.0,
+    790.0
+  ],
+  "visual_inspection": "PASS: no clipped/overlapping labels; all 20 genes and 12 matched-null rows visible; original/revised legend and non-significant MAPK hollow markers explicit",
+  "MAPK_primary_q_display": [
+    "0.0724",
+    "0.0725"
+  ],
+  "MAPK_length_q_display": [
+    "0.0817",
+    "0.0817"
+  ],
+  "source_table_rows": {
+    "A_assignments_including_full_mean_detection": 160,
+    "A_stability": 20,
+    "B": 12
+  },
+  "pdf_sha256": "02dbe07f972ccbd3e908679d035e728d5439469b1865bc3f4f5d32cc8c7b339b"
+}

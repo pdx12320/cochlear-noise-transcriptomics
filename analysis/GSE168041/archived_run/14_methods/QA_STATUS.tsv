@@ -1,0 +1,14 @@
+check	status	observed	expected
+manifest_16_samples	PASS	16	16 unique GSM
+raw_cell_total	PASS	71743	71743
+qc_cell_total	PASS	69036	69036
+final_singlet_total	PASS	64705	64705
+all_pseudobulk_audits	PASS	{'PASS': 16}	all PASS/integer/identity
+formal_models	PASS	13	13
+DE_models	PASS	13	13
+GSEA_mapping	PASS	13	13
+GSEA_overlap_floor	PASS	min genes=5976, min fraction=0.491	>=1000 and >=0.10
+annotation_hash	PASS	28ad95e6596e164dec4807d294ea0ff1e52618881ef53c8dbf26723bac5d6864	28ad95e6596e164dec4807d294ea0ff1e52618881ef53c8dbf26723bac5d6864
+program_rows	PASS	6	6
+candidate_rows	PASS	DE=2, context=4	2 and 4
+required_figure_pairs	PASS	missing=	all PNG+PDF

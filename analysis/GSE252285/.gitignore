@@ -1,0 +1,73 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# R and Python transient state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rlib/
+renv/library/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+.Renviron
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+.local/
+
+# Raw sequencing and Cell Ranger data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+raw_feature_bc_matrix/
+filtered_feature_bc_matrix/
+outs/
+01_input/
+02_processed/
+
+# Public processed matrix inputs remain external
+GSE*_matrix.mtx
+GSE*_matrix.mtx.gz
+GSE*_features.tsv
+GSE*_features.tsv.gz
+GSE*_barcodes.tsv
+GSE*_barcodes.tsv.gz
+
+# Large single-cell objects and result archives
+*.rds
+*.RDS
+*.h5
+*.h5ad
+*.hdf5
+*.loom
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+06_objects/
+
+# Project-local runtimes and scratch outputs
+work/r_env/
+tmp/
+scratch/

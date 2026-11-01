@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "public_files": 921,
+  "copied_files": 917,
+  "path_redacted_files": 51,
+  "all 48_DE_and_GSEA_numeric_tables_byte_identical": true,
+  "private_path_scan": "PASS",
+  "asset": "GSE168041_LOO_Sensitivity_20261101.tar.gz",
+  "asset_bytes": 67555809,
+  "asset_sha256": "e5aee91475f6932e23bf66eae16f5842998d18aef6d951f454fa0b1b42f6f811",
+  "public_directory": "public/"
+}

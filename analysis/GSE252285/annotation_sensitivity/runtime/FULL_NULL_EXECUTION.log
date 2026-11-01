@@ -1,0 +1,40 @@
+bash: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+[LOCAL]/.bashrc: line 3: export: `[LOCAL]/.bashrc': not a valid identifier
+Read frozen signatures
+Read fixed object and calculate detectable-gene covariates
+Parse GENCODE vM23 gene-span lengths for sensitivity
+Precompute UCell rankings
+Validate sparse UCell implementation against official UCell API
+Score observed detectable signatures
+Null: primary / MAPK_AP1 / B=10000
+Null: primary / VEGF_ANGIOGENESIS / B=10000
+Null: primary / TNFA_NFKB / B=10000
+Null: primary / IL6_JAK_STAT3 / B=10000
+Null: length_sensitivity / MAPK_AP1 / B=10000
+Null: length_sensitivity / VEGF_ANGIOGENESIS / B=10000
+Null: length_sensitivity / TNFA_NFKB / B=10000
+Null: length_sensitivity / IL6_JAK_STAT3 / B=10000
+Completed paired original versus cluster19 annotation sensitivity; B=10000
+	Command being timed: "timeout 2400 [LOCAL]/Rscript --vanilla [LOCAL]/run_matched_null_annotation_sensitivity.R [LOCAL]/02_no_doublet_annotated_tsne.rds [LOCAL]/gene_sets [LOCAL]/gencode.vM23.annotation.gtf.gz [LOCAL]/null_final_10000 [LOCAL]/ucell_ranks_maxRank1500.rds [LOCAL]/outputs"
+	User time (seconds): 966.76
+	System time (seconds): 104.34
+	Percent of CPU this job got: 100%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 17:49.85
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 7592536
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 21
+	Minor (reclaiming a frame) page faults: 75877844
+	Voluntary context switches: 26731
+	Involuntary context switches: 1054
+	Swaps: 0
+	File system inputs: 31096
+	File system outputs: 61016
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

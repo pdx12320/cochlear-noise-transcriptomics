@@ -1,0 +1,5 @@
+candidate	gene_symbol	cell_type	condition	n_cells	detected_cells	detection_fraction	mean_raw_counts_per_cell	median_raw_counts_per_cell
+APOLD1	Apold1	Endothelial	Naive	1464	1067	0.7288251366120219	2.8012295081967213	2.0
+APOLD1	Apold1	Endothelial	Noise	1477	1165	0.7887610020311442	3.5125253893026405	2.0
+ERRFI1	Errfi1	Fibrocyte / mesenchymal	Naive	1985	1178	0.5934508816120907	1.5863979848866498	1.0
+ERRFI1	Errfi1	Fibrocyte / mesenchymal	Noise	1809	1008	0.5572139303482587	1.6976229961304588	1.0

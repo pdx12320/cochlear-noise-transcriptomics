@@ -1,0 +1,7 @@
+grouping_level	condition	group	n_total_cells	warning
+broad_cell_type	Control	Hair_sensory	1	LOW_CELL_COUNT
+broad_cell_type	HHL	Hair_sensory	15	LOW_CELL_COUNT
+broad_cell_type	NIHL	Hair_sensory	8	LOW_CELL_COUNT
+cluster	Control	27	1	LOW_CELL_COUNT
+cluster	HHL	27	15	LOW_CELL_COUNT
+cluster	NIHL	27	8	LOW_CELL_COUNT

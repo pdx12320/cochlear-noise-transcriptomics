@@ -1,0 +1,5 @@
+step	n_cells	definition
+INITIAL_CELLS	39092	official processed matrix barcodes
+ROBUST_QC_RETAINED	36111	exact existing per-library robust-QC pass set
+DOUBLETS_REMOVED	0	not performed in this sensitivity branch
+FINAL_CELLS	36111	all robust-QC cells; no doublet filter

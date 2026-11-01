@@ -1,0 +1,1 @@
+Figure build validation and publication-copy transformations. Canonical scientific scripts and result checks are in ../../analysis/. The versioned manifest at ../../manifests/REPOSITORY_FILES.tsv covers these files.

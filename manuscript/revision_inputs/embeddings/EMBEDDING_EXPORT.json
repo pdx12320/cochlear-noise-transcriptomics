@@ -1,0 +1,40 @@
+[
+  {
+    "tissue": "SGN",
+    "cells": 31556,
+    "source_object": "SGN_annotated.h5ad",
+    "source_sha256": "98a2c0588a015d731c3274b03aa21fcf2bdcc30efe47a2f3390f87c075cb6695",
+    "embedding_key": "X_umap",
+    "no_coordinates_recomputed": true,
+    "broad_counts": {
+      "Neuronal / SGN": 10276,
+      "Epithelial / supporting-associated": 6907,
+      "Fibrocyte / mesenchymal": 6760,
+      "Glial / Schwann-like": 3462,
+      "Immune / myeloid": 1554,
+      "Endothelial": 1101,
+      "UNRESOLVED": 881,
+      "Pericyte / vascular smooth muscle": 365,
+      "Melanocyte / intermediate": 250
+    },
+    "output_sha256": "15260c657d305dc486a3f88d4d00b1ab9f6611a0b688244877b7072a906f2ad9"
+  },
+  {
+    "tissue": "Lateral_wall",
+    "cells": 33149,
+    "source_object": "Lateral_wall_annotated.h5ad",
+    "source_sha256": "28230c28132be656e599b169c3af6c2f85aee0f5361b559fb2f7736b50ef1a91",
+    "embedding_key": "X_umap",
+    "no_coordinates_recomputed": true,
+    "broad_counts": {
+      "Melanocyte / intermediate": 13134,
+      "Epithelial / supporting-associated": 11338,
+      "Fibrocyte / mesenchymal": 3794,
+      "Endothelial": 2941,
+      "Pericyte / vascular smooth muscle": 926,
+      "Immune / myeloid": 673,
+      "UNRESOLVED": 343
+    },
+    "output_sha256": "504d249cdc8845206223c681d0f9fd0d3ac166653c8fae8ac0a4cc11b15965d4"
+  }
+]

@@ -1,0 +1,13 @@
+category	pattern_or_artifact	reason	git_policy
+raw_sequencing	*.fastq.gz;*.fq.gz	Raw reads are large and outside this stage	EXCLUDED
+alignments	*.bam;*.cram;*.bai;*.crai	Large alignment files	EXCLUDED
+cellranger	outs/;raw_feature_bc_matrix/;filtered_feature_bc_matrix/	Large Cell Ranger directories	EXCLUDED
+processed_matrix	GSE252285_matrix.mtx.gz;GSE252285_features.tsv.gz;GSE252285_barcodes.tsv.gz	Public raw analysis inputs remain external	EXCLUDED
+seurat_objects	*.rds;*.h5;*.h5ad;*.loom	Large binary objects are outside Git; selected current objects are distributed as verified root release assets	EXCLUDED
+archives	*.tar.gz;*.tgz;*.zip	Redundant large release archives	EXCLUDED
+runtime	work/r_env/;.Rlib/	Large platform-specific environment	EXCLUDED
+credentials	.env;.Renviron;*.key;*.pem;SSH keys;tokens	Secrets and local configuration must never enter Git	EXCLUDED
+private_paths	.local/	Exact host and user-specific paths are local-only	EXCLUDED
+superseded_results	31,273-cell annotation v2/v3, legacy provisional and final-closure artifacts	Complete old objects/results excluded; minimal required barcode/label annotation prior is supplied in inputs/	EXCLUDED
+superseded_results	221-cell frozen-v3 focused endothelial artifacts	Belongs to the excluded 31,273-cell release	EXCLUDED
+superseded_results	LIB1/LIB2/LIB3-only descriptive release	Superseded by resolved Control/HHL/NIHL descriptive release	EXCLUDED

@@ -1,0 +1,6 @@
+fc2ac69dd78bc7841d6660a0bb43b9fd72ab6b972f7a3162742252967462ee63  official/GSE252285_barcodes.tsv.gz
+80a0e30cc4a3d7383a8dd17f81d84d1f4b47078acec32e1851b0ae8d6ac3f2a5  official/GSE252285_features.tsv.gz
+223f714a3d48a9b61c2ae53a5c0b6d2f0351ab4e43cc321afc8f1b201b20eafd  official/GSE252285_matrix.mtx.gz
+0ad24c56026cc4ffc52125842ec64b448b089fc1cdd7156c71facd6913809966  reference/refdata-gex-GRCm39-2024-A.tar.gz
+7724aae186acc1e76911784ff05d7f5a866cb243afbadb340edb92ab328c4704  reference/refdata-gex-mm10-2020-A.tar.gz
+5c4f9b142e3c30ad10ae15d25868df2b4fd05bdb3bbd47da0c83a7cc649b577e  software/cellranger-7.1.0.tar.gz

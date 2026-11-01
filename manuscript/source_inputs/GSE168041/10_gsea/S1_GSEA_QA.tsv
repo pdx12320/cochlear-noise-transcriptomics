@@ -1,0 +1,14 @@
+tissue	cell_type	de_rows	valid_symbol_finite_stat	duplicate_symbols	unique_rank_genes	positive_stats	negative_stats	zero_stats	tied_stat_rows	rank_genes_matching_any_set	rank_gene_set_union_overlap_fraction	eligible_gene_sets	tested_gene_sets	fdr05_gene_sets	status
+SGN	Endothelial	12667	12667	1	12666	5930	6736	0	6	7129	0.562845412916469	926	926	236	PASS
+SGN	Epithelial / supporting-associated	16405	16405	7	16398	7551	8847	0	6	8262	0.50384193194292	990	990	232	PASS
+SGN	Fibrocyte / mesenchymal	15703	15703	6	15697	7447	8250	0	4	8120	0.517296298655794	984	984	219	PASS
+SGN	Glial / Schwann-like	14077	14077	5	14072	7018	7054	0	12	7540	0.535815804434338	951	951	160	PASS
+SGN	Immune / myeloid	13489	13489	2	13487	6070	7417	0	28	7590	0.562764143249055	954	954	278	PASS
+SGN	Neuronal / SGN	17200	17200	11	17189	8600	8589	0	8	8446	0.491360753970563	1005	1005	241	PASS
+SGN	Pericyte / vascular smooth muscle	10104	10104	1	10103	4927	5176	0	50	5976	0.591507473027814	835	835	149	PASS
+Lateral_wall	Endothelial	13509	13509	3	13506	6599	6907	0	4	7327	0.542499629794166	929	929	224	PASS
+Lateral_wall	Epithelial / supporting-associated	16125	16125	6	16119	8063	8056	0	2	8119	0.503691295986103	985	985	206	PASS
+Lateral_wall	Fibrocyte / mesenchymal	14090	14090	4	14086	7267	6819	0	14	7560	0.536703109470396	954	954	165	PASS
+Lateral_wall	Immune / myeloid	11521	11521	1	11520	5877	5643	0	40	6796	0.589930555555556	898	898	262	PASS
+Lateral_wall	Melanocyte / intermediate	15583	15583	6	15577	7873	7704	0	16	7959	0.510945624959877	972	972	125	PASS
+Lateral_wall	Pericyte / vascular smooth muscle	10936	10936	0	10936	5274	5662	0	24	6378	0.583211411850768	872	872	143	PASS

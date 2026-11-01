@@ -1,0 +1,6 @@
+Scientific Reports initial-submission formatting: PASS
+Manuscript 18 pages; Supplementary Information 9 pages; cover letter 1 page.
+All rendered pages inspected. No unresolved references, missing glyphs or overflow.
+36 references and 34 DOI links; 6 main figures; all 8 supplementary figures and Table S1 cited.
+Scientific data and analysis parameters unchanged; panel letters and supplementary numbering standardized.
+See BUILD_VALIDATION.json and STATISTICAL_VALIDATION.json.

@@ -1,0 +1,17 @@
+tissue	cell_type	n_samples	n_genes	aggregate_count_sum	integer_counts	sample_identity_match	status
+SGN	Endothelial	8	27998	5286294	True	True	PASS
+SGN	Epithelial / supporting-associated	8	27998	37620942	True	True	PASS
+SGN	Fibrocyte / mesenchymal	8	27998	32125470	True	True	PASS
+SGN	Glial / Schwann-like	8	27998	15098255	True	True	PASS
+SGN	Immune / myeloid	8	27998	7934441	True	True	PASS
+SGN	Melanocyte / intermediate	8	27998	1286649	True	True	PASS
+SGN	Neuronal / SGN	8	27998	144147720	True	True	PASS
+SGN	Pericyte / vascular smooth muscle	8	27998	1520037	True	True	PASS
+SGN	UNRESOLVED	8	27998	10039546	True	True	PASS
+Lateral_wall	Endothelial	8	27998	24217490	True	True	PASS
+Lateral_wall	Epithelial / supporting-associated	8	27998	123969679	True	True	PASS
+Lateral_wall	Fibrocyte / mesenchymal	8	27998	23597205	True	True	PASS
+Lateral_wall	Immune / myeloid	8	27998	4687355	True	True	PASS
+Lateral_wall	Melanocyte / intermediate	8	27998	137651435	True	True	PASS
+Lateral_wall	Pericyte / vascular smooth muscle	8	27998	3522387	True	True	PASS
+Lateral_wall	UNRESOLVED	8	27998	3128827	True	True	PASS

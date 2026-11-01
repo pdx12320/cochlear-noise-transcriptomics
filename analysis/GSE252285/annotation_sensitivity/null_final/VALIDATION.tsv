@@ -1,0 +1,9 @@
+check	status	detail
+source_object_read_only	PASS	No saveRDS of original object
+original_annotation_unchanged	PASS	TRUE
+only_cluster19_reassigned	PASS	319 UNRESOLVED cells to Fibrocyte_mesenchymal; other cells unchanged
+same_null_draws_reproduce_original	PASS	120000 archived null values; max_abs_error=5.551115e-17
+original_observed_delta_reproduced	PASS	5.20417e-17
+six_tests_BH_per_matching_mode	PASS	6 tests separately in primary and length_sensitivity
+same_gene_sets_matching_UCell_and_statistic	PASS	seed=20260823; maxRank=1500; average ties; fixed strata and signature sizes
+all_requested_iterations_completed	PASS	10000

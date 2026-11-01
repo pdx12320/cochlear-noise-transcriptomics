@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-01",
+  "scope": "Syntax parsing only in an existing R runtime; scripts were not sourced and no analysis or environment modification occurred.",
+  "scripts": [
+    {
+      "file": "run_gse252285_ucell.R",
+      "sha256": "9ce0772100a20cea573e5bb364ad5c3ffad69a2d7f56ad94cbd58ba1e5de8a9d",
+      "R": "4.5.3",
+      "validation": "parse(file=stdin) only",
+      "status": "PASS",
+      "source_or_analysis_execution": false
+    },
+    {
+      "file": "run_gse252285_matched_null.R",
+      "sha256": "c36bcfb800ca35d24123dee17d00570f1a4f70e290cb03daed29766f4d72b092",
+      "R": "4.5.3",
+      "validation": "parse(file=stdin) only",
+      "status": "PASS",
+      "source_or_analysis_execution": false
+    }
+  ]
+}

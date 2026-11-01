@@ -1,0 +1,235 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.777778in" height="9.027778in" viewBox="0 0 560 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 20 18)">a</text>
+<text x="37" y="18" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 37 18)">Ccl5</text>
+<text x="37" y="31" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 37 31)">Lateral-wall fibrocyte/mesenchymal</text>
+<line x1="56" y1="46" x2="56" y2="143" stroke="#171717" stroke-width="0.6" />
+<line x1="53" y1="143.0" x2="56" y2="143.0" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="145.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 145.0)">0</text>
+<line x1="53" y1="115.28571428571429" x2="56" y2="115.28571428571429" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="117.28571428571429" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 117.28571428571429)">2</text>
+<line x1="53" y1="87.57142857142858" x2="56" y2="87.57142857142858" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="89.57142857142858" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 89.57142857142858)">4</text>
+<line x1="53" y1="59.85714285714286" x2="56" y2="59.85714285714286" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="61.85714285714286" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 61.85714285714286)">6</text>
+<text x="27" y="94.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 27 94.5)">log1p normalized count</text>
+<line x1="56" y1="143" x2="255" y2="143" stroke="#171717" stroke-width="0.5" />
+<circle cx="85" cy="143.0" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="85" y="137.0" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 85 137.0)">C1</text>
+<circle cx="97.5" cy="123.78722810317981" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="97.5" y="117.78722810317981" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 97.5 117.78722810317981)">C2</text>
+<circle cx="110.5" cy="124.31930353516015" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="110.5" y="118.31930353516015" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 110.5 118.31930353516015)">C3</text>
+<circle cx="123" cy="115.052158633306" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="123" y="109.052158633306" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 123 109.052158633306)">C4</text>
+<text x="104" y="157" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 104 157)">Naive (n = 4)</text>
+<circle cx="180" cy="76.72315418010845" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="180" y="70.72315418010845" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 180 70.72315418010845)">N1</text>
+<circle cx="192.5" cy="82.25303595958908" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="192.5" y="76.25303595958908" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 192.5 76.25303595958908)">N2</text>
+<circle cx="205.5" cy="73.93220931058072" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="205.5" y="67.93220931058072" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 205.5 67.93220931058072)">N3</text>
+<circle cx="218" cy="56.88598711246742" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="218" y="50.88598711246742" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 218 50.88598711246742)">N4</text>
+<text x="199" y="157" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 199 157)">Noise (n = 4)</text>
+<text x="297" y="18" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 297 18)">b</text>
+<text x="314" y="18" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 314 18)">Ifih1</text>
+<text x="314" y="31" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 314 31)">Lateral-wall fibrocyte/mesenchymal</text>
+<line x1="333" y1="46" x2="333" y2="143" stroke="#171717" stroke-width="0.6" />
+<line x1="330" y1="143.0" x2="333" y2="143.0" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="145.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 145.0)">0</text>
+<line x1="330" y1="123.6" x2="333" y2="123.6" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="125.6" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 125.6)">1</text>
+<line x1="330" y1="104.19999999999999" x2="333" y2="104.19999999999999" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="106.19999999999999" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 106.19999999999999)">2</text>
+<line x1="330" y1="84.80000000000001" x2="333" y2="84.80000000000001" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="86.80000000000001" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 86.80000000000001)">3</text>
+<line x1="330" y1="65.39999999999999" x2="333" y2="65.39999999999999" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="67.39999999999999" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 67.39999999999999)">4</text>
+<line x1="330" y1="46.0" x2="333" y2="46.0" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="48.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 48.0)">5</text>
+<text x="304" y="94.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 304 94.5)">log1p normalized count</text>
+<line x1="333" y1="143" x2="532" y2="143" stroke="#171717" stroke-width="0.5" />
+<circle cx="362" cy="77.85880810607674" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="362" y="71.85880810607674" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 362 71.85880810607674)">C1</text>
+<circle cx="374.5" cy="81.74937912946277" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="374.5" y="75.74937912946277" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 374.5 75.74937912946277)">C2</text>
+<circle cx="387.5" cy="74.44601380935768" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="387.5" y="68.44601380935768" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 387.5 68.44601380935768)">C3</text>
+<circle cx="400" cy="74.09499914645944" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="400" y="68.09499914645944" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 400 68.09499914645944)">C4</text>
+<text x="381" y="157" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 381 157)">Naive (n = 4)</text>
+<circle cx="457" cy="60.07147706957073" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="457" y="54.07147706957073" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 457 54.07147706957073)">N1</text>
+<circle cx="469.5" cy="58.148736405331846" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="469.5" y="52.148736405331846" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 469.5 52.148736405331846)">N2</text>
+<circle cx="482.5" cy="54.2628666585652" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="482.5" y="48.2628666585652" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 482.5 48.2628666585652)">N3</text>
+<circle cx="495" cy="68.63088614646622" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="495" y="62.630886146466224" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 495 62.630886146466224)">N4</text>
+<text x="476" y="157" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 476 157)">Noise (n = 4)</text>
+<text x="20" y="174" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 20 174)">c</text>
+<text x="37" y="174" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 37 174)">Mcl1</text>
+<text x="37" y="187" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 37 187)">Lateral-wall fibrocyte/mesenchymal</text>
+<line x1="56" y1="202" x2="56" y2="299" stroke="#171717" stroke-width="0.6" />
+<line x1="53" y1="299.0" x2="56" y2="299.0" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="301.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 301.0)">0</text>
+<line x1="53" y1="271.2857142857143" x2="56" y2="271.2857142857143" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="273.2857142857143" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 273.2857142857143)">2</text>
+<line x1="53" y1="243.57142857142858" x2="56" y2="243.57142857142858" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="245.57142857142858" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 245.57142857142858)">4</text>
+<line x1="53" y1="215.85714285714286" x2="56" y2="215.85714285714286" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="217.85714285714286" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 217.85714285714286)">6</text>
+<text x="27" y="250.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 27 250.5)">log1p normalized count</text>
+<line x1="56" y1="299" x2="255" y2="299" stroke="#171717" stroke-width="0.5" />
+<circle cx="85" cy="220.70094638856062" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="85" y="214.70094638856062" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 85 214.70094638856062)">C1</text>
+<circle cx="97.5" cy="221.83507802831232" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="97.5" y="215.83507802831232" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 97.5 215.83507802831232)">C2</text>
+<circle cx="110.5" cy="220.85584866872017" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="110.5" y="214.85584866872017" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 110.5 214.85584866872017)">C3</text>
+<circle cx="123" cy="220.41968611683626" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="123" y="214.41968611683626" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 123 214.41968611683626)">C4</text>
+<text x="104" y="313" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 104 313)">Naive (n = 4)</text>
+<circle cx="180" cy="216.50893551213719" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="180" y="210.50893551213719" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 180 210.50893551213719)">N1</text>
+<circle cx="192.5" cy="216.3150551169917" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="192.5" y="210.3150551169917" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 192.5 210.3150551169917)">N2</text>
+<circle cx="205.5" cy="215.25888892677494" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="205.5" y="209.25888892677494" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 205.5 209.25888892677494)">N3</text>
+<circle cx="218" cy="218.1613955012617" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="218" y="212.1613955012617" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 218 212.1613955012617)">N4</text>
+<text x="199" y="313" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 199 313)">Noise (n = 4)</text>
+<text x="297" y="174" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 297 174)">d</text>
+<text x="314" y="174" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 314 174)">Ifit2</text>
+<text x="314" y="187" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 314 187)">Lateral-wall fibrocyte/mesenchymal</text>
+<line x1="333" y1="202" x2="333" y2="299" stroke="#171717" stroke-width="0.6" />
+<line x1="330" y1="299.0" x2="333" y2="299.0" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="301.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 301.0)">0</text>
+<line x1="330" y1="279.6" x2="333" y2="279.6" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="281.6" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 281.6)">1</text>
+<line x1="330" y1="260.2" x2="333" y2="260.2" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="262.2" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 262.2)">2</text>
+<line x1="330" y1="240.8" x2="333" y2="240.8" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="242.8" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 242.8)">3</text>
+<line x1="330" y1="221.39999999999998" x2="333" y2="221.39999999999998" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="223.39999999999998" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 223.39999999999998)">4</text>
+<line x1="330" y1="202.0" x2="333" y2="202.0" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="204.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 204.0)">5</text>
+<text x="304" y="250.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 304 250.5)">log1p normalized count</text>
+<line x1="333" y1="299" x2="532" y2="299" stroke="#171717" stroke-width="0.5" />
+<circle cx="362" cy="271.7186889488185" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="362" y="265.7186889488185" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 362 265.7186889488185)">C1</text>
+<circle cx="374.5" cy="253.3787721055972" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="374.5" y="247.3787721055972" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 374.5 247.3787721055972)">C2</text>
+<circle cx="387.5" cy="265.065125571041" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="387.5" y="259.065125571041" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 387.5 259.065125571041)">C3</text>
+<circle cx="400" cy="230.83364359023872" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="400" y="224.83364359023872" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 400 224.83364359023872)">C4</text>
+<text x="381" y="313" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 381 313)">Naive (n = 4)</text>
+<circle cx="457" cy="218.501713988093" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="457" y="212.501713988093" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 457 212.501713988093)">N1</text>
+<circle cx="469.5" cy="222.28531123494128" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="469.5" y="216.28531123494128" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 469.5 216.28531123494128)">N2</text>
+<circle cx="482.5" cy="213.91892054087185" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="482.5" y="207.91892054087185" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 482.5 207.91892054087185)">N3</text>
+<circle cx="495" cy="238.89993500586436" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="495" y="232.89993500586436" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 495 232.89993500586436)">N4</text>
+<text x="476" y="313" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 476 313)">Noise (n = 4)</text>
+<text x="20" y="330" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 20 330)">e</text>
+<text x="37" y="330" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 37 330)">Map2k2</text>
+<text x="37" y="343" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 37 343)">Lateral-wall endothelial</text>
+<line x1="56" y1="358" x2="56" y2="455" stroke="#171717" stroke-width="0.6" />
+<line x1="53" y1="455.0" x2="56" y2="455.0" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="457.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 457.0)">0</text>
+<line x1="53" y1="427.2857142857143" x2="56" y2="427.2857142857143" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="429.2857142857143" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 429.2857142857143)">2</text>
+<line x1="53" y1="399.57142857142856" x2="56" y2="399.57142857142856" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="401.57142857142856" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 401.57142857142856)">4</text>
+<line x1="53" y1="371.8571428571429" x2="56" y2="371.8571428571429" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="373.8571428571429" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 373.8571428571429)">6</text>
+<text x="27" y="406.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 27 406.5)">log1p normalized count</text>
+<line x1="56" y1="455" x2="255" y2="455" stroke="#171717" stroke-width="0.5" />
+<circle cx="85" cy="373.7726208975971" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="85" y="367.7726208975971" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 85 367.7726208975971)">C1</text>
+<circle cx="97.5" cy="374.0902613293321" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="97.5" y="368.0902613293321" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 97.5 368.0902613293321)">C2</text>
+<circle cx="110.5" cy="374.21100737192694" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="110.5" y="368.21100737192694" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 110.5 368.21100737192694)">C3</text>
+<circle cx="123" cy="374.0683484893295" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="123" y="368.0683484893295" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 123 368.0683484893295)">C4</text>
+<text x="104" y="469" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 104 469)">Naive (n = 4)</text>
+<circle cx="180" cy="371.14736678495456" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="180" y="365.14736678495456" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 180 365.14736678495456)">N1</text>
+<circle cx="192.5" cy="370.03220384332747" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="192.5" y="364.03220384332747" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 192.5 364.03220384332747)">N2</text>
+<circle cx="205.5" cy="370.1174639180198" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="205.5" y="364.1174639180198" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 205.5 364.1174639180198)">N3</text>
+<circle cx="218" cy="369.158978031286" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="218" y="363.158978031286" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 218 363.158978031286)">N4</text>
+<text x="199" y="469" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 199 469)">Noise (n = 4)</text>
+<text x="297" y="330" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 297 330)">f</text>
+<text x="314" y="330" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 314 330)">Mapk3</text>
+<text x="314" y="343" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 314 343)">Lateral-wall endothelial</text>
+<line x1="333" y1="358" x2="333" y2="455" stroke="#171717" stroke-width="0.6" />
+<line x1="330" y1="455.0" x2="333" y2="455.0" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="457.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 457.0)">0</text>
+<line x1="330" y1="427.2857142857143" x2="333" y2="427.2857142857143" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="429.2857142857143" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 429.2857142857143)">2</text>
+<line x1="330" y1="399.57142857142856" x2="333" y2="399.57142857142856" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="401.57142857142856" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 401.57142857142856)">4</text>
+<line x1="330" y1="371.8571428571429" x2="333" y2="371.8571428571429" stroke="#171717" stroke-width="0.5" />
+<text x="328" y="373.8571428571429" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 328 373.8571428571429)">6</text>
+<text x="304" y="406.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 304 406.5)">log1p normalized count</text>
+<line x1="333" y1="455" x2="532" y2="455" stroke="#171717" stroke-width="0.5" />
+<circle cx="362" cy="368.50189064297956" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="362" y="362.50189064297956" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 362 362.50189064297956)">C1</text>
+<circle cx="374.5" cy="368.06346353505745" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="374.5" y="362.06346353505745" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 374.5 362.06346353505745)">C2</text>
+<circle cx="387.5" cy="368.69006796872384" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="387.5" y="362.69006796872384" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 387.5 362.69006796872384)">C3</text>
+<circle cx="400" cy="368.9301491857814" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="400" y="362.9301491857814" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 400 362.9301491857814)">C4</text>
+<text x="381" y="469" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 381 469)">Naive (n = 4)</text>
+<circle cx="457" cy="365.6248015134183" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="457" y="359.6248015134183" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 457 359.6248015134183)">N1</text>
+<circle cx="469.5" cy="365.1013899255572" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="469.5" y="359.1013899255572" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 469.5 359.1013899255572)">N2</text>
+<circle cx="482.5" cy="366.5605438012542" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="482.5" y="360.5605438012542" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 482.5 360.5605438012542)">N3</text>
+<circle cx="495" cy="364.16000195374374" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="495" y="358.16000195374374" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 495 358.16000195374374)">N4</text>
+<text x="476" y="469" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 476 469)">Noise (n = 4)</text>
+<text x="20" y="486" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 20 486)">g</text>
+<text x="37" y="486" font-family="Arial, sans-serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 37 486)">Dusp2</text>
+<text x="37" y="499" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 37 499)">Lateral-wall endothelial</text>
+<line x1="56" y1="514" x2="56" y2="611" stroke="#171717" stroke-width="0.6" />
+<line x1="53" y1="611.0" x2="56" y2="611.0" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="613.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 613.0)">0</text>
+<line x1="53" y1="578.6666666666666" x2="56" y2="578.6666666666666" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="580.6666666666666" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 580.6666666666666)">2</text>
+<line x1="53" y1="546.3333333333334" x2="56" y2="546.3333333333334" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="548.3333333333334" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 548.3333333333334)">4</text>
+<line x1="53" y1="514.0" x2="56" y2="514.0" stroke="#171717" stroke-width="0.5" />
+<text x="51" y="516.0" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="end" fill="#171717" transform="rotate(0 51 516.0)">6</text>
+<text x="27" y="562.5" font-family="Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(-90 27 562.5)">log1p normalized count</text>
+<line x1="56" y1="611" x2="255" y2="611" stroke="#171717" stroke-width="0.5" />
+<circle cx="85" cy="535.169558420459" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="85" y="529.169558420459" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 85 529.169558420459)">C1</text>
+<circle cx="97.5" cy="531.6279234700484" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="97.5" y="525.6279234700484" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 97.5 525.6279234700484)">C2</text>
+<circle cx="110.5" cy="529.7604974711079" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="110.5" y="523.7604974711079" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 110.5 523.7604974711079)">C3</text>
+<circle cx="123" cy="529.142665158717" r="3" fill="#377DA8" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="123" y="523.142665158717" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 123 523.142665158717)">C4</text>
+<text x="104" y="625" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 104 625)">Naive (n = 4)</text>
+<circle cx="180" cy="529.3981811915039" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="180" y="523.3981811915039" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 180 523.3981811915039)">N1</text>
+<circle cx="192.5" cy="523.7655385308691" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="192.5" y="517.7655385308691" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 192.5 517.7655385308691)">N2</text>
+<circle cx="205.5" cy="528.312021097626" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="205.5" y="522.312021097626" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 205.5 522.312021097626)">N3</text>
+<circle cx="218" cy="524.6074782862026" r="3" fill="#CA5A49" stroke="#FFFFFF" stroke-width="0.4"/>
+<text x="218" y="518.6074782862026" font-family="Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 218 518.6074782862026)">N4</text>
+<text x="199" y="625" font-family="Arial, sans-serif" font-size="7.6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 199 625)">Noise (n = 4)</text>
+</svg>

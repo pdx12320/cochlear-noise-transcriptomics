@@ -1,0 +1,14 @@
+tissue	cell_type	n_naive_samples	n_noise_samples	naive_cells	noise_cells	genes_input	genes_tested	genes_filtered_total_count_lt10	fdr_lt_0_05	fdr_up_noise	fdr_down_noise	finite_wald_stat	status
+SGN	Endothelial	4	4	592	509	27998	12667	15331	382	265	117	12667	PASS
+SGN	Epithelial / supporting-associated	4	4	3896	3011	27998	16405	11593	957	569	388	16405	PASS
+SGN	Fibrocyte / mesenchymal	4	4	2861	3899	27998	15703	12295	2209	1274	935	15703	PASS
+SGN	Glial / Schwann-like	4	4	1787	1675	27998	14077	13921	226	117	109	14077	PASS
+SGN	Immune / myeloid	4	4	759	795	27998	13489	14509	691	428	263	13489	PASS
+SGN	Neuronal / SGN	4	4	4969	5307	27998	17200	10798	2401	1310	1091	17200	PASS
+SGN	Pericyte / vascular smooth muscle	4	4	224	141	27998	10104	17894	8	7	1	10104	PASS
+Lateral_wall	Endothelial	4	4	1464	1477	27998	13509	14489	1049	546	503	13509	PASS
+Lateral_wall	Epithelial / supporting-associated	4	4	6035	5303	27998	16125	11873	1426	726	700	16125	PASS
+Lateral_wall	Fibrocyte / mesenchymal	4	4	1985	1809	27998	14090	13908	219	99	120	14090	PASS
+Lateral_wall	Immune / myeloid	4	4	247	426	27998	11521	16477	345	177	168	11521	PASS
+Lateral_wall	Melanocyte / intermediate	4	4	6013	7121	27998	15583	12415	4294	2174	2120	15583	PASS
+Lateral_wall	Pericyte / vascular smooth muscle	4	4	481	445	27998	10936	17062	46	32	14	10936	PASS

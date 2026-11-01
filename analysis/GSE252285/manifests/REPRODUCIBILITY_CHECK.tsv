@@ -1,0 +1,23 @@
+check	status	details
+required_repository_structure	PASS	README,scripts,tables,figures,methods,logs,environment,manifests,summaries present
+selected_result_scope	PASS	Only 36111-cell no-doublet branch, focused marker audits and resolved-condition outputs retained
+superseded_result_exclusion	PASS	31273-cell v2/v3, final closure, legacy and 221-cell focused-endothelial results excluded
+large_binary_exclusion	PASS	No Git candidate is >=100 MB; RDS/H5/FASTQ/BAM/archives excluded
+input_dimension	PASS	32285 features x 39092 initial barcodes
+robust_qc_cell_conservation	PASS	36111 cells retained; doublets removed=0
+resolution_invariant	PASS	resolution 0.6 has 28 clusters; audits 0.4/0.8/1.0 have 27/33/37
+stored_broad_cell_conservation	PASS	Stored broad counts sum to 36111; unresolved clusters 6,9,13,19
+condition_mapping	PASS	GEO_-3/LIB3=Control;GEO_-1/LIB1=HHL;GEO_-2/LIB2=NIHL
+condition_cell_conservation	PASS	Control=10273;HHL=16631;NIHL=9207;total=36111
+top20_presence	PASS	20/20 present; fixed membership and order retained
+figure_nonempty	PASS	Selected PDF/PNG files nonempty
+figure_file_magic	PASS	All selected PDF/PNG recognized by file signature
+manual_figure_spot_check	PASS	No-doublet t-SNE and condition-faceted Top20 figures readable
+shell_parse	PASS	All shell scripts pass bash -n
+r_parse	PASS	Selected R scripts parse with R 4.4.3
+python_parse	PASS	Selected Python scripts compile in memory
+private_path_scan	PASS	No Git-candidate private host, user path, token or private key found
+git_history_secret_scan	PASS	New repository has no commits/history; staged candidate tree independently scanned
+sha256_manifest	PASS	Verify with scripts/utilities/verify_repository.sh
+remote_source_rescan	LIMITED	Analysis server SSH timed out; downloaded executed bundles and work scripts were scanned
+remote_publish	BLOCKED_AUTH	origin configured; gh CLI token invalid, so no commit or push performed

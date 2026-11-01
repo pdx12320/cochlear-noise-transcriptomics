@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this versioned analysis archive and the source studies when using these materials."
+type: software
+title: "Cochlear noise transcriptomics: cellular organization of inflammatory transcription after acoustic trauma"
+authors:
+  - family-names: Yang
+    given-names: Dengxiang
+    affiliation: "Southern University of Science and Technology, Shenzhen, China"
+    email: "12412602@mail.sustech.edu.cn"
+version: 1.2.2
+date-released: 2026-11-01
+url: "https://github.com/pdx12320/cochlear-noise-transcriptomics"
+repository-code: "https://github.com/pdx12320/cochlear-noise-transcriptomics"
+license: MIT
+keywords:
+  - cochlea
+  - acoustic trauma
+  - single-cell RNA sequencing
+  - pseudobulk
+  - transcriptomics

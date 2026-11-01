@@ -1,0 +1,7 @@
+Package	Version	Priority	Depends	Imports	LinkingTo	Suggests	Enhances	License	License_is_FOSS	License_restricts_use	OS_type	Archs	MD5sum	NeedsCompilation	File	Published	Repository
+DESeq2	1.52.0	NA	S4Vectors (>= 0.23.18), IRanges, GenomicRanges,
+SummarizedExperiment (>= 1.1.6)	BiocGenerics (>= 0.7.5), Biobase, BiocParallel, matrixStats,
+methods, stats4, locfit, ggplot2 (>= 3.4.0), Rcpp (>= 0.11.0),
+MatrixGenerics	Rcpp, RcppArmadillo	testthat, knitr, rmarkdown, vsn, pheatmap, RColorBrewer,
+apeglm, ashr, tximport, tximeta, tximportData, readr, pbapply,
+airway, glmGamPoi, BiocManager	NA	LGPL (>= 3)	NA	NA	NA	NA	26b00545424cfbe4102f3a6593173427	yes	NA	NA	https://bioconductor.org/packages/3.23/bioc/src/contrib

@@ -1,0 +1,18 @@
+{
+  "source_object_sha256": "24909e74b584dcb33a113d815234cda0861ed6fea07f78cf66fd99d5324d76b8",
+  "source_object_written": false,
+  "original_annotation_unchanged": true,
+  "cells": 36111,
+  "changed_cells": 319,
+  "changed_cluster": "19",
+  "change": "UNRESOLVED -> Fibrocyte_mesenchymal",
+  "revised_fibrocyte_cells": 3316,
+  "revised_unresolved_cells": 4407,
+  "score_cache_sha256": "840a0dae69458dbd5f6efeac2e0273f13b2373efbbc3ccdc4b6456b3e2cf474f",
+  "cached_scores_recomputed": false,
+  "scores_unchanged": true,
+  "normalized_expression_layer": "RNA data",
+  "detection_layer": "RNA counts > 0",
+  "figure_input_columns": ["cell", "cluster", "original_broad", "c19_revised_broad", "barcode_suffix", "condition", "tSNE_1", "tSNE_2", "expr__Dusp1", "expr__Fos", "expr__Nfkbia", "expr__Arrdc2", "expr__Apold1", "expr__Sik1", "expr__Per1", "expr__Ccn1", "expr__Cebpb", "expr__Fosb", "expr__Rasd1", "expr__Gadd45g", "expr__Depp1", "expr__Serpine1", "expr__Errfi1", "expr__Nr4a1", "expr__Sgk1", "expr__Rgs1", "expr__Egr1", "expr__Jun", "expr__Coch", "expr__Otor", "expr__Pou3f4", "expr__Col1a2", "expr__Pdgfra", "expr__Pecam1", "expr__Kdr", "expr__Vwf", "UCell__MAPK_AP1", "UCell__TNFA_NFKB", "UCell__IL6_JAK_STAT3", "UCell__VEGF_ANGIOGENESIS", "UCell__MYC_TARGETS", "UCell__E2F_TARGETS"],
+  "R": "4.4.3"
+}

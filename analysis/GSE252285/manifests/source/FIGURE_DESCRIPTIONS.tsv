@@ -1,0 +1,8 @@
+figure	alt_text
+CONDITION_BROAD_CELLTYPE_STACKED_BAR	Stacked bars show existing broad cell-type fractions for Control, HHL and NIHL.
+CONDITION_BROAD_CELLTYPE_GROUPED_BAR	Grouped zero-baseline bars compare descriptive broad cell-type percentages across resolved conditions.
+TOP20_BROAD_CELLTYPE_CONDITION_DOTPLOT	Three condition facets show frozen Top20 detection by dot area and mean log-normalized expression by colour; x overlays mark groups with fewer than 20 cells.
+TOP20_BROAD_CELLTYPE_CONDITION_HEATMAP	Three condition facets show frozen Top20 mean log-normalized expression using one common colour scale; x overlays mark groups with fewer than 20 cells.
+TOP20_28CLUSTER_CONDITION_DOTPLOT	Supplement-level three-facet DotPlot shows frozen Top20 across fixed clusters 0-27; x overlays mark cluster-condition groups with fewer than 20 cells.
+CANDIDATE_CONDITION_PCT_EXPRESSION_BAR	Four focused candidate facets show descriptive percent expressing by resolved condition with group cell counts.
+CANDIDATE_CONDITION_MEAN_EXPRESSION_BAR	Four focused candidate facets show descriptive mean log-normalized expression by resolved condition with group cell counts.

@@ -1,0 +1,52 @@
+{
+  "status": "PASS",
+  "scope": "Current source-to-figure/PDF consistency plus independently executed analysis audits; no new model fitting by this validation script",
+  "GSE160639": {
+    "genes": 19673,
+    "samples": 12,
+    "DE_counts": [
+      5777,
+      889,
+      4177
+    ],
+    "overall_LRT": 6398,
+    "pathway_tests": 27,
+    "global_FDR_positive": [
+      8,
+      9,
+      0
+    ]
+  },
+  "GSE168041": {
+    "omission_fits": 48,
+    "focused_estimates": 56,
+    "same_direction": 56,
+    "FDR_positive": 53,
+    "fibrocyte_FDR_positive": {
+      "SGN": "7/8",
+      "Lateral_wall": "6/8"
+    }
+  },
+  "GSE252285": {
+    "cells": 36111,
+    "derived_reassigned_cells": 319,
+    "primary_stable_genes_retained": 11,
+    "matched_null_tests": 12,
+    "positive_tests": 10,
+    "significance_classifications_unchanged": 12
+  },
+  "independent_audits": {
+    "ROOT_FIGURE_DATA_AUDIT.json": {
+      "sha256": "9638e82746c26eb1f3a32552ac71257e0a0b788305bcb99922e131395b646c27",
+      "status": "PASS"
+    },
+    "METHODS_REVIEWER_FINAL_SENSITIVITY_AUDIT.json": {
+      "sha256": "bfa457bbc942a497034f49cfac298443e87c85356c10abcd196f70544aad8199",
+      "status": "PASS"
+    },
+    "ANNOTATION_CROSS_REVIEW_AUDIT.json": {
+      "sha256": "2c7f2c6089491d96f1ae2b84120b34be47abc609fe234fceb297deb899c96f4f",
+      "status": "PASS"
+    }
+  }
+}

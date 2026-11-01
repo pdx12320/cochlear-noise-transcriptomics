@@ -1,0 +1,31 @@
+SUCCESS
+
+GSM-SRR-library mapping:
+GSM7998628 -> SRR27387601 -> A1_Control (Control) [one 10x library; 1 technical partition(s); shared SRX23063847 / SAMN39202398]
+GSM7998629 -> SRR27387602,SRR27387603,SRR27387604,SRR27387605 -> B1_HHL (HHL) [one 10x library; 4 technical partition(s); shared SRX23063846 / SAMN39202397]
+GSM7998630 -> SRR27387600 -> C1_NIHL (NIHL) [one 10x library; 1 technical partition(s); shared SRX23063848 / SAMN39202396]
+
+FASTQ: 12 files; 164.497 GiB (176.628 GB); ENA MD5 12/12 PASS
+Cell Ranger: 7.1.0
+Reference: refdata-gex-mm10-2020-A; official/reference feature-pair set exact_match=True (intersection=32285, official_only=0, reference_only=0)
+
+Estimated cells:
+A1_Control: 11537 (matched GEO -3 official 11344; difference +193)
+B1_HHL: 17914 (matched GEO -1 official 17720; difference +194)
+C1_NIHL: 10156 (matched GEO -2 official 10028; difference +128)
+
+3x3 barcode overlap (I/Jaccard/official_recall/reconstruction_recall):
+library	GEO_-1	GEO_-2	GEO_-3
+A1_Control	58/0.001986/0.003273/0.005027	37/0.001719/0.003690/0.003207	11309/0.977273/0.996915/0.980237
+B1_HHL	17661/0.982641/0.996670/0.985877	51/0.001829/0.005086/0.002847	60/0.002055/0.005289/0.003349
+C1_NIHL	50/0.001797/0.002822/0.004923	10015/0.984856/0.998704/0.986117	37/0.001724/0.003262/0.003643
+
+Suffix -> condition mapping:
+-1 = HHL
+-2 = NIHL
+-3 = Control
+CONDITION_MAPPING_RESOLVED=YES
+Mapping confidence: HIGH (A1_Control row_ratio=195.0x col_ratio=188.5x; B1_HHL row_ratio=294.4x col_ratio=304.5x; C1_NIHL row_ratio=200.3x col_ratio=196.4x)
+
+Official 39092-cell difference: reconstructed total 39607 cells; difference +515 (+1.317%).
+Result directory: /path/to/cochlear_analysis/GSE252285_raw_reconstruction_20260815

@@ -1,0 +1,320 @@
+{
+  "status": "PASS",
+  "scope": "Read-only independent arithmetic, identity, ranking and provenance audit; no enrichment or DESeq2 rerun.",
+  "table_sha256": "f589441ae271d84c4d19dd86fad7c763f61b79d58144582623aaff7a8eae6f1a",
+  "remote_files_checked": 22,
+  "all_remote_local_hashes_match": true,
+  "input_checks": [
+    {
+      "input": "94dB_vs_70dB",
+      "expected_sha256": "8e888afbdf32c31b6e87f8a054624584d247b955f369fa596c46da0b74f26dde",
+      "recorded_match": true,
+      "local_source_match": true
+    },
+    {
+      "input": "105dB_vs_70dB",
+      "expected_sha256": "02ad6ad60a08cdc457fac67983e9daaf1064601264c17c8f41ad8c03d9bfedb7",
+      "recorded_match": true,
+      "local_source_match": true
+    },
+    {
+      "input": "105dB_vs_94dB",
+      "expected_sha256": "5cbc2ec718c846130fcfa06c49dd1337034648125f78e693788ddd29cea9ae4b",
+      "recorded_match": true,
+      "local_source_match": true
+    },
+    {
+      "input": "locked_sample_manifest",
+      "expected_sha256": "9a31de34c1e36e06d70068e72c22498306f7ea662c7a94e541dd3e016ab54164",
+      "recorded_match": true,
+      "local_source_match": true
+    },
+    {
+      "input": "native_mouse_GO",
+      "expected_sha256": "ae55ef78392cbf58fb728f0fc67618a03bdfab87f76bbe78edd6c5f5c01bea13",
+      "recorded_match": true,
+      "local_source_match": null
+    },
+    {
+      "input": "native_mouse_Hallmark",
+      "expected_sha256": "1309ce698e76c7e698bca729b69f53ccf354171b880f79f775a69d6abd8f6c82",
+      "recorded_match": true,
+      "local_source_match": null
+    }
+  ],
+  "fdr_checks": [
+    {
+      "version": "current",
+      "family": "global27",
+      "n": 27,
+      "max_abs_error": 1.0269562977782698e-15
+    },
+    {
+      "version": "current",
+      "family": "105dB_vs_70dB",
+      "n": 9,
+      "max_abs_error": 1.5981140022436335e-16
+    },
+    {
+      "version": "current",
+      "family": "105dB_vs_94dB",
+      "n": 9,
+      "max_abs_error": 4.996003610813204e-16
+    },
+    {
+      "version": "current",
+      "family": "94dB_vs_70dB",
+      "n": 9,
+      "max_abs_error": 8.023096076392733e-17
+    }
+  ],
+  "all27_combinations_present": true,
+  "n_samples": 12,
+  "samples_per_dose": 4,
+  "ranks": [
+    {
+      "contrast": "105dB_vs_70dB",
+      "source_rows": 19673,
+      "mapped_rows": 17445,
+      "ranked_symbols": 17441,
+      "duplicates_removed": 4,
+      "order_and_selected_ids_match": true,
+      "max_abs_stat_roundtrip_error": 0.0
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "source_rows": 19673,
+      "mapped_rows": 17445,
+      "ranked_symbols": 17441,
+      "duplicates_removed": 4,
+      "order_and_selected_ids_match": true,
+      "max_abs_stat_roundtrip_error": 0.0
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "source_rows": 19673,
+      "mapped_rows": 17445,
+      "ranked_symbols": 17441,
+      "duplicates_removed": 4,
+      "order_and_selected_ids_match": true,
+      "max_abs_stat_roundtrip_error": 0.0
+    }
+  ],
+  "leading_edge_checks": [
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY",
+      "overlap": 464,
+      "leading_edge_size": 118,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "GOBP_PROTEIN_FOLDING",
+      "overlap": 188,
+      "leading_edge_size": 78,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS",
+      "overlap": 280,
+      "leading_edge_size": 75,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "GOBP_RESPONSE_TO_OXIDATIVE_STRESS",
+      "overlap": 417,
+      "leading_edge_size": 108,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "HALLMARK_APOPTOSIS",
+      "overlap": 157,
+      "leading_edge_size": 43,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "HALLMARK_INFLAMMATORY_RESPONSE",
+      "overlap": 181,
+      "leading_edge_size": 41,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+      "overlap": 48,
+      "leading_edge_size": 13,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "overlap": 191,
+      "leading_edge_size": 53,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+      "overlap": 109,
+      "leading_edge_size": 38,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY",
+      "overlap": 464,
+      "leading_edge_size": 150,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "GOBP_PROTEIN_FOLDING",
+      "overlap": 188,
+      "leading_edge_size": 45,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS",
+      "overlap": 280,
+      "leading_edge_size": 61,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "GOBP_RESPONSE_TO_OXIDATIVE_STRESS",
+      "overlap": 417,
+      "leading_edge_size": 99,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "HALLMARK_APOPTOSIS",
+      "overlap": 157,
+      "leading_edge_size": 41,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "HALLMARK_INFLAMMATORY_RESPONSE",
+      "overlap": 181,
+      "leading_edge_size": 48,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+      "overlap": 48,
+      "leading_edge_size": 18,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "overlap": 191,
+      "leading_edge_size": 54,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+      "overlap": 109,
+      "leading_edge_size": 23,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY",
+      "overlap": 464,
+      "leading_edge_size": 138,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "GOBP_PROTEIN_FOLDING",
+      "overlap": 188,
+      "leading_edge_size": 74,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS",
+      "overlap": 280,
+      "leading_edge_size": 78,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "GOBP_RESPONSE_TO_OXIDATIVE_STRESS",
+      "overlap": 417,
+      "leading_edge_size": 134,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "HALLMARK_APOPTOSIS",
+      "overlap": 157,
+      "leading_edge_size": 38,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "HALLMARK_INFLAMMATORY_RESPONSE",
+      "overlap": 181,
+      "leading_edge_size": 39,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+      "overlap": 48,
+      "leading_edge_size": 30,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "overlap": 191,
+      "leading_edge_size": 67,
+      "all_members_in_pathway_and_ranking": true
+    },
+    {
+      "contrast": "94dB_vs_70dB",
+      "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+      "overlap": 109,
+      "leading_edge_size": 41,
+      "all_members_in_pathway_and_ranking": true
+    }
+  ],
+  "significant": 17,
+  "significant_by_contrast": {
+    "105dB_vs_70dB": 9,
+    "105dB_vs_94dB": 0,
+    "94dB_vs_70dB": 8
+  },
+  "direct_ROS": [
+    {
+      "contrast": "105dB_vs_94dB",
+      "numerator": "105dB",
+      "denominator": "94dB",
+      "pathway": "HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY",
+      "NES": -1.48760473644908,
+      "ES": -0.403853232690554,
+      "P": 0.0396711946617207,
+      "within_contrast_FDR": 0.29136690647482,
+      "size": 48,
+      "log2err": 0.321775918075361,
+      "leadingEdge": "Junb,Ptpa,Cdkn2d,Egln2,Atox1,Glrx,Ndufs2,Ftl1,Srxn1,Msra,Ercc2,Lamtor5,Txn1,Txnrd1,Selenos,Sod2,Sbno2,Fes",
+      "analysis_status": "TARGETED_ENRICHMENT_FROM_NEW_DESEQ2",
+      "global_27_test_FDR": 0.059506791992581,
+      "significant_global_FDR05": false
+    }
+  ],
+  "warnings_text": "",
+  "interpretation": "Current complete chain uses new DESeq2 median-ratio normalization of public raw counts with the locked sample and gene universes, then fixed27 targeted tests; FDR is global across27."
+}

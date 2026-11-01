@@ -1,0 +1,85 @@
+{
+  "reference_file": "annotation_reference.tsv",
+  "rows": 31273,
+  "columns": [
+    "barcode",
+    "frozen_label"
+  ],
+  "source_object_basename": "06_annotated_final_audit_v3.rds",
+  "reference_labels": {
+    "Endothelial_vascular": 221,
+    "Fibrocyte_mesenchymal": 2566,
+    "Glial": 232,
+    "Hair_sensory": 22,
+    "Immune_myeloid": 23388,
+    "Other": 4398,
+    "Supporting_epithelial": 446
+  },
+  "metadata_equivalence": {
+    "clusters": 28,
+    "exact_fields": {
+      "cluster": true,
+      "cell_number": true,
+      "shared_frozen_cells": true,
+      "additional_robust_qc_cells": true,
+      "frozen_v3_majority_label": true,
+      "broad_annotation_no_doublet_sensitivity": true,
+      "annotation_confidence_no_doublet_sensitivity": true,
+      "reason": true,
+      "warning": true
+    },
+    "numeric_fields_within_1e_12": {
+      "additional_fraction": true,
+      "frozen_v3_majority_fraction": true
+    },
+    "current_cells": 36111,
+    "shared_cells": 31273,
+    "additional_cells": 4838
+  },
+  "source_object_sha256": "f3d505255bca448889976dacc84c5a365d9e94cecbf1abe3cd453c098b55a911",
+  "reference_sha256": "fd6586c6ac491f50fddb7382a92c7b59dc0dbab9dae16a8ee888d26937d42464",
+  "reference_bytes": 1043999,
+  "read_only_source_extraction": true,
+  "source_object_modified": false,
+  "field_mapping": {
+    "barcode": "colnames(original reference object)",
+    "frozen_label": "as.character(original reference object$broad_annotation_final)"
+  },
+  "excluded_unused_fields": {
+    "seurat_clusters": "Used only by optional old/new cluster comparison, not the annotation decision",
+    "annotation_confidence_final": "Read into the former intermediate table but never consumed by annotation or downstream summaries"
+  },
+  "validation": "Current cluster memberships and existing lineage-score tables were used to reevaluate the original unmodified annotation decision expression. No clustering, marker test, expression analysis, labels or thresholds changed.",
+  "input_adapter_validation_file": "annotation_reference_adapter_validation.json",
+  "input_adapter_validation": {
+    "R_syntax_files": 6,
+    "scientific_AST_identical": {
+      "marker_lineage": true,
+      "annotation_decision": true,
+      "label_assignment": true,
+      "13a": true
+    },
+    "adapted_TSV_input_executed": true,
+    "old_RDS_not_loaded": true,
+    "clusters": 28,
+    "exact_fields": {
+      "cluster": true,
+      "cell_number": true,
+      "shared_frozen_cells": true,
+      "additional_robust_qc_cells": true,
+      "frozen_v3_majority_label": true,
+      "broad_annotation_no_doublet_sensitivity": true,
+      "annotation_confidence_no_doublet_sensitivity": true,
+      "reason": true,
+      "warning": true
+    },
+    "numeric_checks": {
+      "additional_fraction": true,
+      "frozen_v3_majority_fraction": true
+    },
+    "input_rows": 31273,
+    "shared_cells": 31273,
+    "current_cells": 36111,
+    "full_analysis_rerun": false
+  }
+}

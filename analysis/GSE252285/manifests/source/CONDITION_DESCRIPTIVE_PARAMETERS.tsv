@@ -1,0 +1,23 @@
+parameter	value
+target_object	<GSE252285_PROJECT_ROOT>/06_objects/no_doublet_robust_qc_tsne_sensitivity/02_no_doublet_annotated_tsne.rds
+fixed_cells	36111
+fixed_cluster_field	RNA_snn_res.0.6
+fixed_cluster_number	28
+existing_broad_field	broad_annotation_no_doublet_sensitivity
+condition_mapping	GEO_-3=Control;GEO_-1=HHL;GEO_-2=NIHL
+mapping_key	observed barcode suffix
+Top20_order	Dusp1,Fos,Nfkbia,Arrdc2,Apold1,Sik1,Per1,Ccn1,Cebpb,Fosb,Rasd1,Gadd45g,Depp1,Serpine1,Errfi1,Nr4a1,Sgk1,Rgs1,Egr1,Jun
+n_expressing_definition	RNA counts > 0
+pct_expressing_definition	100 * n_expressing / n_total_cells
+mean_expression_definition	arithmetic mean of Seurat RNA data layer including zeros
+median_expression_definition	median of Seurat RNA data layer including zeros
+low_cell_count_rule	n_total_cells < 20
+condition_DE	NOT_PERFORMED
+p_values	NOT_COMPUTED
+differential_abundance	NOT_PERFORMED
+QC_rerun	NO
+PCA_rerun	NO
+clustering_rerun	NO
+annotation_rerun	NO
+object_modified	NO
+CONDITION_MAPPING_RESOLVED	YES

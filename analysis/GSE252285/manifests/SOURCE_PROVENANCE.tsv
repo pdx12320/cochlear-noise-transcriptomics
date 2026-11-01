@@ -1,0 +1,6 @@
+repository_module	analysis_source	status	cell_scope	notes
+no_doublet_sensitivity	robust-QC no-doublet t-SNE branch	SELECTED_CURRENT_NOT_FROZEN	36111	28 fixed clusters at resolution 0.6
+four_cluster_audit	clusters 6,9,13,19 targeted marker/reference audit	COMPLETE	4726 stored-UNRESOLVED cells	Recommendations not written back
+targeted_erythroid_audit	clusters 6,9 and 13	COMPLETE	4407 cells	Erythroid and co-expression evidence only
+condition_descriptive	resolved Control/HHL/NIHL mapping	COMPLETE_DESCRIPTIVE	36111	No p-values, DE or differential abundance inference
+stage1_upstream	public Matrix Market input and robust-QC provenance	CODE_ONLY	39092 initial	Large raw/QC objects excluded

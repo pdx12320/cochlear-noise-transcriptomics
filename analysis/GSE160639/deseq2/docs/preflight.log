@@ -1,0 +1,5 @@
+                           input                                                  observed_sha256
+               public_raw_counts 5f4e4cfa3fa9cf1169fa13acedcf0000961814beea57a3ad94b49dc94eb4df44
+          locked_sample_manifest 9a31de34c1e36e06d70068e72c22498306f7ea662c7a94e541dd3e016ab54164
+ locked_gene_universe_annotation c26d7bf3aecd2541504bec004b9a55d6f8cbdea87379cfd083f8c7a4a79619f9
+PREFLIGHT_PASS: 35496 public genes; 19673 fixed fit genes; twelve samples, four per dose; no normalization/fitting/output creation

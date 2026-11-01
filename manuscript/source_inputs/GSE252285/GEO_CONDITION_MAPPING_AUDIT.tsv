@@ -1,0 +1,4 @@
+barcode_suffix	library_id	cell_count	library_id_template	legacy_condition_template	geo_library_key	condition_resolved	mapping_source	object_template_library_match	mapping_complete	CONDITION_MAPPING_RESOLVED
+-3	LIB3	10273	LIB3	UNKNOWN	GEO_-3	Control	USER_SPECIFIED_GEO_SUFFIX	TRUE	TRUE	YES
+-1	LIB1	16631	LIB1	UNKNOWN	GEO_-1	HHL	USER_SPECIFIED_GEO_SUFFIX	TRUE	TRUE	YES
+-2	LIB2	9207	LIB2	UNKNOWN	GEO_-2	NIHL	USER_SPECIFIED_GEO_SUFFIX	TRUE	TRUE	YES

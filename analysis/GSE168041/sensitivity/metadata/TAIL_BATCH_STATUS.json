@@ -1,0 +1,168 @@
+{
+  "status": "COMPLETED_TAIL_20",
+  "completed": 20,
+  "total": 20,
+  "elapsed_seconds": 712.7248518252745,
+  "jobs": [
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "omitted_sample_id": "Lateral_wall_noise_1",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 16.308012012392282,
+      "gsea_wall_seconds": 15.311747467145324
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "omitted_sample_id": "Lateral_wall_noise_2",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.921307650394738,
+      "gsea_wall_seconds": 18.869618370197713
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "omitted_sample_id": "Lateral_wall_noise_3",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 16.61129876319319,
+      "gsea_wall_seconds": 17.21592635381967
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "omitted_sample_id": "Lateral_wall_noise_4",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 16.707099973224103,
+      "gsea_wall_seconds": 18.62513485364616
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_naive_1",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.479447074234486,
+      "gsea_wall_seconds": 20.92046354431659
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_naive_2",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.405257694423199,
+      "gsea_wall_seconds": 19.58652249444276
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_naive_3",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.9150130469352,
+      "gsea_wall_seconds": 23.53234200272709
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_naive_4",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.56117994710803,
+      "gsea_wall_seconds": 21.631481525488198
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_noise_1",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.207593851722777,
+      "gsea_wall_seconds": 22.648541133850813
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_noise_2",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.211144504137337,
+      "gsea_wall_seconds": 21.521164199337363
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_noise_3",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.703037490136921,
+      "gsea_wall_seconds": 21.778711795806885
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Endothelial",
+      "omitted_sample_id": "Lateral_wall_noise_4",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 15.453903881832957,
+      "gsea_wall_seconds": 21.125675663352013
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_naive_1",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.149839024059474,
+      "gsea_wall_seconds": 20.821617051027715
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_naive_2",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 13.65583948045969,
+      "gsea_wall_seconds": 19.373246766626835
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_naive_3",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.103946130722761,
+      "gsea_wall_seconds": 22.841803522780538
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_naive_4",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.25124041363597,
+      "gsea_wall_seconds": 21.303171046078205
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_noise_1",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.496963149867952,
+      "gsea_wall_seconds": 20.52281341329217
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_noise_2",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.24909661989659,
+      "gsea_wall_seconds": 23.175588933750987
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_noise_3",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.218256988562644,
+      "gsea_wall_seconds": 22.82835829537362
+    },
+    {
+      "tissue": "Lateral_wall",
+      "safe_cell_type": "Immune_myeloid",
+      "omitted_sample_id": "Lateral_wall_noise_4",
+      "status": "COMPLETED",
+      "fit_wall_seconds": 14.048038102686405,
+      "gsea_wall_seconds": 18.41105886735022
+    }
+  ]
+}

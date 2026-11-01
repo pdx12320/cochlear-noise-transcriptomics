@@ -1,0 +1,64 @@
+{
+  "objects": [
+    {
+      "dataset": "GSE252285",
+      "object": "GSE252285_36111cells_annotated.rds",
+      "bytes": 2660127530,
+      "sha256": "24909e74b584dcb33a113d815234cda0861ed6fea07f78cf66fd99d5324d76b8",
+      "matches_remote_sha256": true
+    },
+    {
+      "dataset": "GSE168041",
+      "object": "SGN_annotated.h5ad",
+      "bytes": 462863163,
+      "sha256": "98a2c0588a015d731c3274b03aa21fcf2bdcc30efe47a2f3390f87c075cb6695",
+      "matches_remote_sha256": true
+    },
+    {
+      "dataset": "GSE168041",
+      "object": "Lateral_wall_annotated.h5ad",
+      "bytes": 476725156,
+      "sha256": "28230c28132be656e599b169c3af6c2f85aee0f5361b559fb2f7736b50ef1a91",
+      "matches_remote_sha256": true
+    }
+  ],
+  "supporting_files": 97,
+  "supporting_uncompressed_bytes": 157437689,
+  "asset_count": 6,
+  "all_assets_below_2GiB": true,
+  "original_objects_modified": false,
+  "provenance_path_sanitization": [
+    {
+      "relative_path": "GSE168041/09_differential/S1_DS_SUMMARY.tsv",
+      "field": "result_file",
+      "changed_cells": 13,
+      "original_sha256": "06591cda1c57d0d51548092d7b1806af9adff61ece2f74642d0bc50aa98f979d",
+      "public_sha256": "5f8cd521b85327f58f2041d23ff74692f3ff44d44d3fc41630233a2643ccfc8b",
+      "scientific_values_unchanged": true
+    },
+    {
+      "relative_path": "GSE168041/08_pseudobulk/S1_PSEUDOBULK_AUDIT.tsv",
+      "field": "directory",
+      "changed_cells": 16,
+      "original_sha256": "48fa2d6108ae3305eb9b034dfe65b7eb0944c371b06c3810656140004e57ec31",
+      "public_sha256": "d2718e9add1b46a5cef92791b45ecba582f564a375a4c04b93486afa1b652f63",
+      "scientific_values_unchanged": true
+    }
+  ],
+  "supporting_remote_verification": {
+    "supporting_files_checked": 97,
+    "local_original_hashes_matching_remote": 97,
+    "mismatches": []
+  },
+  "full_original_object_reassembly_verified": true,
+  "support_archive_content_manifest_verified": true,
+  "fetcher_tests": "Passed fixture download/reassembly, idempotence, corruption preservation, partial cleanup and path traversal rejection; public GitHub download awaits actual release publication.",
+  "metadata_audit": {
+    "objects_read": 16,
+    "annotated_objects": 3,
+    "DDS_objects": 13,
+    "credential_or_private_path_findings": 0,
+    "rds_metadata_strings_scanned": 747460,
+    "original_objects_modified": false
+  }
+}

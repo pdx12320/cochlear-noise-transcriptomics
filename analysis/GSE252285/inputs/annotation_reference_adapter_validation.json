@@ -1,0 +1,31 @@
+{
+  "R_syntax_files": 6,
+  "scientific_AST_identical": {
+    "marker_lineage": true,
+    "annotation_decision": true,
+    "label_assignment": true,
+    "13a": true
+  },
+  "adapted_TSV_input_executed": true,
+  "old_RDS_not_loaded": true,
+  "clusters": 28,
+  "exact_fields": {
+    "cluster": true,
+    "cell_number": true,
+    "shared_frozen_cells": true,
+    "additional_robust_qc_cells": true,
+    "frozen_v3_majority_label": true,
+    "broad_annotation_no_doublet_sensitivity": true,
+    "annotation_confidence_no_doublet_sensitivity": true,
+    "reason": true,
+    "warning": true
+  },
+  "numeric_checks": {
+    "additional_fraction": true,
+    "frozen_v3_majority_fraction": true
+  },
+  "input_rows": 31273,
+  "shared_cells": 31273,
+  "current_cells": 36111,
+  "full_analysis_rerun": false
+}

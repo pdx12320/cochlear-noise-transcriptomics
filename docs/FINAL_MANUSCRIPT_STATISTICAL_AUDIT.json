@@ -1,0 +1,85 @@
+{
+  "current_DE_gzip_files_identical_to_run": true,
+  "quoted_pathway_reference_values": [
+    {
+      "comparison": "94dB_vs_70dB",
+      "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "NES": 2.56335313320521,
+      "ES": 0.570852935772121,
+      "P": 2.5539969489194303e-19,
+      "within_contrast_FDR": 2.2985972540274797e-18,
+      "global_27_test_FDR": 3.44789588104123e-18
+    },
+    {
+      "comparison": "94dB_vs_70dB",
+      "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+      "NES": 2.05892659087403,
+      "ES": 0.487691305546495,
+      "P": 6.94670708441093e-07,
+      "within_contrast_FDR": 3.12601818798492e-06,
+      "global_27_test_FDR": 3.7512218255819e-06
+    },
+    {
+      "comparison": "94dB_vs_70dB",
+      "pathway": "GOBP_PROTEIN_FOLDING",
+      "NES": 1.79981210910946,
+      "ES": 0.401331336104364,
+      "P": 6.49007479021857e-06,
+      "within_contrast_FDR": 1.94702243706557e-05,
+      "global_27_test_FDR": 2.79753383207095e-05
+    },
+    {
+      "comparison": "105dB_vs_70dB",
+      "pathway": "HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "NES": 2.97912508574337,
+      "ES": 0.627801484210921,
+      "P": 1.63266478053042e-25,
+      "within_contrast_FDR": 1.46939830247738e-24,
+      "global_27_test_FDR": 4.40819490743214e-24
+    },
+    {
+      "comparison": "105dB_vs_70dB",
+      "pathway": "HALLMARK_UNFOLDED_PROTEIN_RESPONSE",
+      "NES": 2.51228893606859,
+      "ES": 0.568076773403981,
+      "P": 5.7496591865356e-11,
+      "within_contrast_FDR": 2.58734663394102e-10,
+      "global_27_test_FDR": 5.17469326788204e-10
+    },
+    {
+      "comparison": "105dB_vs_70dB",
+      "pathway": "GOBP_PROTEIN_FOLDING",
+      "NES": 2.15482927014104,
+      "ES": 0.454189366618897,
+      "P": 4.537724761526221e-09,
+      "within_contrast_FDR": 1.36131742845787e-08,
+      "global_27_test_FDR": 3.0629642140302e-08
+    }
+  ],
+  "unresolved_statistical_data_mismatches": [],
+  "status": "PASS",
+  "scope": "Preserved bulk numerical audit; current manuscript and figure validation is recorded in manuscript/BUILD_VALIDATION.json and manuscript/STATISTICAL_VALIDATION.json.",
+  "bulk_pathway_values_checked": 27,
+  "bulk_model_summaries_checked": 4,
+  "bulk_global_FDR_positive": 17,
+  "bulk_volcano_source_tables": [
+    {
+      "contrast": "94dB_vs_70dB",
+      "rows": 19673,
+      "omitted_from_display": 791,
+      "full_source_table_matches_current_DE": true
+    },
+    {
+      "contrast": "105dB_vs_70dB",
+      "rows": 19673,
+      "omitted_from_display": 3077,
+      "full_source_table_matches_current_DE": true
+    },
+    {
+      "contrast": "105dB_vs_94dB",
+      "rows": 19673,
+      "omitted_from_display": 3837,
+      "full_source_table_matches_current_DE": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "candidate_only": 0,
+  "candidate_reference_gene_count": 32285,
+  "candidate_unique_gene_pairs": 32285,
+  "candidates": {
+    "refdata-gex-GRCm39-2024-A": {
+      "candidate_only": 3651,
+      "candidate_reference_gene_count": 33696,
+      "candidate_unique_gene_pairs": 33696,
+      "exact_pair_order_match": false,
+      "exact_pair_set_match": false,
+      "official_only": 2240,
+      "pair_intersection": 30045,
+      "reference.json": "{\n    \"fasta_hash\": \"919e6f6b0bdc007ca02fe3fbf2fbff7aa26e022c\",\n    \"genomes\": [\n        \"GRCm39\"\n    ],\n    \"gtf_hash.gz\": \"39155e4358584f90729d3ea577f3081a09294612\",\n    \"input_fasta_files\": [\n        \"Mus_musculus.GRCm39.dna.primary_assembly.fa.modified\"\n    ],\n    \"input_gtf_files\": [\n        \"gencode.vM33.primary_assembly.annotation.gtf.filtered\"\n    ],\n    \"mem_gb\": 16,\n    \"mkref_version\": \"8.0.0\",\n    \"threads\": 2,\n    \"version\": \"2024-A\"\n}"
+    },
+    "refdata-gex-mm10-2020-A": {
+      "candidate_only": 0,
+      "candidate_reference_gene_count": 32285,
+      "candidate_unique_gene_pairs": 32285,
+      "exact_pair_order_match": true,
+      "exact_pair_set_match": true,
+      "official_only": 0,
+      "pair_intersection": 32285,
+      "reference.json": "{\n    \"fasta_hash\": \"c9c31fef9ba3b93f99ad59d9345aeee0c9cb0640\", \n    \"genomes\": [\n        \"mm10\"\n    ], \n    \"gtf_hash\": \"a1e5c2938abad988e67a268a16ff6f1af33c035e\", \n    \"input_fasta_files\": [\n        \"Mus_musculus.GRCm38.dna.primary_assembly.fa.modified\"\n    ], \n    \"input_gtf_files\": [\n        \"gencode.vM23.primary_assembly.annotation.gtf.filtered\"\n    ], \n    \"mem_gb\": 16, \n    \"mkref_version\": \"4.0.0\", \n    \"threads\": 2, \n    \"version\": \"2020-A\"\n}"
+    }
+  },
+  "exact_pair_order_match": true,
+  "exact_pair_set_match": true,
+  "matrix_columns": 39092,
+  "matrix_nonzero_entries": 89879619,
+  "matrix_rows": 32285,
+  "official_feature_count": 32285,
+  "official_matrix_metadata": {
+    "format_version": 2,
+    "software_version": "cellranger-7.1.0"
+  },
+  "official_only": 0,
+  "official_unique_feature_pairs": 32285,
+  "pair_intersection": 32285,
+  "selected_reference": "refdata-gex-mm10-2020-A",
+  "suffix_counts": {
+    "-1": 17720,
+    "-2": 10028,
+    "-3": 11344
+  }
+}

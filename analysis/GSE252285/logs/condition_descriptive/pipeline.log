@@ -1,0 +1,16 @@
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C"
+2: Setting LC_COLLATE failed, using "C"
+3: Setting LC_TIME failed, using "C"
+4: Setting LC_MESSAGES failed, using "C"
+5: Setting LC_MONETARY failed, using "C"
+6: Setting LC_PAPER failed, using "C"
+7: Setting LC_MEASUREMENT failed, using "C"
+[2026-08-17 04:18:11] Resolved-condition descriptive Top20 analysis
+sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)
+[2026-08-17 04:18:56] Resolved-condition descriptive Top20 analysis complete
+sh: warning: setlocale: LC_ALL: cannot change locale (C.UTF-8)

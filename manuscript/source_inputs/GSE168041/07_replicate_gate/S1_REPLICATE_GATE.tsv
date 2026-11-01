@@ -1,0 +1,17 @@
+tissue	cell_type	naive_samples_ge20	noise_samples_ge20	naive_min_cells	noise_min_cells	naive_dominant_sample_fraction	noise_dominant_sample_fraction	naive_min_library_size	noise_min_library_size	status	reason
+SGN	Endothelial	4	4	79	97	0.3733108108108108	0.3143418467583497	405818	538157	FORMAL_INFERENCE	PASS
+SGN	Epithelial / supporting-associated	4	4	582	604	0.3639630390143737	0.274659581534374	3432070	3967545	FORMAL_INFERENCE	PASS
+SGN	Fibrocyte / mesenchymal	4	4	416	783	0.35826634044040545	0.2949474224160041	2254940	3948959	FORMAL_INFERENCE	PASS
+SGN	Glial / Schwann-like	4	4	352	323	0.30442081701175155	0.3271641791044776	1407381	1685893	FORMAL_INFERENCE	PASS
+SGN	Immune / myeloid	4	4	82	107	0.4743083003952569	0.379874213836478	344390	714331	FORMAL_INFERENCE	PASS
+SGN	Melanocyte / intermediate	1	1	0	0	1.0	0.9902912621359223	0	0	DESCRIPTIVE_ONLY	naive_replicates_lt_3;naive_sample_dominance_gt_0.5;naive_nonpositive_library;noise_replicates_lt_3;noise_sample_dominance_gt_0.5;noise_nonpositive_library
+SGN	Neuronal / SGN	4	4	433	927	0.3863956530489032	0.31957791596005275	3053110	13824629	FORMAL_INFERENCE	PASS
+SGN	Pericyte / vascular smooth muscle	4	4	35	26	0.4375	0.41134751773049644	155973	119240	FORMAL_INFERENCE	PASS
+SGN	UNRESOLVED	1	0	4	0	0.9737742303306728	0.75	45257	0	DESCRIPTIVE_ONLY	unresolved_annotation;naive_replicates_lt_3;naive_sample_dominance_gt_0.5;noise_replicates_lt_3;noise_sample_dominance_gt_0.5;noise_nonpositive_library
+Lateral_wall	Endothelial	4	4	236	216	0.34289617486338797	0.36492890995260663	1909519	2172648	FORMAL_INFERENCE	PASS
+Lateral_wall	Epithelial / supporting-associated	4	4	963	948	0.4106048053024027	0.3217046954554026	11548416	11677768	FORMAL_INFERENCE	PASS
+Lateral_wall	Fibrocyte / mesenchymal	4	4	133	322	0.4664987405541562	0.3112216694306247	897364	2392418	FORMAL_INFERENCE	PASS
+Lateral_wall	Immune / myeloid	4	4	23	79	0.3967611336032389	0.34976525821596244	97347	579953	FORMAL_INFERENCE	PASS
+Lateral_wall	Melanocyte / intermediate	4	4	1178	1503	0.2850490603692001	0.2704676309507092	12365861	18244503	FORMAL_INFERENCE	PASS
+Lateral_wall	Pericyte / vascular smooth muscle	4	4	72	74	0.44282744282744285	0.33707865168539325	248478	303686	FORMAL_INFERENCE	PASS
+Lateral_wall	UNRESOLVED	0	1	0	0	1.0	1.0	0	0	DESCRIPTIVE_ONLY	unresolved_annotation;naive_replicates_lt_3;naive_sample_dominance_gt_0.5;naive_nonpositive_library;noise_replicates_lt_3;noise_sample_dominance_gt_0.5;noise_nonpositive_library

@@ -1,0 +1,2 @@
+path	source_commit	source_sha256	public_sha256	transformation
+analysis/GSE252285/library_provenance/commands/cellranger_environment.txt	1d79d85bc9b4003d236dfa3dd7cbdac06bbd3e56	77e12753bb06ad6c8b503498da0d3b01465334a84b3999a3da8391bcdeeb01d3	3067d5e1932a28e6b7db15fc9c6abba22b109c00772bf86554e34d7018e7591b	Machine-specific external-disk mount replaced with /mnt/external_storage; command results, software versions and resource values unchanged.

@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+Lateral_wall_naive_1	GSM5124299	Naive	1	Lateral_wall	Melanocyte / intermediate	1178	12365861	-21.949888841623	-18.079669076145784
+Lateral_wall_naive_2	GSM5124300	Naive	2	Lateral_wall	Melanocyte / intermediate	1714	15234718	-14.709145991810209	15.30940771825609
+Lateral_wall_naive_3	GSM5124301	Naive	3	Lateral_wall	Melanocyte / intermediate	1610	14684572	-18.602304945640444	-1.9684480380464615
+Lateral_wall_naive_4	GSM5124302	Naive	4	Lateral_wall	Melanocyte / intermediate	1511	13238479	-16.24188786182062	3.2740123779231727
+Lateral_wall_noise_1	GSM5124303	Noise	1	Lateral_wall	Melanocyte / intermediate	1503	18244503	28.118368421233793	-17.6078430456724
+Lateral_wall_noise_2	GSM5124304	Noise	2	Lateral_wall	Melanocyte / intermediate	1885	21048548	8.784280762090502	1.0919443199562033
+Lateral_wall_noise_3	GSM5124305	Noise	3	Lateral_wall	Melanocyte / intermediate	1926	21874609	13.295462249696115	6.575409101971202
+Lateral_wall_noise_4	GSM5124306	Noise	4	Lateral_wall	Melanocyte / intermediate	1807	20960145	21.30511620787377	11.405186641757979

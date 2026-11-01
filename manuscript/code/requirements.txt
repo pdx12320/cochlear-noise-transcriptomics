@@ -1,0 +1,7 @@
+# Figure rendering only: Python 3.12.14
+numpy==2.3.5
+pandas==2.2.3
+reportlab==4.4.9
+Pillow==12.3.0
+# External executable: Poppler pdftoppm 26.05.0
+# Embedding export uses the separate archived GSE168041 AnnData environment.

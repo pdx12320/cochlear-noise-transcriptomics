@@ -1,0 +1,70 @@
+"Package"	"Version"	"Priority"	"Built"	"License"	"Repository"	"RemoteType"	"RemoteUrl"	"RemoteSha"	"Packaged"
+"BH"	"1.90.0-1"	NA	"R 4.5.2; ; 2025-12-14 12:37:18 UTC; unix"	"BSL-1.0"	"CRAN"	NA	NA	NA	"2025-12-13 23:51:39 UTC; edd"
+"BiocParallel"	"1.44.0"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-02-07 02:13:15 UTC; unix"	"GPL-2 | GPL-3 | BSL-1.0"	"Bioconductor 3.22"	NA	NA	NA	"2025-10-30 02:48:40 UTC; biocbuild"
+"Matrix"	"1.7-6"	"recommended"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-08-11 08:43:43 UTC; unix"	"GPL (>= 2) | file LICENCE"	"CRAN"	NA	NA	NA	"2026-07-24 11:40:35 UTC; maechler"
+"R6"	"2.6.1"	NA	"R 4.5.1; ; 2025-09-09 19:54:18 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-02-14 21:15:19 UTC; winston"
+"RColorBrewer"	"1.1-3"	NA	"R 4.5.1; ; 2025-09-09 21:14:19 UTC; unix"	"Apache License 2.0"	"CRAN"	NA	NA	NA	"2022-04-03 10:26:20 UTC; neuwirth"
+"Rcpp"	"1.1.2"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-07-05 15:14:15 UTC; unix"	"GPL (>= 2)"	"CRAN"	NA	NA	NA	"2026-07-01 11:00:56 UTC; edd"
+"S7"	"0.2.2"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-22 12:37:19 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-20 21:37:20 UTC; hadleywickham"
+"assertthat"	"0.2.1"	NA	"R 4.5.1; ; 2025-09-09 19:49:33 UTC; unix"	"GPL-3"	"CRAN"	NA	NA	NA	"2019-03-21 13:11:01 UTC; hadley"
+"babelgene"	"22.9"	NA	"R 4.5.1; ; 2025-09-17 20:32:31 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2022-09-28 16:45:01 UTC; id460"
+"base"	"4.5.3"	"base"	"R 4.5.3; ; 2026-06-15 11:22:37 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"base64enc"	"0.1-6"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-02-02 10:23:13 UTC; unix"	"GPL-2 | GPL-3"	"CRAN"	NA	NA	NA	"2026-02-02 01:51:07 UTC; rforge"
+"cli"	"3.6.6"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-09 11:21:33 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-08 18:14:45 UTC; gaborcsardi"
+"codetools"	"0.2-20"	"recommended"	"R 4.5.1; ; 2025-09-09 21:09:21 UTC; unix"	"GPL"	"CRAN"	NA	NA	NA	"2024-03-31 18:18:09 UTC; luke"
+"colorspace"	"2.1-3"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-07-17 10:14:27 UTC; unix"	"BSD_3_clause + file LICENSE"	"CRAN"	NA	NA	NA	"2026-07-10 13:51:25 UTC; zeileis"
+"compiler"	"4.5.3"	"base"	"R 4.5.3; ; 2026-06-15 11:21:08 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"cowplot"	"1.2.0"	NA	"R 4.5.1; ; 2025-09-10 15:03:14 UTC; unix"	"GPL-2"	"CRAN"	NA	NA	NA	"2025-07-06 18:45:15 UTC; clauswilke"
+"cpp11"	"0.5.5"	NA	"R 4.5.3; ; 2026-05-06 17:41:08 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-05-06 12:49:17 UTC; davis"
+"crayon"	"1.5.3"	NA	"R 4.5.1; ; 2025-09-09 21:13:26 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2024-06-20 11:49:08 UTC; gaborcsardi"
+"curl"	"7.1.0"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-25 20:08:19 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-21 14:47:54 UTC; jeroen"
+"data.table"	"1.18.4"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-07-07 12:46:23 UTC; unix"	"MPL-2.0 | file LICENSE"	"CRAN"	NA	NA	NA	"2026-05-05 05:46:53 UTC; a00932230"
+"datasets"	"4.5.3"	"base"	"R 4.5.3; ; 2026-06-15 11:22:16 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"dplyr"	"1.2.1"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-03 09:04:42 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-02 19:51:05 UTC; hadleywickham"
+"ellipsis"	"0.3.3"	NA	"R 4.5.3; ; 2026-04-04 07:20:37 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-03 07:11:22 UTC; lionel"
+"fansi"	"1.0.7"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2025-11-19 15:28:04 UTC; unix"	"GPL-2 | GPL-3"	"CRAN"	NA	NA	NA	"2025-11-18 23:27:14 UTC; brodie"
+"farver"	"2.1.2"	NA	"R 4.5.1; x86_64-conda-linux-gnu; 2025-09-09 18:07:12 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2024-05-13 08:31:27 UTC; thomas"
+"fastmatch"	"1.1-8"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-01-18 08:29:04 UTC; unix"	"GPL-2"	"CRAN"	NA	NA	NA	"2026-01-17 08:04:05 UTC; rforge"
+"fgsea"	"1.36.2"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-02-08 22:54:11 UTC; unix"	"MIT + file LICENCE"	"Bioconductor 3.22"	NA	NA	NA	"2026-01-05 22:45:36 UTC; biocbuild"
+"formatR"	"1.14"	NA	"R 4.5.1; ; 2025-09-10 23:08:57 UTC; unix"	"GPL"	"CRAN"	NA	NA	NA	"2023-01-17 21:46:29 UTC; yihui"
+"futile.logger"	"1.4.9"	NA	"R 4.5.2; ; 2025-12-29 11:02:46 UTC; unix"	"LGPL-3"	"CRAN"	NA	NA	NA	"2025-12-22 17:34:15 UTC; brian"
+"futile.options"	"1.0.1"	NA	"R 4.5.1; ; 2025-09-11 16:23:29 UTC; unix"	"LGPL-3"	"CRAN"	NA	NA	NA	"2018-04-20 16:08:58 UTC; brian"
+"generics"	"0.1.4"	NA	"R 4.5.1; ; 2025-09-09 22:12:54 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-05-09 18:17:41 UTC; hadleywickham"
+"ggplot2"	"4.0.3"	NA	"R 4.5.3; ; 2026-04-22 12:19:35 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-21 12:47:29 UTC; thomas"
+"glue"	"1.8.1"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-17 08:13:18 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-16 22:53:02 UTC; jenny"
+"grDevices"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:21:42 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"graphics"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:21:48 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"grid"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:22:28 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"gtable"	"0.3.6"	NA	"R 4.5.1; ; 2025-09-10 00:17:54 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2024-10-25 12:42:05 UTC; thomas"
+"isoband"	"0.3.0"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2025-12-23 22:54:44 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-12-05 12:52:07 UTC; thomas"
+"jsonlite"	"2.0.0"	NA	"R 4.5.1; x86_64-conda-linux-gnu; 2025-09-09 12:06:21 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-03-26 11:36:10 UTC; jeroen"
+"labeling"	"0.4.3"	NA	"R 4.5.1; ; 2025-09-09 22:13:23 UTC; unix"	"MIT + file LICENSE | Unlimited"	"CRAN"	NA	NA	NA	"2023-08-29 21:01:57 UTC; loki"
+"lambda.r"	"1.2.4"	NA	"R 4.5.1; ; 2025-09-11 16:37:35 UTC; unix"	"LGPL-3"	"CRAN"	NA	NA	NA	"2019-09-15 08:08:15 UTC; brian"
+"lattice"	"0.23-1"	"recommended"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-08-20 14:50:47 UTC; unix"	"GPL (>= 2)"	"CRAN"	NA	NA	NA	"2026-08-12 08:02:41 UTC; deepayan"
+"lifecycle"	"1.0.5"	NA	"R 4.5.2; ; 2026-01-08 09:47:42 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-01-07 15:00:49 UTC; lionel"
+"magrittr"	"2.0.5"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-04 10:30:06 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-03 08:09:48 UTC; lionel"
+"methods"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:22:16 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"msigdbr"	"26.1.1"	NA	"R 4.5.3; ; 2026-08-20 11:27:50 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-08-19 15:59:37 UTC; id460"
+"munsell"	"0.5.1"	NA	"R 4.5.1; ; 2025-09-09 22:12:03 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2024-04-01 20:42:09 UTC; charlottewickham"
+"parallel"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:22:36 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"pillar"	"1.11.1"	NA	"R 4.5.1; ; 2025-09-17 22:55:57 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-09-17 03:59:12 UTC; kirill"
+"pkgconfig"	"2.0.3"	NA	"R 4.5.1; ; 2025-09-09 19:52:14 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2019-09-22 08:42:40 UTC; gaborcsardi"
+"rlang"	"1.3.0"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-07-05 14:03:15 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-07-01 15:54:09 UTC; lionel"
+"scales"	"1.4.0"	NA	"R 4.5.1; ; 2025-09-10 06:58:49 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2025-04-23 18:27:04 UTC; thomas"
+"snow"	"0.4-4"	NA	"R 4.5.1; ; 2025-09-11 05:28:58 UTC; unix"	"GPL"	"CRAN"	NA	NA	NA	"2021-10-26 17:36:46 UTC; luke"
+"splines"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:22:33 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"stats"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:21:54 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"stats4"	"4.5.3"	"base"	"R 4.5.3; ; 2026-06-15 11:22:34 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"stringi"	"1.8.9"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-08-05 11:24:45 UTC; unix"	"file LICENSE"	"CRAN"	NA	NA	NA	"2026-07-30 08:44:50 UTC; gagolews"
+"svglite"	"2.2.2"	NA	"R 4.5.1; x86_64-conda-linux-gnu; 2025-10-21 18:01:32 UTC; unix"	"GPL (>= 2)"	"CRAN"	NA	NA	NA	"2025-10-20 15:57:25 UTC; thomas"
+"systemfonts"	"1.3.2"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-03-06 11:51:25 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-03-05 12:24:52 UTC; thomas"
+"tcltk"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:22:35 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"textshaping"	"1.0.5"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-03-06 17:04:01 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-03-06 09:57:58 UTC; thomas"
+"tibble"	"3.3.1"	NA	"R 4.5.2; x86_64-conda-linux-gnu; 2026-01-11 13:45:15 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-01-10 18:28:47 UTC; kirill"
+"tidyselect"	"1.2.1"	NA	"R 4.5.1; ; 2025-09-10 03:43:08 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2024-03-11 11:46:04 UTC; lionel"
+"tools"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:21:08 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"utf8"	"1.2.6"	NA	"R 4.5.1; x86_64-conda-linux-gnu; 2025-09-09 13:31:07 UTC; unix"	"Apache License (== 2.0) | file LICENSE"	"CRAN"	NA	NA	NA	"2025-06-08 18:28:11 UTC; kirill"
+"utils"	"4.5.3"	"base"	"R 4.5.3; x86_64-conda-linux-gnu; 2026-06-15 11:21:34 UTC; unix"	"Part of R 4.5.3"	NA	NA	NA	NA	NA
+"vctrs"	"0.7.3"	NA	"R 4.5.3; x86_64-conda-linux-gnu; 2026-04-11 08:59:34 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-04-10 14:27:17 UTC; davis"
+"viridisLite"	"0.4.3"	NA	"R 4.5.2; ; 2026-02-04 07:50:57 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-02-03 20:55:07 UTC; simon"
+"withr"	"3.0.3"	NA	"R 4.5.3; ; 2026-06-19 08:10:21 UTC; unix"	"MIT + file LICENSE"	"CRAN"	NA	NA	NA	"2026-06-17 11:51:00 UTC; lionel"

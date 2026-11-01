@@ -1,0 +1,3 @@
+gene	primary_cell_type	primary_mean_expression	primary_pct_expression	second_cell_type	second_mean_expression	second_pct_expression	number_celltypes_pct_ge_10	top_1pct_raw_count_share	few_cell_driver	widespread_across_broad_types
+Apold1	Endothelial_vascular	5.09818181818182	66.9090909090909	Fibrocyte_mesenchymal	0.41307974641308	15.8158158158158	3	0.671267785092376	YES	YES
+Errfi1	Fibrocyte_mesenchymal	1.73973973973974	51.7517517517518	Supporting_epithelial	1.3489932885906	51.6778523489933	5	0.406121957098096	NO	YES

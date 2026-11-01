@@ -1,0 +1,6 @@
+check	pass
+input_object_sha256_unchanged	TRUE
+all_pipeline_validations_pass	TRUE
+mapping_resolved_yes	TRUE
+mapping_complete_three_rows	TRUE
+no_rds_written_in_analysis_outputs	TRUE

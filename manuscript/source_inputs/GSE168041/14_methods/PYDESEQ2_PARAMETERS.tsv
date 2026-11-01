@@ -1,0 +1,13 @@
+parameter	value
+Python	3.12.13
+PyDESeq2	0.5.4
+design	~condition
+contrast	Noise_vs_Naive
+reference	Naive
+min_total_count	10
+alpha	0.05
+refit_cooks	True
+cooks_filter	True
+independent_filter	True
+n_cpus	8
+seed	20260825

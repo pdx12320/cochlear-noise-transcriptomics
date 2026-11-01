@@ -1,0 +1,9 @@
+{
+  "scope": "Abstract wording only; non-abstract scientific sections, numerical outputs, figures, inputs and scientific execution records preserved",
+  "changed_sections": [
+    "abstract.tex",
+    "abstract_unstructured.tex"
+  ],
+  "numerical_results_in_abstract": false,
+  "new_analyses": false
+}

@@ -1,0 +1,31 @@
+dataset	cell_type	cells	fraction
+SGN	Endothelial	1101	0.034890353656990745
+SGN	Epithelial / supporting-associated	6907	0.2188807199898593
+SGN	Fibrocyte / mesenchymal	6760	0.2142223348966916
+SGN	Glial / Schwann-like	3462	0.10970972239827607
+SGN	Immune / myeloid	1554	0.04924578527062999
+SGN	Melanocyte / intermediate	250	0.007922423627836227
+SGN	Neuronal / SGN	10276	0.3256433007985803
+SGN	Pericyte / vascular smooth muscle	365	0.011566738496640892
+SGN	UNRESOLVED	881	0.027918620864494866
+SGN	Hair / sensory	0	0.0
+Lateral wall	Endothelial	2941	0.0887206250565628
+Lateral wall	Epithelial / supporting-associated	11338	0.3420314338290748
+Lateral wall	Fibrocyte / mesenchymal	3794	0.11445292467344415
+Lateral wall	Glial / Schwann-like	0	0.0
+Lateral wall	Immune / myeloid	673	0.0203022715617364
+Lateral wall	Melanocyte / intermediate	13134	0.39621104709040994
+Lateral wall	Neuronal / SGN	0	0.0
+Lateral wall	Pericyte / vascular smooth muscle	926	0.027934477661467918
+Lateral wall	UNRESOLVED	343	0.010347220127303991
+Lateral wall	Hair / sensory	0	0.0
+GSE252285	Endothelial	275	0.0076154080474093765
+GSE252285	Epithelial / supporting-associated	149	0.004126166542050899
+GSE252285	Fibrocyte / mesenchymal	2997	0.08299410152031236
+GSE252285	Glial / Schwann-like	264	0.007310791725513002
+GSE252285	Immune / myeloid	27676	0.7664146658912797
+GSE252285	Melanocyte / intermediate	0	0.0
+GSE252285	Neuronal / SGN	0	0.0
+GSE252285	Pericyte / vascular smooth muscle	0	0.0
+GSE252285	UNRESOLVED	4726	0.1308742488438426
+GSE252285	Hair / sensory	24	0.000664617429592091

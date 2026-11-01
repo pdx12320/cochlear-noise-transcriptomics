@@ -1,0 +1,425 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8.333333in" height="10.194444in" viewBox="0 0 600 734">
+<rect width="100%" height="100%" fill="white"/>
+<text x="12" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 12 20)">a</text>
+<text x="28" y="20" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 20)">Effect of assigning cluster 19 to fibrocytes</text>
+<rect x="30" y="37" width="6" height="6" fill="#4477AA" stroke="none" stroke-width="0.5"/>
+<text x="39" y="43" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 39 43)">Endothelial</text>
+<rect x="215" y="37" width="6" height="6" fill="#CCBB44" stroke="none" stroke-width="0.5"/>
+<text x="224" y="43" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 224 43)">Fibrocyte / mesenchymal</text>
+<rect x="400" y="37" width="6" height="6" fill="#AA4499" stroke="none" stroke-width="0.5"/>
+<text x="409" y="43" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 409 43)">Glial</text>
+<rect x="30" y="51" width="6" height="6" fill="#EE8866" stroke="none" stroke-width="0.5"/>
+<text x="39" y="57" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 39 57)">Immune / myeloid</text>
+<rect x="215" y="51" width="6" height="6" fill="#66A699" stroke="none" stroke-width="0.5"/>
+<text x="224" y="57" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 224 57)">Supporting epithelial</text>
+<rect x="400" y="51" width="6" height="6" fill="#B8BEC5" stroke="none" stroke-width="0.5"/>
+<text x="409" y="57" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 409 57)">Unassigned</text>
+<text x="164.5" y="70" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 164.5 70)">Control</text>
+<text x="138.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 84)">Original</text>
+<text x="138.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 94)">annotation</text>
+<text x="191.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 84)">Cluster 19</text>
+<text x="191.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 94)">as fibrocytes</text>
+<text x="316.5" y="70" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 316.5 70)">HHL</text>
+<text x="290.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 84)">Original</text>
+<text x="290.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 94)">annotation</text>
+<text x="343.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 84)">Cluster 19</text>
+<text x="343.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 94)">as fibrocytes</text>
+<text x="468.5" y="70" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 468.5 70)">NIHL</text>
+<text x="442.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 84)">Original</text>
+<text x="442.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 94)">annotation</text>
+<text x="495.0" y="84" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 84)">Cluster 19</text>
+<text x="495.0" y="94" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 94)">as fibrocytes</text>
+<text x="24" y="110.7" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 110.7)">*</text>
+<text x="39" y="110.7" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 110.7)">Dusp1</text>
+<rect x="114" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 110.4)">Endothelial</text>
+<rect x="167" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 110.4)">Endothelial</text>
+<rect x="266" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 110.4)">Endothelial</text>
+<rect x="319" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 110.4)">Endothelial</text>
+<rect x="418" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 110.4)">Endothelial</text>
+<rect x="471" y="102.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="110.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 110.4)">Endothelial</text>
+<text x="39" y="123.10000000000001" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 123.10000000000001)">Fos</text>
+<rect x="114" y="114.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 122.80000000000001)">Glial</text>
+<rect x="167" y="114.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 122.80000000000001)">Glial</text>
+<rect x="266" y="114.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 122.80000000000001)">Endothelial</text>
+<rect x="319" y="114.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 122.80000000000001)">Endothelial</text>
+<rect x="418" y="114.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 122.80000000000001)">Endothelial</text>
+<rect x="471" y="114.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="122.80000000000001" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 122.80000000000001)">Endothelial</text>
+<text x="24" y="135.5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 135.5)">*</text>
+<text x="39" y="135.5" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 135.5)">Nfkbia</text>
+<rect x="114" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 135.2)">Endothelial</text>
+<rect x="167" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 135.2)">Endothelial</text>
+<rect x="266" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 135.2)">Endothelial</text>
+<rect x="319" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 135.2)">Endothelial</text>
+<rect x="418" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 135.2)">Endothelial</text>
+<rect x="471" y="126.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="135.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 135.2)">Endothelial</text>
+<text x="39" y="147.89999999999998" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 147.89999999999998)">Arrdc2</text>
+<rect x="114" y="139.2" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 147.6)">Glial</text>
+<rect x="167" y="139.2" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 147.6)">Glial</text>
+<rect x="266" y="139.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 147.6)">Fibrocyte</text>
+<rect x="319" y="139.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 147.6)">Fibrocyte</text>
+<rect x="418" y="139.2" width="48" height="10.700000000000001" fill="#66A699" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 147.6)">Supporting</text>
+<rect x="471" y="139.2" width="48" height="10.700000000000001" fill="#66A699" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="147.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 147.6)">Supporting</text>
+<text x="24" y="160.29999999999998" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 160.29999999999998)">*</text>
+<text x="39" y="160.29999999999998" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 160.29999999999998)">Apold1</text>
+<rect x="114" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 160.0)">Endothelial</text>
+<rect x="167" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 160.0)">Endothelial</text>
+<rect x="266" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 160.0)">Endothelial</text>
+<rect x="319" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 160.0)">Endothelial</text>
+<rect x="418" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 160.0)">Endothelial</text>
+<rect x="471" y="151.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="160.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 160.0)">Endothelial</text>
+<text x="24" y="172.7" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 172.7)">*</text>
+<text x="39" y="172.7" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 172.7)">Sik1</text>
+<rect x="114" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 172.4)">Endothelial</text>
+<rect x="167" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 172.4)">Endothelial</text>
+<rect x="266" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 172.4)">Endothelial</text>
+<rect x="319" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 172.4)">Endothelial</text>
+<rect x="418" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 172.4)">Endothelial</text>
+<rect x="471" y="164.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="172.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 172.4)">Endothelial</text>
+<text x="39" y="185.1" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 185.1)">Per1</text>
+<rect x="114" y="176.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 184.8)">Glial</text>
+<rect x="167" y="176.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 184.8)">Glial</text>
+<rect x="266" y="176.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 184.8)">Endothelial</text>
+<rect x="319" y="176.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 184.8)">Endothelial</text>
+<rect x="418" y="176.4" width="48" height="10.700000000000001" fill="#66A699" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 184.8)">Supporting</text>
+<rect x="471" y="176.4" width="48" height="10.700000000000001" fill="#66A699" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="184.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 184.8)">Supporting</text>
+<text x="24" y="197.5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 197.5)">*</text>
+<text x="39" y="197.5" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 197.5)">Ccn1</text>
+<rect x="114" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 197.20000000000002)">Fibrocyte</text>
+<rect x="167" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 197.20000000000002)">Fibrocyte</text>
+<rect x="266" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 197.20000000000002)">Fibrocyte</text>
+<rect x="319" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 197.20000000000002)">Fibrocyte</text>
+<rect x="418" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 197.20000000000002)">Fibrocyte</text>
+<rect x="471" y="188.8" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="197.20000000000002" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 197.20000000000002)">Fibrocyte</text>
+<text x="24" y="209.89999999999998" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#CA5A49" transform="rotate(0 24 209.89999999999998)">+</text>
+<text x="39" y="209.89999999999998" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 209.89999999999998)">Cebpb</text>
+<rect x="114" y="201.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 209.6)">Fibrocyte</text>
+<rect x="167" y="201.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 209.6)">Fibrocyte</text>
+<rect x="266" y="201.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 209.6)">Fibrocyte</text>
+<rect x="319" y="201.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 209.6)">Fibrocyte</text>
+<rect x="418" y="201.2" width="48" height="10.700000000000001" fill="#EE8866" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 209.6)">Myeloid</text>
+<rect x="471" y="201.2" width="48" height="10.700000000000001" fill="#CCBB44" stroke="#CA5A49" stroke-width="1.8"/>
+<text x="495.0" y="209.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 209.6)">Fibrocyte</text>
+<text x="24" y="222.3" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 222.3)">*</text>
+<text x="39" y="222.3" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 222.3)">Fosb</text>
+<rect x="114" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 222.00000000000003)">Endothelial</text>
+<rect x="167" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 222.00000000000003)">Endothelial</text>
+<rect x="266" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 222.00000000000003)">Endothelial</text>
+<rect x="319" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 222.00000000000003)">Endothelial</text>
+<rect x="418" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 222.00000000000003)">Endothelial</text>
+<rect x="471" y="213.60000000000002" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="222.00000000000003" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 222.00000000000003)">Endothelial</text>
+<text x="24" y="234.7" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 234.7)">*</text>
+<text x="39" y="234.7" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 234.7)">Rasd1</text>
+<rect x="114" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 234.4)">Endothelial</text>
+<rect x="167" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 234.4)">Endothelial</text>
+<rect x="266" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 234.4)">Endothelial</text>
+<rect x="319" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 234.4)">Endothelial</text>
+<rect x="418" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 234.4)">Endothelial</text>
+<rect x="471" y="226.0" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="234.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 234.4)">Endothelial</text>
+<text x="39" y="247.1" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 247.1)">Gadd45g</text>
+<rect x="114" y="238.4" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 246.8)">Fibrocyte</text>
+<rect x="167" y="238.4" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 246.8)">Fibrocyte</text>
+<rect x="266" y="238.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 246.8)">Endothelial</text>
+<rect x="319" y="238.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 246.8)">Endothelial</text>
+<rect x="418" y="238.4" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 246.8)">Fibrocyte</text>
+<rect x="471" y="238.4" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="246.8" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 246.8)">Fibrocyte</text>
+<text x="24" y="259.5" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 259.5)">*</text>
+<text x="39" y="259.5" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 259.5)">Depp1</text>
+<rect x="114" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 259.2)">Endothelial</text>
+<rect x="167" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 259.2)">Endothelial</text>
+<rect x="266" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 259.2)">Endothelial</text>
+<rect x="319" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 259.2)">Endothelial</text>
+<rect x="418" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 259.2)">Endothelial</text>
+<rect x="471" y="250.8" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="259.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 259.2)">Endothelial</text>
+<text x="39" y="271.90000000000003" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 271.90000000000003)">Serpine1</text>
+<rect x="114" y="263.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 271.6)">Fibrocyte</text>
+<rect x="167" y="263.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 271.6)">Fibrocyte</text>
+<rect x="266" y="263.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 271.6)">Fibrocyte</text>
+<rect x="319" y="263.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 271.6)">Fibrocyte</text>
+<rect x="418" y="263.20000000000005" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 271.6)">Endothelial</text>
+<rect x="471" y="263.20000000000005" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="271.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 271.6)">Endothelial</text>
+<text x="24" y="284.3" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 284.3)">*</text>
+<text x="39" y="284.3" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 284.3)">Errfi1</text>
+<rect x="114" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 284.0)">Fibrocyte</text>
+<rect x="167" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 284.0)">Fibrocyte</text>
+<rect x="266" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 284.0)">Fibrocyte</text>
+<rect x="319" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 284.0)">Fibrocyte</text>
+<rect x="418" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 284.0)">Fibrocyte</text>
+<rect x="471" y="275.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="284.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 284.0)">Fibrocyte</text>
+<text x="24" y="296.7" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 296.7)">*</text>
+<text x="39" y="296.7" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 296.7)">Nr4a1</text>
+<rect x="114" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 296.4)">Fibrocyte</text>
+<rect x="167" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 296.4)">Fibrocyte</text>
+<rect x="266" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 296.4)">Fibrocyte</text>
+<rect x="319" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 296.4)">Fibrocyte</text>
+<rect x="418" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 296.4)">Fibrocyte</text>
+<rect x="471" y="288.0" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="296.4" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 296.4)">Fibrocyte</text>
+<text x="39" y="309.09999999999997" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 309.09999999999997)">Sgk1</text>
+<rect x="114" y="300.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 138.0 308.79999999999995)">Glial</text>
+<rect x="167" y="300.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 191.0 308.79999999999995)">Glial</text>
+<rect x="266" y="300.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 308.79999999999995)">Glial</text>
+<rect x="319" y="300.4" width="48" height="10.700000000000001" fill="#AA4499" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 308.79999999999995)">Glial</text>
+<rect x="418" y="300.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 442.0 308.79999999999995)">Endothelial</text>
+<rect x="471" y="300.4" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="308.79999999999995" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 495.0 308.79999999999995)">Endothelial</text>
+<text x="39" y="321.5" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 321.5)">Rgs1</text>
+<rect x="114" y="312.8" width="48" height="10.700000000000001" fill="#EE8866" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 321.2)">Myeloid</text>
+<rect x="167" y="312.8" width="48" height="10.700000000000001" fill="#EE8866" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 321.2)">Myeloid</text>
+<rect x="266" y="312.8" width="48" height="10.700000000000001" fill="#B8BEC5" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 321.2)">Unassigned</text>
+<rect x="319" y="312.8" width="48" height="10.700000000000001" fill="#B8BEC5" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 321.2)">Unassigned</text>
+<rect x="418" y="312.8" width="48" height="10.700000000000001" fill="#EE8866" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 321.2)">Myeloid</text>
+<rect x="471" y="312.8" width="48" height="10.700000000000001" fill="#EE8866" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="321.2" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 321.2)">Myeloid</text>
+<text x="24" y="333.90000000000003" font-family="Arial, sans-serif" font-size="10" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 24 333.90000000000003)">*</text>
+<text x="39" y="333.90000000000003" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 333.90000000000003)">Egr1</text>
+<rect x="114" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 333.6)">Fibrocyte</text>
+<rect x="167" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 333.6)">Fibrocyte</text>
+<rect x="266" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 290.0 333.6)">Fibrocyte</text>
+<rect x="319" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 343.0 333.6)">Fibrocyte</text>
+<rect x="418" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 333.6)">Fibrocyte</text>
+<rect x="471" y="325.20000000000005" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="333.6" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 333.6)">Fibrocyte</text>
+<text x="39" y="346.3" font-family="Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#171717" transform="rotate(0 39 346.3)">Jun</text>
+<rect x="114" y="337.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="138.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 138.0 346.0)">Fibrocyte</text>
+<rect x="167" y="337.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="191.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 191.0 346.0)">Fibrocyte</text>
+<rect x="266" y="337.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="290.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 290.0 346.0)">Endothelial</text>
+<rect x="319" y="337.6" width="48" height="10.700000000000001" fill="#4477AA" stroke="none" stroke-width="1.8"/>
+<text x="343.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 343.0 346.0)">Endothelial</text>
+<rect x="418" y="337.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="442.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 442.0 346.0)">Fibrocyte</text>
+<rect x="471" y="337.6" width="48" height="10.700000000000001" fill="#CCBB44" stroke="none" stroke-width="1.8"/>
+<text x="495.0" y="346.0" font-family="Arial, sans-serif" font-size="7.3" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 495.0 346.0)">Fibrocyte</text>
+<text x="28" y="365" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 365)">* Primary recurrent genes</text>
+<text x="199" y="365" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 199 365)">+ Additional recurrent gene</text>
+<rect x="388" y="358" width="8" height="8" fill="#FFFFFF" stroke="#CA5A49" stroke-width="1.5"/>
+<text x="402" y="365" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 402 365)">Changed category</text>
+<text x="12" y="390" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 12 390)">b</text>
+<text x="28" y="390" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 390)">Matched-null pathway localization</text>
+<circle cx="30" cy="405" r="2.8" fill="#377DA8" stroke="none" stroke-width="0.5"/>
+<text x="37" y="408" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 37 408)">Original annotation</text>
+<circle cx="148" cy="405" r="2.8" fill="#CA5A49" stroke="none" stroke-width="0.5"/>
+<text x="155" y="408" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 155 408)">Cluster 19 as fibrocytes</text>
+<text x="292" y="408" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 292 408)">Filled: FDR &lt; 0.05 and positive delta; open: otherwise</text>
+<text x="28" y="429" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 429)">Expression + detection matching</text>
+<text x="449" y="425" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 425)">Original annotation</text>
+<text x="543" y="425" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 425)">Cluster 19 as fibrocytes</text>
+<text x="449" y="434" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 434)">FDR</text>
+<text x="543" y="434" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 434)">FDR</text>
+<rect x="23" y="440" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="451" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 451)">MAPK / AP-1 - endothelial</text>
+<line x1="200" y1="448" x2="386" y2="448" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="254.48141558878703" y1="445.5" x2="254.48141558878703" y2="450.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="254.48141558878703" cy="445.5" r="2.7" fill="#FFFFFF" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="254.48141558878703" cy="450.5" r="2.7" fill="#FFFFFF" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="451" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 451)">0.0724</text>
+<text x="543" y="451" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 451)">0.0725</text>
+<text x="28" y="469" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 469)">VEGF / angiogenesis - endothelial</text>
+<line x1="200" y1="466" x2="386" y2="466" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="297.0410531583037" y1="463.5" x2="297.0410531583037" y2="468.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="297.0410531583037" cy="463.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="297.0410531583037" cy="468.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="469" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 469)">2.0e-04</text>
+<text x="543" y="469" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 469)">2.0e-04</text>
+<rect x="23" y="476" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="487" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 487)">TNF / NF-kB - endothelial</text>
+<line x1="200" y1="484" x2="386" y2="484" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="368.89152286969147" y1="481.5" x2="368.89152286969147" y2="486.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="368.89152286969147" cy="481.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="368.89152286969147" cy="486.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="487" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 487)">2.0e-04</text>
+<text x="543" y="487" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 487)">2.0e-04</text>
+<text x="28" y="505" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 505)">TNF / NF-kB - fibrocyte</text>
+<line x1="200" y1="502" x2="386" y2="502" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="317.7461087527796" y1="499.5" x2="322.1183637466234" y2="504.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="317.7461087527796" cy="499.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="322.1183637466234" cy="504.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="505" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 505)">2.0e-04</text>
+<text x="543" y="505" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 505)">2.0e-04</text>
+<rect x="23" y="512" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="523" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 523)">IL6 / JAK-STAT3 - endothelial</text>
+<line x1="200" y1="520" x2="386" y2="520" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="328.29293376924176" y1="517.5" x2="328.29293376924176" y2="522.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="328.29293376924176" cy="517.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="328.29293376924176" cy="522.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="523" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 523)">3.0e-04</text>
+<text x="543" y="523" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 523)">3.0e-04</text>
+<text x="28" y="541" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 541)">IL6 / JAK-STAT3 - myeloid</text>
+<line x1="200" y1="538" x2="386" y2="538" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="323.84110805455" y1="535.5" x2="323.84110805455" y2="540.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="323.84110805455" cy="535.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="323.84110805455" cy="540.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="541" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 541)">3.6e-04</text>
+<text x="543" y="541" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 541)">3.6e-04</text>
+<text x="28" y="562" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 562)">Additional gene-length matching</text>
+<text x="449" y="558" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 558)">Original annotation</text>
+<text x="543" y="558" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 558)">Cluster 19 as fibrocytes</text>
+<text x="449" y="567" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 567)">FDR</text>
+<text x="543" y="567" font-family="Arial, sans-serif" font-size="7.1" font-weight="bold" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 567)">FDR</text>
+<rect x="23" y="573" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="584" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 584)">MAPK / AP-1 - endothelial</text>
+<line x1="200" y1="581" x2="386" y2="581" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="254.48141558878703" y1="578.5" x2="254.48141558878703" y2="583.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="254.48141558878703" cy="578.5" r="2.7" fill="#FFFFFF" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="254.48141558878703" cy="583.5" r="2.7" fill="#FFFFFF" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="584" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 584)">0.0817</text>
+<text x="543" y="584" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 584)">0.0817</text>
+<text x="28" y="602" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 602)">VEGF / angiogenesis - endothelial</text>
+<line x1="200" y1="599" x2="386" y2="599" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="297.0410531583037" y1="596.5" x2="297.0410531583037" y2="601.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="297.0410531583037" cy="596.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="297.0410531583037" cy="601.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="602" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 602)">6.0e-04</text>
+<text x="543" y="602" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 602)">6.0e-04</text>
+<rect x="23" y="609" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="620" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 620)">TNF / NF-kB - endothelial</text>
+<line x1="200" y1="617" x2="386" y2="617" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="368.89152286969147" y1="614.5" x2="368.89152286969147" y2="619.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="368.89152286969147" cy="614.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="368.89152286969147" cy="619.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="620" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 620)">2.0e-04</text>
+<text x="543" y="620" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 620)">2.0e-04</text>
+<text x="28" y="638" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 638)">TNF / NF-kB - fibrocyte</text>
+<line x1="200" y1="635" x2="386" y2="635" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="317.7461087527796" y1="632.5" x2="322.1183637466234" y2="637.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="317.7461087527796" cy="632.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="322.1183637466234" cy="637.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="638" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 638)">2.0e-04</text>
+<text x="543" y="638" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 638)">2.0e-04</text>
+<rect x="23" y="645" width="554" height="17" fill="#F4F6F7" stroke="none" stroke-width="0.5"/>
+<text x="28" y="656" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 656)">IL6 / JAK-STAT3 - endothelial</text>
+<line x1="200" y1="653" x2="386" y2="653" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="328.29293376924176" y1="650.5" x2="328.29293376924176" y2="655.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="328.29293376924176" cy="650.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="328.29293376924176" cy="655.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="656" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 656)">3.0e-04</text>
+<text x="543" y="656" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 656)">3.0e-04</text>
+<text x="28" y="674" font-family="Arial, sans-serif" font-size="7.9" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 28 674)">IL6 / JAK-STAT3 - myeloid</text>
+<line x1="200" y1="671" x2="386" y2="671" stroke="#E2E6E9" stroke-width="0.45" />
+<line x1="323.84110805455" y1="668.5" x2="323.84110805455" y2="673.5" stroke="#747D83" stroke-width="0.75" />
+<circle cx="323.84110805455" cy="668.5" r="2.7" fill="#377DA8" stroke="#377DA8" stroke-width="1.1"/>
+<circle cx="323.84110805455" cy="673.5" r="2.7" fill="#CA5A49" stroke="#CA5A49" stroke-width="1.1"/>
+<text x="449" y="674" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 449 674)">2.0e-04</text>
+<text x="543" y="674" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 543 674)">2.0e-04</text>
+<line x1="200" y1="690" x2="386" y2="690" stroke="#171717" stroke-width="0.6" />
+<line x1="200.0" y1="690" x2="200.0" y2="693" stroke="#171717" stroke-width="0.5" />
+<text x="200.0" y="703" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 200.0 703)">0</text>
+<line x1="262.0" y1="690" x2="262.0" y2="693" stroke="#171717" stroke-width="0.5" />
+<text x="262.0" y="703" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 262.0 703)">0.02</text>
+<line x1="324.0" y1="690" x2="324.0" y2="693" stroke="#171717" stroke-width="0.5" />
+<text x="324.0" y="703" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 324.0 703)">0.04</text>
+<line x1="386.0" y1="690" x2="386.0" y2="693" stroke="#171717" stroke-width="0.5" />
+<text x="386.0" y="703" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 386.0 703)">0.06</text>
+<text x="293.0" y="718" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 293.0 718)">Observed UCell localization delta</text>
+</svg>

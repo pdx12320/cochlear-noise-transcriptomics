@@ -1,0 +1,38 @@
+[
+  {
+    "input_role": "original_selected_object",
+    "basename": "02_no_doublet_annotated_tsne.rds",
+    "bytes": 2660127530,
+    "sha256": "24909e74b584dcb33a113d815234cda0861ed6fea07f78cf66fd99d5324d76b8"
+  },
+  {
+    "input_role": "original_rank_cache",
+    "basename": "ucell_ranks_maxRank1500.rds",
+    "bytes": 562470641,
+    "sha256": "6a299d697199dbea3a4f928eccaf352abe877ed91c81f7445267e5d97bfcf44c"
+  },
+  {
+    "input_role": "original_six_program_scores",
+    "basename": "UCELL_SCORES_PER_CELL.tsv.gz",
+    "bytes": 1999995,
+    "sha256": "840a0dae69458dbd5f6efeac2e0273f13b2373efbbc3ccdc4b6456b3e2cf474f"
+  },
+  {
+    "input_role": "GENCODE_vM23",
+    "basename": "gencode.vM23.annotation.gtf.gz",
+    "bytes": 28431353,
+    "sha256": "a484dedf40b633adeac71a0f4c92d29395e83259a7e9def8883d58884fc015ab"
+  },
+  {
+    "input_role": "Hallmark_GMT",
+    "basename": "mh.all.v2026.1.Mm.symbols.gmt",
+    "bytes": 48007,
+    "sha256": "3a21be724a87dc0375955e725ca9688b87a26e7b74b62fba0c62da0967b789f7"
+  },
+  {
+    "input_role": "Reactome_GMT",
+    "basename": "m2.cp.reactome.v2026.1.Mm.symbols.gmt",
+    "bytes": 659129,
+    "sha256": "3beeef870afc4bb803f8e7aa184f8c98a22bcc799b702b48dc7f9c85d50cd3a9"
+  }
+]

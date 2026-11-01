@@ -1,0 +1,5 @@
+resolution	number_of_clusters	cell_number	selected_for_main
+0.4	27	36111	FALSE
+0.6	28	36111	TRUE
+0.8	33	36111	FALSE
+1	37	36111	FALSE

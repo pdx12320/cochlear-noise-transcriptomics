@@ -1,0 +1,28 @@
+{
+  "selected_cluster_field": "seurat_clusters_no_doublet; verified identical to RNA_snn_res.0.6",
+  "cluster_id": "19",
+  "cells": 319,
+  "reference_barcode_set_exact_match": true,
+  "later_reference_source": "GSE217727 P7 reference used in the existing four-cluster audit",
+  "later_reference_subtype_raw_counts": {
+    "TypeI_OMCs": 318,
+    "Schwann": 1
+  },
+  "later_reference_subtype_accepted_counts": {
+    "TypeI_OMCs": 318,
+    "Schwann": 1
+  },
+  "later_reference_broad_accepted_counts": {
+    "Fibrocyte_mesenchymal": 318,
+    "Glial": 1
+  },
+  "TypeI_OMCs_fraction": 0.9968652037617555,
+  "TypeI_OMCs_percent": 99.68652037617555,
+  "correct_rounded_percent": 99.7,
+  "98_percent_supported_for_this_mapping": false,
+  "original_annotation_prior_shared_cells": 307,
+  "original_annotation_prior_fibrocyte_fraction": 1.0,
+  "Coch_detection_positive_cells": 318,
+  "Coch_detection_denominator": 319,
+  "attribution_note": "Original reference prior purity, later reference-transfer percentage, and observed Coch detection fraction are distinct quantities. The two 318/319 results are not interchangeable evidence. No source labels were modified."
+}

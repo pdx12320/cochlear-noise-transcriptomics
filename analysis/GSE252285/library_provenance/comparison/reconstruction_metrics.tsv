@@ -1,0 +1,4 @@
+library	condition	Estimated Number of Cells	Mean Reads per Cell	Median Genes per Cell	Median UMI Counts per Cell	Fraction Reads in Cells	Valid Barcodes	Sequencing Saturation	Reads Mapped Confidently to Transcriptome
+A1_Control	Control	11537	35745	3001	9567	0.914	0.9690000000000001	0.369	0.785
+B1_HHL	HHL	17914	22701	2619	7106	0.955	0.9740000000000001	0.423	0.81
+C1_NIHL	NIHL	10156	32349	2382	7838	0.937	0.978	0.501	0.7979999999999999

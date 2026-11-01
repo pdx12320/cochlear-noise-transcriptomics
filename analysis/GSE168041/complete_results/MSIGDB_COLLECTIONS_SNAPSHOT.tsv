@@ -1,0 +1,15 @@
+db_version	gs_collection	gs_subcollection	gs_collection_name	num_genesets
+2026.1.Mm	M1	""	Positional	341
+2026.1.Mm	M2	CGP	Chemical and Genetic Perturbations	984
+2026.1.Mm	M2	CP:BIOCARTA	BioCarta Pathways	252
+2026.1.Mm	M2	CP:REACTOME	Reactome Pathways	1333
+2026.1.Mm	M2	CP:WIKIPATHWAYS	WikiPathways	202
+2026.1.Mm	M3	GTRD	GTRD	279
+2026.1.Mm	M3	MIRDB	miRDB	1768
+2026.1.Mm	M5	GO:BP	GO Biological Process	7781
+2026.1.Mm	M5	GO:CC	GO Cellular Component	1067
+2026.1.Mm	M5	GO:MF	GO Molecular Function	1899
+2026.1.Mm	M5	MPT	MP Tumor	92
+2026.1.Mm	M7	""	Immunologic Signature	787
+2026.1.Mm	M8	""	Cell Type Signature	233
+2026.1.Mm	MH	""	Hallmark	50

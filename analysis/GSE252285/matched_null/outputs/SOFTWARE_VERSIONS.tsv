@@ -1,0 +1,9 @@
+software	version
+R	4.4.3
+UCell	2.10.1
+Seurat	5.5.1
+SeuratObject	5.4.0
+Matrix	1.7.6
+matrixStats	1.5.0
+data.table	1.18.4
+ggplot2	4.0.3

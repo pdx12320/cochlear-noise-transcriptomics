@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+Lateral_wall_naive_1	GSM5124299	Naive	1	Lateral_wall	Endothelial	236	1909519	-21.743298242552246	21.773958657752857
+Lateral_wall_naive_2	GSM5124300	Naive	2	Lateral_wall	Endothelial	502	3782839	-2.7722263054422673	-7.189553066976855
+Lateral_wall_naive_3	GSM5124301	Naive	3	Lateral_wall	Endothelial	412	2899555	-10.079798222264824	-7.0249147415258655
+Lateral_wall_naive_4	GSM5124302	Naive	4	Lateral_wall	Endothelial	314	2128519	-9.330547299927279	-5.5914183274220814
+Lateral_wall_noise_1	GSM5124303	Noise	1	Lateral_wall	Endothelial	216	2172648	26.79648264237263	16.672944474824178
+Lateral_wall_noise_2	GSM5124304	Noise	2	Lateral_wall	Endothelial	383	3311959	4.306159356563194	-4.732727339093822
+Lateral_wall_noise_3	GSM5124305	Noise	3	Lateral_wall	Endothelial	339	3040592	7.413492700149744	-10.295822609596875
+Lateral_wall_noise_4	GSM5124306	Noise	4	Lateral_wall	Endothelial	539	4971859	5.409735371101125	-3.612467047961496

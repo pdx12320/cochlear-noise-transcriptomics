@@ -1,0 +1,13 @@
+{
+  "iterations": 10000,
+  "matching_modes": 2,
+  "programs": 4,
+  "tests_per_mode": 6,
+  "null_statistics": 120000,
+  "wall_seconds": 1069.85,
+  "maximum_resident_kbytes": 7592536,
+  "maximum_resident_GiB": 7.240806579589844,
+  "compute_threads": 1,
+  "exit_status": 0,
+  "source_object_post_run_hash_matches": true
+}

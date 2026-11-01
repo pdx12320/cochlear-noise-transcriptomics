@@ -1,0 +1,273 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kujawa and Liberman(2009)]{Kujawa2009}
+Kujawa, S.~G. \& Liberman, M.~C.
+\newblock {Adding insult to injury: cochlear nerve degeneration after
+  "temporary" noise-induced hearing loss}.
+\newblock \emph{J. Neurosci.} \textbf{29,} 14077--14085 (2009).
+\newblock \doi{10.1523/JNEUROSCI.2845-09.2009}.
+
+\bibitem[Furman et~al.(2013)Furman, Kujawa, and Liberman]{Furman2013}
+Furman, A.~C., Kujawa, S.~G. \& Liberman, M.~C.
+\newblock {Noise-induced cochlear neuropathy is selective for fibers with low
+  spontaneous rates}.
+\newblock \emph{J. Neurophysiol.} \textbf{110,} 577--586 (2013).
+\newblock \doi{10.1152/jn.00164.2013}.
+
+\bibitem[Fujioka et~al.(2006)Fujioka, Kanzaki, Okano, Masuda, Ogawa, and
+  Okano]{Fujioka2006}
+Fujioka, M. \emph{et~al.}
+\newblock {Proinflammatory cytokines expression in noise-induced damaged
+  cochlea}.
+\newblock \emph{J. Neurosci. Res.} \textbf{83,} 575--583 (2006).
+\newblock \doi{10.1002/jnr.20764}.
+
+\bibitem[Hirose et~al.(2005)Hirose, Discolo, Keasler, and
+  Ransohoff]{Hirose2005}
+Hirose, K., Discolo, C.~M., Keasler, J.~R. \& Ransohoff, R.
+\newblock {Mononuclear phagocytes migrate into the murine cochlea after
+  acoustic trauma}.
+\newblock \emph{J. Comp. Neurol.} \textbf{489,} 180--194 (2005).
+\newblock \doi{10.1002/cne.20619}.
+
+\bibitem[Jean et~al.(2023)Jean, Wong Jun~Tai, Singh-Estivalet,
+  et~al.]{Jean2023}
+Jean, P. \emph{et~al.}
+\newblock {Single-cell transcriptomic profiling of the mouse cochlea: An atlas
+  for targeted therapies}.
+\newblock \emph{Proc. Natl. Acad. Sci. USA} \textbf{120,} e2221744120 (2023).
+\newblock \doi{10.1073/pnas.2221744120}.
+
+\bibitem[Sun et~al.(2023)Sun, Zheng, Fu, et~al.]{Sun2023}
+Sun, G. \emph{et~al.}
+\newblock {Single-cell transcriptomic atlas of mouse cochlear aging}.
+\newblock \emph{Protein Cell} \textbf{14,} 180--201 (2023).
+\newblock \doi{10.1093/procel/pwac058}.
+
+\bibitem[Petitpr\'{e} et~al.(2018)Petitpr\'{e}, Wu, Sharma,
+  et~al.]{Petitpre2018}
+Petitpr\'{e}, C. \emph{et~al.}
+\newblock {Neuronal heterogeneity and stereotyped connectivity in the auditory
+  afferent system}.
+\newblock \emph{Nat. Commun.} \textbf{9,} 3691 (2018).
+\newblock \doi{10.1038/s41467-018-06033-3}.
+
+\bibitem[Milon et~al.(2021)Milon, Shulman, So, et~al.]{Milon2021}
+Milon, B. \emph{et~al.}
+\newblock {A cell-type-specific atlas of the inner ear transcriptional response
+  to acoustic trauma}.
+\newblock \emph{Cell Rep.} \textbf{36,} 109758 (2021).
+\newblock \doi{10.1016/j.celrep.2021.109758}.
+
+\bibitem[Jongkamonwiwat et~al.(2020)Jongkamonwiwat, Ramirez, Edassery,
+  et~al.]{Jongkamonwiwat2020}
+Jongkamonwiwat, N. \emph{et~al.}
+\newblock {Noise exposures causing hearing loss generate proteotoxic stress and
+  activate the proteostasis network}.
+\newblock \emph{Cell Rep.} \textbf{33,} 108431 (2020).
+\newblock \doi{10.1016/j.celrep.2020.108431}.
+
+\bibitem[Adams et~al.(2009)Adams, Seed, Lu, Landry, and Xavier]{Adams2009}
+Adams, J.~C., Seed, B., Lu, N., Landry, A. \& Xavier, R.~J.
+\newblock {Selective activation of nuclear factor kappa B in the cochlea by
+  sensory and inflammatory stress}.
+\newblock \emph{Neuroscience} \textbf{160,} 530--539 (2009).
+\newblock \doi{10.1016/j.neuroscience.2009.02.073}.
+
+\bibitem[Herranen et~al.(2018)Herranen, Ik\"{a}heimo, Virkkala, and
+  Pirvola]{Herranen2018}
+Herranen, A., Ik\"{a}heimo, K., Virkkala, J. \& Pirvola, U.
+\newblock {The stress response in the non-sensory cells of the cochlea under
+  pathological conditions---possible role in mediating noise vulnerability}.
+\newblock \emph{J. Assoc. Res. Otolaryngol.} \textbf{19,} 637--652 (2018).
+\newblock \doi{10.1007/s10162-018-00691-2}.
+
+\bibitem[Crowell et~al.(2020)Crowell, Soneson, Germain, et~al.]{Crowell2020}
+Crowell, H.~L. \emph{et~al.}
+\newblock {muscat detects subpopulation-specific state transitions from
+  multi-sample multi-condition single-cell transcriptomics data}.
+\newblock \emph{Nat. Commun.} \textbf{11,} 6077 (2020).
+\newblock \doi{10.1038/s41467-020-19894-4}.
+
+\bibitem[Squair et~al.(2021)Squair, Gautier, Kathe, et~al.]{Squair2021}
+Squair, J.~W. \emph{et~al.}
+\newblock {Confronting false discoveries in single-cell differential
+  expression}.
+\newblock \emph{Nat. Commun.} \textbf{12,} 5692 (2021).
+\newblock \doi{10.1038/s41467-021-25960-2}.
+
+\bibitem[{Gene Expression Omnibus}(2024)]{GSE252285}
+{Gene Expression Omnibus}.
+\newblock {Cochlear single-cell gene expression profiles in mice with
+  noise-induced hidden hearing loss and noise-induced hearing loss} (2024).
+\newblock Accession GSE252285.
+\newblock \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE252285}.
+
+\bibitem[Tornabene et~al.(2006)Tornabene, Sato, Pham, Billings, and
+  Keithley]{Tornabene2006}
+Tornabene, S.~V., Sato, K., Pham, L., Billings, P. \& Keithley, E.~M.
+\newblock {Immune cell recruitment following acoustic trauma}.
+\newblock \emph{Hear. Res.} \textbf{222,} 115--124 (2006).
+\newblock \doi{10.1016/j.heares.2006.09.004}.
+
+\bibitem[Yang et~al.(2015)Yang, Vethanayagam, Dong, Cai, and Hu]{Yang2015}
+Yang, W., Vethanayagam, R.~R., Dong, Y., Cai, Q. \& Hu, B.~H.
+\newblock {Activation of the antigen presentation function of mononuclear
+  phagocyte populations associated with the basilar membrane of the cochlea
+  after acoustic overstimulation}.
+\newblock \emph{Neuroscience} \textbf{303,} 1--15 (2015).
+\newblock \doi{10.1016/j.neuroscience.2015.05.081}.
+
+\bibitem[Pan et~al.(2024)Pan, Wang, Qu, et~al.]{Pan2024}
+Pan, J. \emph{et~al.}
+\newblock {Activated tissue-resident macrophages contribute to hair cell
+  insults in noise-induced hearing loss in mice}.
+\newblock \emph{Commun. Biol.} \textbf{7,} 1078 (2024).
+\newblock \doi{10.1038/s42003-024-06768-4}.
+
+\bibitem[Murali et~al.(2025)Murali, Stothert, Pereyra, Batalkina, and
+  Kaur]{Murali2025}
+Murali, S.~V., Stothert, A.~R., Pereyra, E., Batalkina, L. \& Kaur, T.
+\newblock {CX3CR1 fate mapping in vivo distinguishes cochlear resident and
+  recruited macrophages after acoustic trauma}.
+\newblock \emph{Front. Immunol.} \textbf{16,} 1678176 (2025).
+\newblock \doi{10.3389/fimmu.2025.1678176}.
+
+\bibitem[Maeda et~al.(2013)Maeda, Fukushima, Omichi, Kariya, and
+  Nishizaki]{Maeda2013}
+Maeda, Y., Fukushima, K., Omichi, R., Kariya, S. \& Nishizaki, K.
+\newblock {Time courses of changes in phospho- and total-MAP kinases in the
+  cochlea after intense noise exposure}.
+\newblock \emph{PLoS ONE} \textbf{8,} e58775 (2013).
+\newblock \doi{10.1371/journal.pone.0058775}.
+
+\bibitem[Yamashita et~al.(2004)Yamashita, Jiang, Schacht, and
+  Miller]{Yamashita2004}
+Yamashita, D., Jiang, H.~Y., Schacht, J. \& Miller, J.~M.
+\newblock {Delayed production of free radicals following noise exposure}.
+\newblock \emph{Brain Res.} \textbf{1019,} 201--209 (2004).
+\newblock \doi{10.1016/j.brainres.2004.05.104}.
+
+\bibitem[Honkura et~al.(2016)Honkura, Matsuo, Murakami, et~al.]{Honkura2016}
+Honkura, Y. \emph{et~al.}
+\newblock {NRF2 is a key target for prevention of noise-induced hearing loss by
+  reducing oxidative damage of cochlea}.
+\newblock \emph{Sci. Rep.} \textbf{6,} 19329 (2016).
+\newblock \doi{10.1038/srep19329}.
+
+\bibitem[Neng et~al.(2013)Neng, Zhang, Kachelmeier, and Shi]{Neng2013}
+Neng, L., Zhang, F., Kachelmeier, A. \& Shi, X.
+\newblock {Endothelial cell, pericyte, and perivascular resident
+  macrophage-type melanocyte interactions regulate cochlear intrastrial
+  fluid-blood barrier permeability}.
+\newblock \emph{J. Assoc. Res. Otolaryngol.} \textbf{14,} 175--185 (2013).
+\newblock \doi{10.1007/s10162-012-0365-9}.
+
+\bibitem[Zhang et~al.(2013)Zhang, Dai, Neng, Zhang, Zhi, Fridberger, and
+  Shi]{Zhang2013}
+Zhang, F. \emph{et~al.}
+\newblock {Perivascular macrophage-like melanocyte responsiveness to acoustic
+  trauma---a salient feature of strial barrier associated hearing loss}.
+\newblock \emph{FASEB J.} \textbf{27,} 3730--3740 (2013).
+\newblock \doi{10.1096/fj.13-232892}.
+
+\bibitem[{Gene Expression Omnibus}(2020)]{GSE160639}
+{Gene Expression Omnibus}.
+\newblock {Noise exposures causing hearing loss generate proteotoxic stress and
+  activate the proteostasis network} (2020).
+\newblock Accession GSE160639.
+\newblock \url{https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160639}.
+
+\bibitem[Germain et~al.(2022)Germain, Lun, Garcia~Meixide, Macnair, and
+  Robinson]{Germain2022}
+Germain, P.~L., Lun, A., Garcia~Meixide, C., Macnair, W. \& Robinson, M.~D.
+\newblock {Doublet identification in single-cell sequencing data using
+  scDblFinder}.
+\newblock \emph{F1000Research} \textbf{10,} 979 (2022).
+\newblock Version 2.
+\newblock \doi{10.12688/f1000research.73600.2}.
+
+\bibitem[Wolf et~al.(2018)Wolf, Angerer, and Theis]{Wolf2018}
+Wolf, F.~A., Angerer, P. \& Theis, F.~J.
+\newblock {SCANPY: large-scale single-cell gene expression data analysis}.
+\newblock \emph{Genome Biol.} \textbf{19,} 15 (2018).
+\newblock \doi{10.1186/s13059-017-1382-0}.
+
+\bibitem[Traag et~al.(2019)Traag, Waltman, and van Eck]{Traag2019}
+Traag, V.~A., Waltman, L. \& van Eck, N.~J.
+\newblock {From Louvain to Leiden: guaranteeing well-connected communities}.
+\newblock \emph{Sci. Rep.} \textbf{9,} 5233 (2019).
+\newblock \doi{10.1038/s41598-019-41695-z}.
+
+\bibitem[Love et~al.(2014)Love, Huber, and Anders]{Love2014}
+Love, M.~I., Huber, W. \& Anders, S.
+\newblock {Moderated estimation of fold change and dispersion for RNA-seq data
+  with DESeq2}.
+\newblock \emph{Genome Biol.} \textbf{15,} 550 (2014).
+\newblock \doi{10.1186/s13059-014-0550-8}.
+
+\bibitem[Muzellec et~al.(2023)Muzellec, Tele\'{n}czuk, Cabeli, and
+  Andreux]{Muzellec2023}
+Muzellec, B., Tele\'{n}czuk, M., Cabeli, V. \& Andreux, M.
+\newblock {PyDESeq2: a python package for bulk RNA-seq differential expression
+  analysis}.
+\newblock \emph{Bioinformatics} \textbf{39,} btad547 (2023).
+\newblock \doi{10.1093/bioinformatics/btad547}.
+
+\bibitem[Subramanian et~al.(2005)Subramanian, Tamayo, Mootha,
+  et~al.]{Subramanian2005}
+Subramanian, A. \emph{et~al.}
+\newblock {Gene set enrichment analysis: a knowledge-based approach for
+  interpreting genome-wide expression profiles}.
+\newblock \emph{Proc. Natl. Acad. Sci. USA} \textbf{102,} 15545--15550 (2005).
+\newblock \doi{10.1073/pnas.0506580102}.
+
+\bibitem[Castanza et~al.(2023)Castanza, Recla, Eby, Thorvaldsd\'{o}ttir, Bult,
+  and Mesirov]{Castanza2023}
+Castanza, A.~S. \emph{et~al.}
+\newblock {Extending support for mouse data in the Molecular Signatures
+  Database (MSigDB)}.
+\newblock \emph{Nat. Methods} \textbf{20,} 1619--1620 (2023).
+\newblock \doi{10.1038/s41592-023-02014-7}.
+
+\bibitem[Liberzon et~al.(2015)Liberzon, Birger, Thorvaldsd\'{o}ttir, Ghandi,
+  Mesirov, and Tamayo]{Liberzon2015}
+Liberzon, A. \emph{et~al.}
+\newblock {The Molecular Signatures Database (MSigDB) hallmark gene set
+  collection}.
+\newblock \emph{Cell Syst.} \textbf{1,} 417--425 (2015).
+\newblock \doi{10.1016/j.cels.2015.12.004}.
+
+\bibitem[Milacic et~al.(2024)Milacic, Beavers, Conley, et~al.]{Milacic2024}
+Milacic, M. \emph{et~al.}
+\newblock {The Reactome Pathway Knowledgebase 2024}.
+\newblock \emph{Nucleic Acids Res.} \textbf{52,} D672--D678 (2024).
+\newblock \doi{10.1093/nar/gkad1025}.
+
+\bibitem[Benjamini and Hochberg(1995)]{Benjamini1995}
+Benjamini, Y. \& Hochberg, Y.
+\newblock {Controlling the false discovery rate: a practical and powerful
+  approach to multiple testing}.
+\newblock \emph{J. R. Stat. Soc. Ser. B Methodol.} \textbf{57,} 289--300
+  (1995).
+\newblock \doi{10.1111/j.2517-6161.1995.tb02031.x}.
+
+\bibitem[Hao et~al.(2024)]{Hao2024}
+Hao, Y. \emph{et~al.}
+\newblock {Dictionary learning for integrative, multimodal and scalable
+  single-cell analysis}.
+\newblock \emph{Nat. Biotechnol.} \textbf{42,} 293--304 (2024).
+\newblock \doi{10.1038/s41587-023-01767-y}.
+
+\bibitem[Andreatta and Carmona(2021)]{Andreatta2021}
+Andreatta, M. \& Carmona, S.~J.
+\newblock {UCell: robust and scalable single-cell gene signature scoring}.
+\newblock \emph{Comput. Struct. Biotechnol. J.} \textbf{19,} 3796--3798 (2021).
+\newblock \doi{10.1016/j.csbj.2021.06.043}.
+
+\end{thebibliography}

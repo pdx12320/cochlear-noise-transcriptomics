@@ -1,0 +1,15 @@
+parameter	value
+R	R version 4.5.3 (2026-03-11)
+fgsea	1.36.2
+msigdbr	26.1.1
+MSigDB	2026.1.Mm
+collections	MH + M2/CP:REACTOME
+rank_metric	PyDESeq2 Wald stat descending
+duplicate_rule	max abs(stat), then max signed stat, then lexical gene_id
+minSize	10
+maxSize	500
+eps	0
+scoreType	std
+nproc	1
+seed	20260825
+direction	positive NES = Noise; negative NES = Naive

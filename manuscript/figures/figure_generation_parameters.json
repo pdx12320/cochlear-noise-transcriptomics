@@ -1,0 +1,79 @@
+{
+  "width_points": 510,
+  "raster_dpi": 600,
+  "font": "Arial",
+  "render_engine": "ReportLab and Poppler",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "reportlab": "4.4.9",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "inference": "This rendering script reads the current archived statistical outputs and does not fit models or run enrichment.",
+  "dimensions_points": {
+    "Figure1_cell_atlases": [
+      510.0,
+      580.0
+    ],
+    "Figure2_cell_type_pathway_responses": [
+      510.0,
+      565.0
+    ],
+    "Figure3_sample_robustness": [
+      560.0,
+      568.0
+    ],
+    "Figure4_noise_exposure_comparisons": [
+      510.0,
+      474.0
+    ],
+    "Figure5_condition_expression": [
+      510.0,
+      520.0
+    ],
+    "Figure6_cluster19_expression": [
+      510.0,
+      590.0
+    ],
+    "FigureS1_bulk_volcanoes": [
+      510.0,
+      225.0
+    ],
+    "FigureS2_all_twenty_genes": [
+      510.0,
+      674.0
+    ],
+    "FigureS3_localization_and_cell_state": [
+      510.0,
+      516.0
+    ],
+    "FigureS4_cell_type_landscape": [
+      510.0,
+      538.0
+    ],
+    "FigureS5_cluster_and_condition_maps": [
+      510.0,
+      625.0
+    ],
+    "FigureS6_annotation_sensitivity": [
+      600.0,
+      734.0
+    ],
+    "FigureS7_sample_gene_expression": [
+      560.0,
+      650.0
+    ],
+    "FigureS8_gene_feature_maps": [
+      510.0,
+      720.0
+    ]
+  },
+  "bulk_analysis": "2026-11-01 public-count DESeq2 reconstruction and fixed nine-pathway enrichment",
+  "bulk_volcano_display_omissions": {
+    "94dB_vs_70dB": 791,
+    "105dB_vs_70dB": 3077,
+    "105dB_vs_94dB": 3837
+  },
+  "figure_count": 14,
+  "new_figures": "Stored UMAP/t-SNE coordinates; derived sample and annotation sensitivity outputs; no embeddings recomputed.",
+  "presentation_revision": "v1.2.0: redundant explanatory prose removed from Figures 3, S6 and S7; essential definitions retained in captions. Plotted data and statistical values unchanged.",
+  "display_label_revision": "Explicit cluster-19 annotation states, full cell names and named omission conditions replace internal or ambiguous shorthand; source-data keys and numerical results unchanged."
+}

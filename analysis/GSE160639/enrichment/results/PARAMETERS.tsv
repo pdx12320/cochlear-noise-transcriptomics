@@ -1,0 +1,19 @@
+parameter	value
+status	TARGETED_ENRICHMENT_FROM_NEW_DESEQ2
+R	4.5.3
+fgsea	1.36.2
+MSigDB	2026.1.Mm
+ranking	signed DESeq2 Wald stat descending; all finite symbol-mapped genes
+duplicate_rule	maximum abs(stat), maximum signed stat, lexical Ensembl ID
+seed_each_contrast	20260822
+sampleSize	101
+nPermSimple	1000
+minSize	10
+maxSize	500
+eps	0
+scoreType	std
+gseaParam	1
+nproc	1
+RNG	Mersenne-Twister/Inversion/Rejection
+FDR_family	BH over exactly nine pathways times three contrasts=27 tests
+FDR_criterion	global_FDR < 0.05

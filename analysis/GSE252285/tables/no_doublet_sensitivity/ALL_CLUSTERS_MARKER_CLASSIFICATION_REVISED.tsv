@@ -1,0 +1,29 @@
+cluster	cell_number	broad_label_recommended	subtype_recommended	confidence	representative_markers	notes
+0	5397	Immune_hematopoietic	Neutrophil_granulocyte	HIGH	Cxcr2,Mmp9,Clec4d,Mmp8,Csf3r,Trem1	Coherent granulocyte program
+1	3684	Immune_hematopoietic	F13a1_positive_monocyte_macrophage_like	MODERATE	F13a1,Ms4a6c,Ifi30,Tfec,Lgals1	Broad immune identity secure; finer state provisional
+2	3406	Immune_hematopoietic	Neutrophil_granulocyte	MODERATE	Ly6g,Cd177,Ltf,Fcnb,Plbd1	Granulocyte program
+3	2950	Immune_hematopoietic	Ccr2_positive_inflammatory_monocyte	HIGH	Ccr2,F13a1,Vcan,Ccl9,Clec4a3	Inflammatory monocyte program
+4	2921	Immune_hematopoietic	Granulocyte_neutrophil_associated	MODERATE	Fcnb,Cebpe,Gca,Serpinb1a,Orm1	Finer maturation state provisional
+5	2497	Immune_hematopoietic	Inflammatory_myeloid	HIGH	Clec4d,Clec4e,Il1b,Slfn4,Cxcl2	Coherent inflammatory myeloid program
+6	2359	Other	Erythroid_like	HIGH	Klf1,Gata1,Alas2,Gypa,Slc4a1,Hba-a1,Hba-a2,Hbb-*	Marker-audit revision; not SGN; could use new broad Erythroid_hematopoietic
+7	1957	Immune_hematopoietic	Granulocyte_myeloid_precursor_like	MODERATE	Prss57,Ms4a3,Ctsg,Elane,Fcnb	Mixed maturation-associated program
+8	1711	Fibrocyte_mesenchymal	Fibrocyte_mesenchymal	MODERATE	Plpp3,Cp,Efemp1,Col8a1,Apod,Spp1	Mesenchymal identity secure; subtype provisional
+9	1210	Other	Mature_erythroid_like	HIGH	Alas2,Gypa,Slc4a1,Bpgm,Hba-a1,Hba-a2,Hbb-*	Marker-audit revision; not SGN; could use new broad Erythroid_hematopoietic
+10	1190	Immune_hematopoietic	C1q_positive_macrophage	HIGH	C1qa,C1qb,C1qc,Mrc1,Lgmn,Mafb	Coherent macrophage program
+11	961	Immune_hematopoietic	T_NK_lymphoid	HIGH	Cd3e,Cd3g,Trac,Trbc1,Trbc2,Ccl5,Ctsw	Lymphoid rather than myeloid subtype
+12	929	Immune_hematopoietic	Dendritic_pDC_like	HIGH	Irf8,Flt3,Bst2,Siglech,Rnase6	pDC/DC-associated program
+13	838	Immune_hematopoietic	Hematopoietic_progenitor_like	MODERATE	Cd34,Flt3,Kit,Myb,Msi2,Bcl11a,Mef2c,Ptprcap	Marker-audit revision; endothelial-associated conflict; not forced to myeloid or hemogenic endothelial
+14	650	Immune_hematopoietic	Mature_B_cell	HIGH	Cd79a,Cd79b,Ms4a1,Pax5,Igkc	Coherent B-cell program
+15	398	Immune_hematopoietic	Pro_pre_B_like	HIGH	Vpreb1,Vpreb3,Igll1,Cd79a,Pax5,Blnk	Coherent early B-lineage program
+16	392	Fibrocyte_mesenchymal	ECM_rich_fibrocyte_fibroblast	HIGH	Col3a1,Lum,Dcn,Abi3bp,Postn,Col6a1	ECM-rich mesenchymal program
+17	389	Immune_hematopoietic	Myeloid_progenitor_like	HIGH	Mpo,Ctsg,Ms4a3,Myb	Coherent immature myeloid program
+18	347	Immune_hematopoietic	Mast_basophil_like	HIGH	Gata2,Cpa3,Ms4a2,Mcpt8,Cd200r3	Coherent mast/basophil program
+19	319	Fibrocyte_mesenchymal	Type_I_OMC_like_perivascular	HIGH	Coch,Otor,Igfbp5,Pou3f4,Col1a2,Pdgfra,Rbp1,Abcc9	Marker-audit revision; perivascular signal; not canonical SMC
+20	297	Fibrocyte_mesenchymal	Chondro_osteogenic_mesenchymal	HIGH	Ibsp,Col11a1,Col11a2,Col2a1,Bglap,Sp7	Chondro-osteogenic mesenchymal program
+21	287	Fibrocyte_mesenchymal	Fibrocyte_OMC_like	HIGH	Enpp2,Cldn11,Ptn,Itih5,Aldh1a2	OMC/fibrocyte-associated program
+22	275	Endothelial_vascular	Endothelial	HIGH	Pecam1,Cdh5,Kdr,Cldn5,Ptprb,Esam	Coherent endothelial program
+23	264	Glial	Schwann_glial	HIGH	Plp1,Mpz,Mal,Pmp22,Prx,Sox10	Coherent Schwann/glial program
+24	189	Fibrocyte_mesenchymal	Cxcl12_positive_perivascular_stromal	HIGH	Cxcl12,Kitl,Adipoq,Lepr,Fbln5,Grem1	Perivascular stromal program
+25	149	Supporting_epithelial	Supporting_epithelial	HIGH	Epcam,Krt8,Cldn3,Cldn7,Cldn9,Gjb2,Gjb6	Coherent epithelial program
+26	121	Fibrocyte_mesenchymal	Pericyte_mural_SMC_like	MODERATE	Notch3,Pde3a,Tagln,Rgs5,Myh11,Acta2	True mural/SMC-associated cluster; broad retained as mesenchymal
+27	24	Hair_sensory	Hair_sensory	HIGH	Pou4f3,Myo7a,Otof,Pvalb,Smpx,Xirp2	Small but coherent hair-cell population

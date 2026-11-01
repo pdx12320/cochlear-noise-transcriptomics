@@ -1,0 +1,18 @@
+timestamp=2026-08-16T13:38:44+0800
+hostname=spgpu
+project=/path/to/cochlear_analysis/GSE252285_raw_reconstruction_20260815
+real_project=/path/to/cochlear_analysis/GSE252285_raw_reconstruction_20260815
+localcores=32
+localmem_gb=180
+cell_calling=auto (no --expect-cells/--force-cells)
+chemistry=auto
+bam_generation=disabled via Cell Ranger 7.1.0 --no-bam (output-only storage choice)
+reference=refdata-gex-mm10-2020-A (selected by exact official feature-pair set match)
+64
+              total        used        free      shared  buff/cache   available
+Mem:           251G        7.5G        2.6G        2.3G        241G        240G
+Swap:           31G        3.1G         28G
+Filesystem     Type     Size  Used Avail Use% Mounted on
+/dev/sdg1      fuseblk   11T  5.1T  5.9T  47% /mnt/external_storage
+ 13:38:44 up 11 days, 22:26,  8 users,  load average: 1.51, 1.86, 1.95
+cellranger cellranger-7.1.0

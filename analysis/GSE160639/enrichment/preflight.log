@@ -1,0 +1,40 @@
+                  input                                                  observed_sha256
+           94dB_vs_70dB 8e888afbdf32c31b6e87f8a054624584d247b955f369fa596c46da0b74f26dde
+          105dB_vs_70dB 02ad6ad60a08cdc457fac67983e9daaf1064601264c17c8f41ad8c03d9bfedb7
+          105dB_vs_94dB 5cbc2ec718c846130fcfa06c49dd1337034648125f78e693788ddd29cea9ae4b
+ locked_sample_manifest 9a31de34c1e36e06d70068e72c22498306f7ea662c7a94e541dd3e016ab54164
+        native_mouse_GO ae55ef78392cbf58fb728f0fc67618a03bdfab87f76bbe78edd6c5f5c01bea13
+  native_mouse_Hallmark 1309ce698e76c7e698bca729b69f53ccf354171b880f79f775a69d6abd8f6c82
+      contrast input_rows finite_stat_and_valid_symbol_rows ranked_symbols duplicate_rows_removed positive negative zeros tied_statistics
+  94dB_vs_70dB      19673                             17445          17441                      4     8471     8970     0               0
+ 105dB_vs_70dB      19673                             17445          17441                      4     8575     8866     0               0
+ 105dB_vs_94dB      19673                             17445          17441                      4     8631     8810     0               0
+      contrast                                       pathway source_size overlap_size
+  94dB_vs_70dB      GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY         541          464
+  94dB_vs_70dB                          GOBP_PROTEIN_FOLDING         198          188
+  94dB_vs_70dB GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS         292          280
+  94dB_vs_70dB             GOBP_RESPONSE_TO_OXIDATIVE_STRESS         442          417
+  94dB_vs_70dB                            HALLMARK_APOPTOSIS         161          157
+  94dB_vs_70dB                HALLMARK_INFLAMMATORY_RESPONSE         197          181
+  94dB_vs_70dB      HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY          48           48
+  94dB_vs_70dB              HALLMARK_TNFA_SIGNALING_VIA_NFKB         196          191
+  94dB_vs_70dB            HALLMARK_UNFOLDED_PROTEIN_RESPONSE         111          109
+ 105dB_vs_70dB      GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY         541          464
+ 105dB_vs_70dB                          GOBP_PROTEIN_FOLDING         198          188
+ 105dB_vs_70dB GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS         292          280
+ 105dB_vs_70dB             GOBP_RESPONSE_TO_OXIDATIVE_STRESS         442          417
+ 105dB_vs_70dB                            HALLMARK_APOPTOSIS         161          157
+ 105dB_vs_70dB                HALLMARK_INFLAMMATORY_RESPONSE         197          181
+ 105dB_vs_70dB      HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY          48           48
+ 105dB_vs_70dB              HALLMARK_TNFA_SIGNALING_VIA_NFKB         196          191
+ 105dB_vs_70dB            HALLMARK_UNFOLDED_PROTEIN_RESPONSE         111          109
+ 105dB_vs_94dB      GOBP_CYTOKINE_MEDIATED_SIGNALING_PATHWAY         541          464
+ 105dB_vs_94dB                          GOBP_PROTEIN_FOLDING         198          188
+ 105dB_vs_94dB GOBP_RESPONSE_TO_ENDOPLASMIC_RETICULUM_STRESS         292          280
+ 105dB_vs_94dB             GOBP_RESPONSE_TO_OXIDATIVE_STRESS         442          417
+ 105dB_vs_94dB                            HALLMARK_APOPTOSIS         161          157
+ 105dB_vs_94dB                HALLMARK_INFLAMMATORY_RESPONSE         197          181
+ 105dB_vs_94dB      HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY          48           48
+ 105dB_vs_94dB              HALLMARK_TNFA_SIGNALING_VIA_NFKB         196          191
+ 105dB_vs_94dB            HALLMARK_UNFOLDED_PROTEIN_RESPONSE         111          109
+PREFLIGHT_PASS: hashes, versions, 12 samples, all ranks and 27 target overlaps checked; no enrichment run

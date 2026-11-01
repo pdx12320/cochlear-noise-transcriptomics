@@ -1,0 +1,7 @@
+Publication copies of the current R4.6.1/DESeq2 1.52.0 analysis objects.
+Only design formula environments and dispersion-function environments were replaced.
+Design expressions, function bodies/attributes, every other slot, assays, row/column metadata and extra object attributes are identical.
+The design environment now points to baseenv; fitted parametric dispersion closures retain only their original coefficients with baseenv parent; the unfitted empty closure uses baseenv.
+Dispersion predictions at every fitted gene baseMean and all three Wald/one LRT regenerated results and result metadata were identical.
+This removes captured machine-local execution arguments and redundant objects. Original execution RDS files remain unchanged.
+PUBLIC_OBJECT_VALIDATION.tsv records source/public SHA-256 and checks. sanitize_public_dds.R documents the exact transformation.

@@ -1,0 +1,16 @@
+[
+  {
+    "script": "run_gse252285_ucell.R",
+    "interface_changes": "Explicit paths, new-directory guard and immutable-input checksums",
+    "scientific_body_sha256": "6ec0b3aec7de246ae154c591a41747a538d4568a6066180bc10c0bd3f2b6c81b",
+    "scientific_body_unchanged": true,
+    "full_analysis_rerun": false
+  },
+  {
+    "script": "run_gse252285_matched_null.R",
+    "interface_changes": "Explicit paths, new-directory guard and immutable-input checksums",
+    "scientific_body_sha256": "d0f6c8fb96c54e17d10a171c5a694eab039fe37388a0a7dc4617d172d003d6fa",
+    "scientific_body_unchanged": true,
+    "full_analysis_rerun": false
+  }
+]

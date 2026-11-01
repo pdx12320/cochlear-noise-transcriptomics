@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "models": [
+    {
+      "tissue": "SGN",
+      "cell_type": "Fibrocyte / mesenchymal",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "samples": 8,
+      "genes": 15703,
+      "original_family_size": 984,
+      "normalization_max_abs_error": 2.9103830456733704e-11
+    },
+    {
+      "tissue": "SGN",
+      "cell_type": "Endothelial",
+      "safe_cell_type": "Endothelial",
+      "samples": 8,
+      "genes": 12667,
+      "original_family_size": 926,
+      "normalization_max_abs_error": 7.275957614183426e-12
+    },
+    {
+      "tissue": "SGN",
+      "cell_type": "Immune / myeloid",
+      "safe_cell_type": "Immune_myeloid",
+      "samples": 8,
+      "genes": 13489,
+      "original_family_size": 954,
+      "normalization_max_abs_error": 3.637978807091713e-12
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Fibrocyte / mesenchymal",
+      "safe_cell_type": "Fibrocyte_mesenchymal",
+      "samples": 8,
+      "genes": 14090,
+      "original_family_size": 954,
+      "normalization_max_abs_error": 2.9103830456733704e-11
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Endothelial",
+      "safe_cell_type": "Endothelial",
+      "samples": 8,
+      "genes": 13509,
+      "original_family_size": 929,
+      "normalization_max_abs_error": 2.9103830456733704e-11
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Immune / myeloid",
+      "safe_cell_type": "Immune_myeloid",
+      "samples": 8,
+      "genes": 11521,
+      "original_family_size": 898,
+      "normalization_max_abs_error": 3.637978807091713e-12
+    }
+  ],
+  "jobs": 48,
+  "original_source_files_checked": 42,
+  "main_analysis_refitted": false
+}

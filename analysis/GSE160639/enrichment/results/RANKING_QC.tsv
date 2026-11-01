@@ -1,0 +1,4 @@
+contrast	input_rows	finite_stat_and_valid_symbol_rows	ranked_symbols	duplicate_rows_removed	positive	negative	zeros	tied_statistics
+94dB_vs_70dB	19673	17445	17441	4	8471	8970	0	0
+105dB_vs_70dB	19673	17445	17441	4	8575	8866	0	0
+105dB_vs_94dB	19673	17445	17441	4	8631	8810	0	0

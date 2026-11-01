@@ -1,0 +1,6 @@
+Pre-run resource check, remote server timestamp 2026-11-01 17:34:03 Asia/Shanghai:
+RAM: 257419 MiB total, 163066 MiB available.
+/data filesystem: approximately23 GiB free.
+Load averages:7.01,7.95,7.73 on64CPU host (CPU count verified in prior resource check).
+Created new empty run directory: /path/to/cochlear_analysis/GSE160639_targeted27_from_rawcounts_20261101 after verifying it did not exist.
+Planned execution limits: one fgsea process and one OpenMP/BLAS thread,4GiB virtualmemory,900seconds walltime. Existing fgseaR4.5.3 runtime; no additional installation.

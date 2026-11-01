@@ -1,0 +1,4 @@
+library	condition	matched_geo_suffix	reconstructed_filtered_barcodes	cellranger_estimated_cells	official_processed_cells	estimated_minus_official	reconstruction_median_genes	official_matrix_median_genes	reconstruction_median_umi	official_matrix_median_umi	reconstruction_fraction_reads_in_cells	official_fraction_reads_in_cells
+A1_Control	Control	-3	11537	11537	11344	193	3001	2268	9567	7504	0.914	NOT_AVAILABLE_FROM_GEO_MATRIX
+B1_HHL	HHL	-1	17914	17914	17720	194	2619	1894	7106	5153	0.955	NOT_AVAILABLE_FROM_GEO_MATRIX
+C1_NIHL	NIHL	-2	10156	10156	10028	128	2382	1796.5	7838	6022.5	0.937	NOT_AVAILABLE_FROM_GEO_MATRIX

@@ -1,0 +1,101 @@
+\section{Methods}
+
+\subsection{Ethics statement}
+
+This study analyzed publicly available mouse sequencing data and involved no new animal procedures. Animal procedures are described in the source publications and dataset records~\citep{Milon2021,Jongkamonwiwat2020,GSE252285}. Approvals for the published experiments are reported in the original articles.
+
+\subsection{Public datasets and study design}
+
+Three mouse datasets were examined. GSE168041 contains spiral ganglion and lateral-wall single-cell RNA-sequencing profiles from unexposed and noise-exposed male CBA/\allowbreak{}CaJ mice~\citep{Milon2021}. Noise exposure comprised 105 dB sound pressure level for two hours, with tissue collection 24 hours later. Spiral ganglion preparations were obtained from nine-week-old mice and lateral-wall preparations from seven- to eight-week-old mice. Each compartment contributed four mice per condition.
+
+Accession-specific metadata for GSE160639 specify postnatal-day-60 FVB/\allowbreak{}NCrl mice exposed to 70, 94 or 105 dB for 30 minutes, with four whole-cochlea samples per group and immediate collection~\citep{GSE160639}. The source publication reports an equal overall representation of male and female mice~\citep{Jongkamonwiwat2020}; sex was not encoded in the deposited sample-level metadata.
+
+GSE252285 contains three single-cell libraries from C57BL/\allowbreak{}6J mice corresponding to control, hidden hearing loss and noise-induced hearing loss~\citep{GSE252285}. The deposited sample titles specify six mice for each library. Hidden hearing loss exposure used 110 dB for two hours; noise-induced hearing loss exposure used 115 dB for four hours on each of three days. Collection occurred six hours after the final exposure. Sex was not provided in the sample records.
+
+\subsection{Selection of genes and pathway comparisons}
+
+The localization analysis used an author-selected exploratory panel of twenty genes, with membership retained across all three GSE252285 libraries. The bulk analysis evaluated nine targeted gene sets covering cytokine and inflammatory signaling, proteostasis, oxidative stress and apoptosis.
+
+Initial UCell profiles of six programs in the same cells guided six pathway--cell-type comparisons for exploratory matched-gene-set analysis. Selection sources and exact definitions are summarized in Supplementary Table S1.
+
+\subsection{Quality control and cell annotation in GSE168041}
+
+The 16 deposited count matrices contained 71,743 cells and 27,998 Ensembl gene identifiers. Cell barcodes were prefixed with their sample accession, and raw nonnegative integer counts were retained separately from the normalized analysis matrix. Cells were retained with 500--7,500 detected genes, a mitochondrial fraction of at most 30\% and a hemoglobin fraction of at most 20\%. Quality filtering retained 69,036 cells before doublet detection. Doublets were identified separately for each sample using scDblFinder 1.23.4~\citep{Germain2022}. The random seed was 20260825 plus the sample index.
+
+Spiral ganglion and lateral-wall preparations were processed separately using Scanpy 1.12.1 and AnnData 0.12.16~\citep{Wolf2018}. Counts were normalized to 10,000 per cell and log-transformed. Highly variable gene selection used 3,000 genes with the Seurat flavor and sample accession as the batch key. Scaled values were capped at 10. Principal component analysis retained 50 components, and the neighbor graph used 15 neighbors and 40 principal components. UMAP used a minimum distance of 0.5, and Leiden clustering used resolution 0.6~\citep{Traag2019}. The random seed was 20260825.
+
+Broad cell annotations were assigned from canonical cochlear markers and cluster-marker profiles. Candidate genes and the inflammatory programs examined subsequently were excluded as deciding annotation evidence. Annotations were fixed before differential-expression analysis. Rare or conflicting clusters were retained in composition summaries as unassigned. Computational batch correction was not applied.
+
+\subsection{Sample level pseudobulk differential expression}
+
+Raw counts were summed within each sample and broad cell category. Eligibility required at least three samples per condition with at least 20 cells each, positive library sizes, a resolved annotation and a maximum sample contribution of 50\% of the condition-specific cells. Thirteen tissue--cell-type combinations met these criteria, each with four samples per condition.
+
+Differential expression was estimated separately for each eligible combination using PyDESeq2 0.5.4 with the design formula \textasciitilde{} condition~\citep{Love2014,Muzellec2023}. The contrast was noise-exposed versus unexposed, so positive \(\log_2\) fold changes indicated higher expression after exposure. Genes with fewer than 10 total counts were removed before model fitting. Cook's-distance filtering and independent filtering were enabled, the target FDR was 0.05, and \(\log_2\) fold-change shrinkage was not applied. The biological sample was the unit of inference~\citep{Crowell2020,Squair2021}.
+
+\subsection{Gene set enrichment in cell type profiles}
+
+Genes with finite Wald statistics and available symbols were ranked by descending Wald statistic for preranked gene-set enrichment~\citep{Subramanian2005}. Duplicate symbols were resolved by maximum absolute statistic, followed by maximum signed statistic and lexical Ensembl identifier.
+
+Mouse MSigDB 2026.1.Mm gene sets were obtained using msigdbr 26.1.1~\citep{Castanza2023}. The analysis combined the Hallmark collection~\citep{Liberzon2015} and Reactome pathway annotations~\citep{Milacic2024}. Enrichment used fgseaMultilevel in fgsea 1.36.2, a weighting exponent of 1, gene-set sizes of 10--500, eps = 0 and seed 20260825.
+
+Benjamini--Hochberg adjustment was applied across the combined eligible Hallmark and Reactome sets within each cell-type model~\citep{Benjamini1995}. Positive and negative NES values indicated enrichment toward noise-exposed and unexposed samples, respectively.
+
+The focused panel comprised TNF signaling via NF-\(\kappa\)B, IL6--JAK--STAT3 signaling, angiogenesis, VEGF signaling, MAPK family signaling cascades and activation of the AP-1 family of transcription factors. Leading-edge membership identified the genes contributing to the enrichment-score extremum.
+
+\subsection{Sensitivity to individual biological samples}
+
+Leave-one-animal-out analyses evaluated fibrocyte/\allowbreak{}mesenchymal, endothelial and immune/\allowbreak{}myeloid populations in each dissected compartment. Each of the six models was refitted eight times, retaining three samples from one condition and four from the other. Each fit retained the original model's gene universe and re-estimated normalization and dispersion with the same PyDESeq2 settings.
+
+Enrichment retained the original eligible Hallmark--Reactome testing family for each tissue--cell-type model. Any unavailable pathway remained in the Benjamini--Hochberg family denominator. Ranked inputs used gene symbol and gene identifier as secondary ordering keys for tied Wald statistics. TNF--NF-\(\kappa\)B estimates were summarized across all six models, together with MAPK-family estimates in lateral-wall endothelial cells. Direction, NES and FDR were summarized for every omission. Omission ranges summarize overlapping seven-animal subsets and quantify sample influence within the original cohort.
+
+Individual-animal profiles used normalized pseudobulk counts from the full eight-sample models. Pathway profiles averaged gene-wise z scores of log1p-normalized counts across the fixed pathway members. Standardization used the mean and sample standard deviation across all eight animals, with zero-variance genes omitted. Duplicate symbols followed the full-model ranking rule. These descriptive profiles were displayed alongside normalized expression of the reported leading-edge genes.
+
+\subsection{Whole cochlea differential expression and pathway summaries}
+
+The public GSE160639 read-count matrix contained 35,496 genes across 12 samples. The analysis included 19,673 genes and all twelve samples, with four samples per dose. The gene universe and Ensembl-to-symbol mapping were retained from the earlier bulk analysis.
+
+R 4.6.1 and DESeq2 1.52.0 estimated median-ratio size factors within this gene universe~\citep{Love2014}. A categorical dose model used 70 dB as the reference and a parametric dispersion trend. Wald tests evaluated 94 versus 70 dB, 105 versus 70 dB and 105 versus 94 dB. The likelihood-ratio test compared the dose model with an intercept-only model.
+
+Independent filtering and Cook's-distance filtering were enabled, with target FDR 0.05 and Benjamini--Hochberg adjustment within each gene-level testing family. Neither a coefficient prior nor fold-change shrinkage was applied. Outlier replacement required at least seven replicates per group; each dose group contained four. Fitting used one process and seed 20261101.
+
+Targeted enrichment used the signed Wald statistics from the three bulk contrasts. Four GO Biological Process sets represented cytokine-mediated signaling, protein folding, response to endoplasmic reticulum stress and response to oxidative stress. Five Hallmark sets represented apoptosis, inflammatory response, reactive oxygen species pathway, TNF signaling via NF-\(\kappa\)B and unfolded protein response. Gene memberships were taken from the mouse MSigDB 2026.1.Mm collections.
+
+Finite signed Wald statistics with nonblank gene symbols were ranked in descending order, without DEG, P-value, FDR, fold-change or expression filtering. Duplicate symbols were resolved by maximum absolute statistic, followed by maximum signed statistic and lexical Ensembl identifier. Each contrast contained 17,441 unique ranked symbols, with no tied statistics.
+
+Enrichment used R 4.5.3 and fgsea 1.36.2 with \textrm{fgseaMultilevel}, weighting exponent 1, gene-set overlaps of 10--500, \textrm{eps}=0 and \textrm{scoreType}=\textrm{std}. The multilevel sample size was 101, with 1,000 preliminary permutations and one process. Seed 20260822 was reset for each contrast using Mersenne--Twister, Inversion and Rejection random-number settings.
+
+Benjamini--Hochberg adjustment covered exactly nine pathways across three contrasts, with significance defined as global FDR \(<\) 0.05. Within-contrast FDR values were retained separately. The 27-test bulk family was adjusted separately from each Hallmark--Reactome testing family in GSE168041.
+
+\subsection{Descriptive expression localization in GSE252285}
+
+The GSE252285 analysis included 36,111 cells after per-library quality control. Cells were required to have at least 200 detected genes and satisfy library-specific upper count, feature and mitochondrial thresholds. Upper count and feature thresholds used the smaller of the 99.5th percentile and median plus six scaled median absolute deviations (scaling constant 1.4826; quantile type 8). The mitochondrial threshold used the same rule, bounded between 10\% and 30\%. Cells were retained irrespective of their doublet classification.
+
+Seurat 5.5.1 normalized counts to 10,000 per cell and applied log transformation~\citep{Hao2024}. The workflow selected 2,000 variable features using VST, scaled them and calculated 50 principal components. A 20-neighbor graph used components 1--30, and Louvain clustering used resolution 0.6 and seed 42. The original t-SNE used principal components 1--30, perplexity 30 and seed 42; the figures use its stored coordinates. The selected clustering defined 28 clusters.
+
+Broad annotations combined a prior barcode-level annotation with canonical-marker evidence. The majority prior label within each new cluster was calculated among 31,273 cells shared with the earlier annotation. Assigning a named lineage required at least 20 shared cells, a majority-label fraction of at least 0.70 and two supporting canonical markers. Supporting markers required mean log-normalized expression of at least 0.10 and detection in at least 5\% of cluster cells. Lineage scores averaged the product of mean expression and detection fraction across each marker panel. Competing-lineage checks used 0.75 of the leading score and a 1.5-fold score advantage over the prior lineage. Clusters with insufficient support or conflicting lineage evidence remained unassigned.
+
+Library assignments were supported by barcode-overlap matching to reconstructed SRA libraries. Suffixes \(-\)3, \(-\)1 and \(-\)2 mapped to GSM7998628 (control), GSM7998629 (hidden hearing loss) and GSM7998630 (noise-induced hearing loss), respectively. The corresponding matched Jaccard indices were 0.9773, 0.9826 and 0.9849. Each assignment was the mutual best match between the deposited suffix group and the reconstructed library. Condition labels for the descriptive summaries were assigned from this external crosswalk.
+
+The twenty-gene panel comprised \mbox{\textit{Dusp1}}, \mbox{\textit{Fos}}, \mbox{\textit{Nfkbia}}, \mbox{\textit{Arrdc2}}, \mbox{\textit{Apold1}}, \mbox{\textit{Sik1}}, \mbox{\textit{Per1}}, \mbox{\textit{Ccn1}}, \mbox{\textit{Cebpb}}, \mbox{\textit{Fosb}}, \mbox{\textit{Rasd1}}, \mbox{\textit{Gadd45g}}, \mbox{\textit{Depp1}}, \mbox{\textit{Serpine1}}, \mbox{\textit{Errfi1}}, \mbox{\textit{Nr4a1}}, \mbox{\textit{Sgk1}}, \mbox{\textit{Rgs1}}, \mbox{\textit{Egr1}} and \mbox{\textit{Jun}}.
+
+Expression detection was defined as a raw count greater than zero. Detection fractions used all cells in the corresponding condition--cell-type group as the denominator. Mean expression used the Seurat RNA data layer and included zero-expression cells.
+
+Groups containing fewer than 20 cells were flagged in the underlying tables. Expression profiles and cell fractions were summarized descriptively for each library. Within each library, broad cell categories were ranked by descending mean normalized expression, with detection fraction used to break ties. Recurrent localization required the same highest-ranked broad cell category in all three libraries and at least 20 cells in each corresponding group.
+
+An annotation sensitivity analysis assigned the 319 cells in cluster 19 to the fibrocyte/\allowbreak{}mesenchymal category using lineage-marker evidence. The primary annotation retained these cells as unassigned. Gene-expression and UCell summaries were recalculated with the alternative labels, while cell inclusion, expression values, clustering and library assignments remained fixed.
+
+\subsection{Matched gene set analysis of pathway localization}
+
+The six UCell-guided follow-up comparisons used UCell 2.10.1 with \mbox{maxRank = 1,500} and average ranks for ties~\citep{Andreatta2021}. Program memberships used mouse MSigDB 2026.1.Mm gene sets or deterministic unions of those sets. The background comprised 24,428 detected genes. Observed signatures were restricted to detected genes and rescored before comparison with random sets of the same size. The localization statistic was the median score in the target broad cell type minus the median of the other five resolved cell-type medians. Unassigned cells were excluded from this comparison, and condition labels were not used in the statistic.
+
+Random sets matched the detectable signature size and joint mean-expression and detection-rate deciles in a \mbox{\(10\times10\)} grid. Genes were sampled without replacement within the matching strata, excluding members of the tested signature from each candidate pool. Each program used 10,000 iterations with seed 20260823. A sensitivity analysis added GENCODE vM23 gene-span-length tertiles to the matching strata.
+
+The one-sided empirical P value was
+\[
+P = \frac{1 + \#\{T_{\mathrm{null}}\geq T_{\mathrm{observed}}\}}{10{,}000+1}.
+\]
+Benjamini--Hochberg adjustment covered the six selected localization comparisons separately for the primary and gene-length sensitivity families~\citep{Benjamini1995}. The annotation sensitivity analysis repeated both matching analyses with the alternative cell-type assignment and unchanged scoring, matching, seed and testing families.
+
+\subsection{Use of artificial intelligence}
+
+ChatGPT/\allowbreak{}Codex (OpenAI) assisted with manuscript preparation, analysis, coding and verification. The author takes responsibility for the final content.

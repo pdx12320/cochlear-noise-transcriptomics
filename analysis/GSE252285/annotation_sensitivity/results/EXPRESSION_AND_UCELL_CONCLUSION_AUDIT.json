@@ -1,0 +1,976 @@
+{
+  "original_expression_summary_rows_verified": 560,
+  "max_original_error": {
+    "mean_log_normalized": 1.021405182655144e-14,
+    "pct_expressing": 9.947598300641403e-14
+  },
+  "stable_genes_by_metric_and_variant": {
+    "mean_log_normalized__original": [
+      "Dusp1",
+      "Nfkbia",
+      "Apold1",
+      "Sik1",
+      "Ccn1",
+      "Fosb",
+      "Rasd1",
+      "Depp1",
+      "Errfi1",
+      "Nr4a1",
+      "Egr1"
+    ],
+    "mean_log_normalized__c19_fibrocyte": [
+      "Dusp1",
+      "Nfkbia",
+      "Apold1",
+      "Sik1",
+      "Ccn1",
+      "Cebpb",
+      "Fosb",
+      "Rasd1",
+      "Depp1",
+      "Errfi1",
+      "Nr4a1",
+      "Egr1"
+    ],
+    "pct_expressing__original": [
+      "Arrdc2",
+      "Apold1",
+      "Sik1",
+      "Ccn1",
+      "Cebpb",
+      "Fosb",
+      "Rasd1",
+      "Depp1"
+    ],
+    "pct_expressing__c19_fibrocyte": [
+      "Arrdc2",
+      "Apold1",
+      "Sik1",
+      "Ccn1",
+      "Fosb",
+      "Rasd1",
+      "Depp1"
+    ]
+  },
+  "top_cell_type_changes": [
+    {
+      "metric": "mean_log_normalized",
+      "condition": "ALL",
+      "gene": "Fos",
+      "original": [
+        "Fibrocyte_mesenchymal"
+      ],
+      "revised": [
+        "Endothelial_vascular"
+      ]
+    },
+    {
+      "metric": "mean_log_normalized",
+      "condition": "ALL",
+      "gene": "Jun",
+      "original": [
+        "Endothelial_vascular"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    },
+    {
+      "metric": "mean_log_normalized",
+      "condition": "NIHL",
+      "gene": "Cebpb",
+      "original": [
+        "Immune_myeloid"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "ALL",
+      "gene": "Cebpb",
+      "original": [
+        "Immune_myeloid"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "ALL",
+      "gene": "Gadd45g",
+      "original": [
+        "Endothelial_vascular"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "ALL",
+      "gene": "Errfi1",
+      "original": [
+        "Fibrocyte_mesenchymal"
+      ],
+      "revised": [
+        "Supporting_epithelial"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "Control",
+      "gene": "Cebpb",
+      "original": [
+        "Immune_myeloid"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "NIHL",
+      "gene": "Errfi1",
+      "original": [
+        "Fibrocyte_mesenchymal"
+      ],
+      "revised": [
+        "Supporting_epithelial"
+      ]
+    },
+    {
+      "metric": "pct_expressing",
+      "condition": "NIHL",
+      "gene": "Egr1",
+      "original": [
+        "Hair_sensory"
+      ],
+      "revised": [
+        "Fibrocyte_mesenchymal"
+      ]
+    }
+  ],
+  "apold1_details": [
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "275",
+      "pct_expressing": "66.9090909090909",
+      "mean_log_normalized": "1.33751469761804",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "2997",
+      "pct_expressing": "15.8158158158158",
+      "mean_log_normalized": "0.241570432451499",
+      "rank_mean": "2",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "4726",
+      "pct_expressing": "8.99280575539568",
+      "mean_log_normalized": "0.133889985422038",
+      "rank_mean": "4",
+      "rank_pct": "4"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "96",
+      "pct_expressing": "69.7916666666667",
+      "mean_log_normalized": "1.534134914935",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "1219",
+      "pct_expressing": "18.9499589827728",
+      "mean_log_normalized": "0.314181268311647",
+      "rank_mean": "2",
+      "rank_pct": "2"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "2179",
+      "pct_expressing": "10.9683340982102",
+      "mean_log_normalized": "0.182202626729972",
+      "rank_mean": "3",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "116",
+      "pct_expressing": "70.6896551724138",
+      "mean_log_normalized": "1.33841615662382",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "962",
+      "pct_expressing": "15.3846153846154",
+      "mean_log_normalized": "0.231789847202794",
+      "rank_mean": "3",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "499",
+      "pct_expressing": "5.61122244488978",
+      "mean_log_normalized": "0.109530616103017",
+      "rank_mean": "4",
+      "rank_pct": "4"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "63",
+      "pct_expressing": "55.5555555555556",
+      "mean_log_normalized": "1.03624310861647",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "816",
+      "pct_expressing": "11.6421568627451",
+      "mean_log_normalized": "0.14462964090215",
+      "rank_mean": "2",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "2048",
+      "pct_expressing": "7.71484375",
+      "mean_log_normalized": "0.0884222509885442",
+      "rank_mean": "4",
+      "rank_pct": "4"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "275",
+      "pct_expressing": "66.9090909090909",
+      "mean_log_normalized": "1.33751469761804",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "3316",
+      "pct_expressing": "21.5922798552473",
+      "mean_log_normalized": "0.370850099677923",
+      "rank_mean": "2",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "4407",
+      "pct_expressing": "4.15248468345814",
+      "mean_log_normalized": "0.0288204507895857",
+      "rank_mean": "5",
+      "rank_pct": "4"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "96",
+      "pct_expressing": "69.7916666666667",
+      "mean_log_normalized": "1.534134914935",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "1453",
+      "pct_expressing": "28.079834824501",
+      "mean_log_normalized": "0.515596648425296",
+      "rank_mean": "2",
+      "rank_pct": "2"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "1945",
+      "pct_expressing": "3.18766066838046",
+      "mean_log_normalized": "0.0158583853750912",
+      "rank_mean": "5",
+      "rank_pct": "4"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "116",
+      "pct_expressing": "70.6896551724138",
+      "mean_log_normalized": "1.33841615662382",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "987",
+      "pct_expressing": "16.8186423505572",
+      "mean_log_normalized": "0.271505585732199",
+      "rank_mean": "3",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "474",
+      "pct_expressing": "2.10970464135021",
+      "mean_log_normalized": "0.0203831167232347",
+      "rank_mean": "4",
+      "rank_pct": "5"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "n_cells": "63",
+      "pct_expressing": "55.5555555555556",
+      "mean_log_normalized": "1.03624310861647",
+      "rank_mean": "1",
+      "rank_pct": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Fibrocyte_mesenchymal",
+      "n_cells": "876",
+      "pct_expressing": "16.2100456621005",
+      "mean_log_normalized": "0.242695190927345",
+      "rank_mean": "2",
+      "rank_pct": "3"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "n_cells": "1988",
+      "pct_expressing": "5.58350100603622",
+      "mean_log_normalized": "0.0435138680826653",
+      "rank_mean": "5",
+      "rank_pct": "4"
+    }
+  ],
+  "UCell_highest_median_groups": [
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "4726",
+      "median_UCell": "0.198620782483848",
+      "mean_UCell": "0.174034851043197",
+      "Q1_UCell": "0.0564438262742283",
+      "Q3_UCell": "0.272594669777459",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "4407",
+      "median_UCell": "0.212397702799713",
+      "mean_UCell": "0.18343791797654",
+      "Q1_UCell": "0.0651417803302225",
+      "Q3_UCell": "0.276575735821967",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "2179",
+      "median_UCell": "0.20382447954056",
+      "mean_UCell": "0.175723725326956",
+      "Q1_UCell": "0.0543386575735822",
+      "Q3_UCell": "0.277641780330223",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "1945",
+      "median_UCell": "0.224312634601579",
+      "mean_UCell": "0.191433570718078",
+      "Q1_UCell": "0.0668575017946878",
+      "Q3_UCell": "0.284086503948313",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "499",
+      "median_UCell": "0.152857142857143",
+      "mean_UCell": "0.153102148302348",
+      "Q1_UCell": "0.0656703158650395",
+      "Q3_UCell": "0.23394023689878",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "474",
+      "median_UCell": "0.164577351040918",
+      "mean_UCell": "0.158630475312064",
+      "Q1_UCell": "0.0715541995692749",
+      "Q3_UCell": "0.235433865757358",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "2048",
+      "median_UCell": "0.20596464465183",
+      "mean_UCell": "0.177338250263595",
+      "Q1_UCell": "0.0567619346733669",
+      "Q3_UCell": "0.276380563531946",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "E2F_TARGETS",
+      "n_cells": "1988",
+      "median_UCell": "0.210609296482413",
+      "mean_UCell": "0.181530062463799",
+      "Q1_UCell": "0.061629127781766",
+      "Q3_UCell": "0.277239770279971",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "275",
+      "median_UCell": "0.0804231095320764",
+      "mean_UCell": "0.0831817044032313",
+      "Q1_UCell": "0.0578485203278292",
+      "Q3_UCell": "0.106017602648472",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "275",
+      "median_UCell": "0.0804231095320764",
+      "mean_UCell": "0.0831817044032313",
+      "Q1_UCell": "0.0578485203278292",
+      "Q3_UCell": "0.106017602648472",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "96",
+      "median_UCell": "0.0977895756792765",
+      "mean_UCell": "0.096896406125937",
+      "Q1_UCell": "0.0670555936856555",
+      "Q3_UCell": "0.123793855222254",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "96",
+      "median_UCell": "0.0977895756792765",
+      "mean_UCell": "0.096896406125937",
+      "Q1_UCell": "0.0670555936856555",
+      "Q3_UCell": "0.123793855222254",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Immune_myeloid",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "14844",
+      "median_UCell": "0.0752533408696355",
+      "mean_UCell": "0.0805368209640533",
+      "Q1_UCell": "0.0514917840849449",
+      "Q3_UCell": "0.104724655819775",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Immune_myeloid",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "14844",
+      "median_UCell": "0.0752533408696355",
+      "mean_UCell": "0.0805368209640533",
+      "Q1_UCell": "0.0514917840849449",
+      "Q3_UCell": "0.104724655819775",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Immune_myeloid",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "6174",
+      "median_UCell": "0.0852396140336712",
+      "mean_UCell": "0.0874372097435242",
+      "Q1_UCell": "0.0564193144656627",
+      "Q3_UCell": "0.115615285235577",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Immune_myeloid",
+      "program": "IL6_JAK_STAT3",
+      "n_cells": "6174",
+      "median_UCell": "0.0852396140336712",
+      "mean_UCell": "0.0874372097435242",
+      "Q1_UCell": "0.0564193144656627",
+      "Q3_UCell": "0.115615285235577",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "275",
+      "median_UCell": "0.102274366495168",
+      "mean_UCell": "0.104681968990283",
+      "Q1_UCell": "0.0812617204404482",
+      "Q3_UCell": "0.127566475934029",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "275",
+      "median_UCell": "0.102274366495168",
+      "mean_UCell": "0.104681968990283",
+      "Q1_UCell": "0.0812617204404482",
+      "Q3_UCell": "0.127566475934029",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "96",
+      "median_UCell": "0.100122613838534",
+      "mean_UCell": "0.10095994915132",
+      "Q1_UCell": "0.0814540558734433",
+      "Q3_UCell": "0.12434185219022",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "96",
+      "median_UCell": "0.100122613838534",
+      "mean_UCell": "0.10095994915132",
+      "Q1_UCell": "0.0814540558734433",
+      "Q3_UCell": "0.12434185219022",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "116",
+      "median_UCell": "0.109348704140021",
+      "mean_UCell": "0.110416601034964",
+      "Q1_UCell": "0.0803601480982834",
+      "Q3_UCell": "0.137658075683993",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "116",
+      "median_UCell": "0.109348704140021",
+      "mean_UCell": "0.110416601034964",
+      "Q1_UCell": "0.0803601480982834",
+      "Q3_UCell": "0.137658075683993",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "63",
+      "median_UCell": "0.100302928306967",
+      "mean_UCell": "0.0997946132340516",
+      "Q1_UCell": "0.0808409866807713",
+      "Q3_UCell": "0.116146559599943",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "MAPK_AP1",
+      "n_cells": "63",
+      "median_UCell": "0.100302928306967",
+      "mean_UCell": "0.0997946132340516",
+      "Q1_UCell": "0.0808409866807713",
+      "Q3_UCell": "0.116146559599943",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "4726",
+      "median_UCell": "0.221209635285383",
+      "mean_UCell": "0.229699764111667",
+      "Q1_UCell": "0.117128326871313",
+      "Q3_UCell": "0.335998725927827",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "4407",
+      "median_UCell": "0.236951453878282",
+      "mean_UCell": "0.236210740781324",
+      "Q1_UCell": "0.114457969367272",
+      "Q3_UCell": "0.341994427079992",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "2179",
+      "median_UCell": "0.28706037635542",
+      "mean_UCell": "0.262300408375212",
+      "Q1_UCell": "0.126159115421161",
+      "Q3_UCell": "0.381011741629163",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "1945",
+      "median_UCell": "0.313122332315909",
+      "mean_UCell": "0.276524383924531",
+      "Q1_UCell": "0.12457645502403",
+      "Q3_UCell": "0.390623806512128",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "499",
+      "median_UCell": "0.237128662957497",
+      "mean_UCell": "0.240838686450283",
+      "Q1_UCell": "0.175935770874771",
+      "Q3_UCell": "0.31060397742723",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "474",
+      "median_UCell": "0.244008499925145",
+      "mean_UCell": "0.246594945462314",
+      "Q1_UCell": "0.188936577481615",
+      "Q3_UCell": "0.314851648502737",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "2048",
+      "median_UCell": "0.179169072738216",
+      "mean_UCell": "0.192299800197002",
+      "Q1_UCell": "0.0881359285297452",
+      "Q3_UCell": "0.28072362410899",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "UNRESOLVED",
+      "program": "MYC_TARGETS",
+      "n_cells": "1988",
+      "median_UCell": "0.183901013452614",
+      "mean_UCell": "0.194293160835485",
+      "Q1_UCell": "0.0865616702872315",
+      "Q3_UCell": "0.283935538669771",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "275",
+      "median_UCell": "0.147549637050682",
+      "mean_UCell": "0.14773674773318",
+      "Q1_UCell": "0.106690535650578",
+      "Q3_UCell": "0.185818583587556",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "275",
+      "median_UCell": "0.147549637050682",
+      "mean_UCell": "0.14773674773318",
+      "Q1_UCell": "0.106690535650578",
+      "Q3_UCell": "0.185818583587556",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "96",
+      "median_UCell": "0.158575542239729",
+      "mean_UCell": "0.155896936682272",
+      "Q1_UCell": "0.114805019403408",
+      "Q3_UCell": "0.195662719243959",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "96",
+      "median_UCell": "0.158575542239729",
+      "mean_UCell": "0.155896936682272",
+      "Q1_UCell": "0.114805019403408",
+      "Q3_UCell": "0.195662719243959",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "116",
+      "median_UCell": "0.144764720015727",
+      "mean_UCell": "0.145205665212928",
+      "Q1_UCell": "0.107834080831761",
+      "Q3_UCell": "0.18407528012989",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "116",
+      "median_UCell": "0.144764720015727",
+      "mean_UCell": "0.145205665212928",
+      "Q1_UCell": "0.107834080831761",
+      "Q3_UCell": "0.18407528012989",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "63",
+      "median_UCell": "0.133563164830684",
+      "mean_UCell": "0.139962580006775",
+      "Q1_UCell": "0.0992895731250046",
+      "Q3_UCell": "0.180624622307004",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "TNFA_NFKB",
+      "n_cells": "63",
+      "median_UCell": "0.133563164830684",
+      "mean_UCell": "0.139962580006775",
+      "Q1_UCell": "0.0992895731250046",
+      "Q3_UCell": "0.180624622307004",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "275",
+      "median_UCell": "0.13866087493479",
+      "mean_UCell": "0.133433469125443",
+      "Q1_UCell": "0.117419645043491",
+      "Q3_UCell": "0.158036294143324",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "ALL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "275",
+      "median_UCell": "0.13866087493479",
+      "mean_UCell": "0.133433469125443",
+      "Q1_UCell": "0.117419645043491",
+      "Q3_UCell": "0.158036294143324",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "96",
+      "median_UCell": "0.136721869111119",
+      "mean_UCell": "0.128318456975453",
+      "Q1_UCell": "0.110293099960608",
+      "Q3_UCell": "0.152121461347642",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "Control",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "96",
+      "median_UCell": "0.136721869111119",
+      "mean_UCell": "0.128318456975453",
+      "Q1_UCell": "0.110293099960608",
+      "Q3_UCell": "0.152121461347642",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "116",
+      "median_UCell": "0.142424435998169",
+      "mean_UCell": "0.13854298257304",
+      "Q1_UCell": "0.121891202742556",
+      "Q3_UCell": "0.162254995901072",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "HHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "116",
+      "median_UCell": "0.142424435998169",
+      "mean_UCell": "0.13854298257304",
+      "Q1_UCell": "0.121891202742556",
+      "Q3_UCell": "0.162254995901072",
+      "median_rank": "1"
+    },
+    {
+      "variant": "original",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "63",
+      "median_UCell": "0.137886337261916",
+      "mean_UCell": "0.131819780339375",
+      "Q1_UCell": "0.11181555889148",
+      "Q3_UCell": "0.154407145975066",
+      "median_rank": "1"
+    },
+    {
+      "variant": "c19_fibrocyte",
+      "condition": "NIHL",
+      "broad_cell_type": "Endothelial_vascular",
+      "program": "VEGF_ANGIOGENESIS",
+      "n_cells": "63",
+      "median_UCell": "0.137886337261916",
+      "mean_UCell": "0.131819780339375",
+      "Q1_UCell": "0.11181555889148",
+      "Q3_UCell": "0.154407145975066",
+      "median_rank": "1"
+    }
+  ]
+}

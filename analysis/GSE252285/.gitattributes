@@ -1,0 +1,2 @@
+# Preserve archived file bytes, including table line endings, for SHA256 checks.
+* -text

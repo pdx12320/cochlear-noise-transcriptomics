@@ -1,0 +1,30 @@
+{
+  "source": "work/cochlear_noise_archive/analysis/GSE252285/portable_scripts/run_gse252285_matched_null.R",
+  "source_sha256": "c36bcfb800ca35d24123dee17d00570f1a4f70e290cb03daed29766f4d72b092",
+  "script_sha256": "66e64d5cc54926d5fe96d5b665a8198e12beca2e52cce048bfe1af6d06e1211a",
+  "adaptations": [
+    "argument interface",
+    "derived grouping only",
+    "read-only existing rank cache",
+    "identical median statistic plus paired original-annotation validation",
+    "capture paired observed statistic",
+    "paired-null storage",
+    "paired-null vectors",
+    "capture paired-null localization without changing random draws",
+    "collect original null for exact comparison",
+    "tabular comparison and invariants instead of plotting/publication report",
+    "Write a checkpoint after each program/matching-mode block without RNG calls",
+    "Original UCell library retained; existing data-only fallback library appended after original runtime defaults"
+  ],
+  "random_set_generation_unchanged": true,
+  "gene_universe_and_matching_unchanged": true,
+  "p_value_and_BH_expressions_unchanged": true,
+  "original_result_reproduction_check_included": true,
+  "scientific_function_AST_checks_against_original_executed_script": {
+    "rank_bin": true,
+    "read_gmt": true,
+    "fast_ucell": true,
+    "make_match_spec": true,
+    "draw_sets": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "CONDITION_MAPPING_RESOLVED": "YES",
+  "evidence": {
+    "A1_Control": {
+      "column_intersection_ratio_to_next_best": 188.48333333333332,
+      "matched_intersection": 11309,
+      "matched_jaccard": 0.9772727272727273,
+      "matched_official_recall": 0.9969146685472496,
+      "matched_reconstruction_recall": 0.9802374967495883,
+      "mutual_best": true,
+      "passes_strong_unique_rule": true,
+      "row_intersection_ratio_to_next_best": 194.98275862068965,
+      "suffix": "-3"
+    },
+    "B1_HHL": {
+      "column_intersection_ratio_to_next_best": 304.5,
+      "matched_intersection": 17661,
+      "matched_jaccard": 0.9826406276080788,
+      "matched_official_recall": 0.9966704288939052,
+      "matched_reconstruction_recall": 0.9858769677347327,
+      "mutual_best": true,
+      "passes_strong_unique_rule": true,
+      "row_intersection_ratio_to_next_best": 294.35,
+      "suffix": "-1"
+    },
+    "C1_NIHL": {
+      "column_intersection_ratio_to_next_best": 196.37254901960785,
+      "matched_intersection": 10015,
+      "matched_jaccard": 0.9848559347035106,
+      "matched_official_recall": 0.9987036298364579,
+      "matched_reconstruction_recall": 0.9861165813312328,
+      "mutual_best": true,
+      "passes_strong_unique_rule": true,
+      "row_intersection_ratio_to_next_best": 200.3,
+      "suffix": "-2"
+    }
+  },
+  "mapping_confidence": "HIGH",
+  "strong_unique_rule": {
+    "minimum_each_recall": 0.3,
+    "minimum_intersection": 1000,
+    "minimum_jaccard": 0.2,
+    "minimum_row_and_column_intersection_ratio": 20.0,
+    "one_to_one_mutual_best": true
+  },
+  "suffix_to_condition": {
+    "-1": "HHL",
+    "-2": "NIHL",
+    "-3": "Control"
+  }
+}

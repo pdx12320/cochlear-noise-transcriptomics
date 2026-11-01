@@ -1,0 +1,17 @@
+GSM	sample_id	tissue	condition	n_cells_raw	n_cells_qc_pass	n_cells_final
+GSM5124291	SGN_naive_1	SGN	Naive	3010	2832	2698
+GSM5124292	SGN_naive_2	SGN	Naive	6032	5855	5417
+GSM5124293	SGN_naive_3	SGN	Naive	3654	3521	3338
+GSM5124294	SGN_naive_4	SGN	Naive	5204	4972	4659
+GSM5124295	SGN_noise_1	SGN	Noise	4938	4773	4440
+GSM5124296	SGN_noise_2	SGN	Noise	4646	4526	4270
+GSM5124297	SGN_noise_3	SGN	Noise	3782	3696	3502
+GSM5124298	SGN_noise_4	SGN	Noise	3510	3422	3232
+GSM5124299	Lateral_wall_naive_1	Lateral_wall	Naive	2853	2728	2605
+GSM5124300	Lateral_wall_naive_2	Lateral_wall	Naive	6706	6335	5808
+GSM5124301	Lateral_wall_naive_3	Lateral_wall	Naive	4458	4222	3968
+GSM5124302	Lateral_wall_naive_4	Lateral_wall	Naive	4359	4107	3851
+GSM5124303	Lateral_wall_noise_1	Lateral_wall	Noise	3765	3685	3478
+GSM5124304	Lateral_wall_noise_2	Lateral_wall	Noise	4564	4419	4164
+GSM5124305	Lateral_wall_noise_3	Lateral_wall	Noise	5203	5075	4730
+GSM5124306	Lateral_wall_noise_4	Lateral_wall	Noise	5059	4868	4545

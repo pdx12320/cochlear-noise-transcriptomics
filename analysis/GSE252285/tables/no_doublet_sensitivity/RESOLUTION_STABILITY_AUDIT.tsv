@@ -1,0 +1,4 @@
+low_resolution	high_resolution	low_cluster_number	high_cluster_number	additional_cluster_number	adjusted_rand_index	median_dominant_parent_fraction_of_high_cluster	minimum_dominant_parent_fraction_of_high_cluster	lower_clusters_with_two_or_more_substantial_children	interpretation
+0.4	0.6	27	28	1	0.925401375592677	1	0.776699029126214	3	Higher resolution is an audit only; marker coherence is required before considering a change
+0.6	0.8	28	33	5	0.798806501142932	1	0.709157846295444	8	Higher resolution is an audit only; marker coherence is required before considering a change
+0.8	1.0	33	37	4	0.686820161543756	0.998168498168498	0.592520451889365	9	Higher resolution is an audit only; marker coherence is required before considering a change

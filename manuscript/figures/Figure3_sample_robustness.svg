@@ -1,0 +1,417 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.777778in" height="7.888889in" viewBox="0 0 560 568">
+<rect width="100%" height="100%" fill="white"/>
+<text x="16" y="19" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 16 19)">a</text>
+<text x="32" y="19" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 32 19)">Pathway expression in individual animals</text>
+<text x="296" y="42" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#377DA8" transform="rotate(0 296 42)">Unexposed (Naive)</text>
+<text x="448" y="42" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#CA5A49" transform="rotate(0 448 42)">Noise exposed</text>
+<line x1="220" y1="47" x2="369" y2="47" stroke="#377DA8" stroke-width="1.5" />
+<line x1="375" y1="47" x2="524" y2="47" stroke="#CA5A49" stroke-width="1.5" />
+<text x="239.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 239.0 59)">C1</text>
+<text x="277.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 277.0 59)">C2</text>
+<text x="315.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 315.0 59)">C3</text>
+<text x="353.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 353.0 59)">C4</text>
+<text x="391.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 391.0 59)">N1</text>
+<text x="429.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 429.0 59)">N2</text>
+<text x="467.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 467.0 59)">N3</text>
+<text x="505.0" y="59" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 505.0 59)">N4</text>
+<text x="18" y="75" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 75)">LW fibrocyte/mesenchymal</text>
+<text x="18" y="85" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 85)">TNF-NF-kB</text>
+<rect x="220" y="66" width="37" height="21" fill="#bcd1dd" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 80)">-0.30</text>
+<rect x="258" y="66" width="37" height="21" fill="#aec8d7" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 80)">-0.37</text>
+<rect x="296" y="66" width="37" height="21" fill="#eaeeef" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 80)">-0.06</text>
+<rect x="334" y="66" width="37" height="21" fill="#ebcfca" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 352.5 80)">+0.24</text>
+<rect x="372" y="66" width="37" height="21" fill="#f1e7e4" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 80)">+0.09</text>
+<rect x="410" y="66" width="37" height="21" fill="#f0e4e0" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 80)">+0.11</text>
+<rect x="448" y="66" width="37" height="21" fill="#e7c3bc" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 80)">+0.32</text>
+<rect x="486" y="66" width="37" height="21" fill="#eef0f0" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="80" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 80)">-0.04</text>
+<text x="18" y="97" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 97)">SGN fibrocyte/mesenchymal</text>
+<text x="18" y="107" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 107)">TNF-NF-kB</text>
+<rect x="220" y="88" width="37" height="21" fill="#f0e2de" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 102)">+0.12</text>
+<rect x="258" y="88" width="37" height="21" fill="#f4f1ee" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 102)">+0.03</text>
+<rect x="296" y="88" width="37" height="21" fill="#bfd3de" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 102)">-0.28</text>
+<rect x="334" y="88" width="37" height="21" fill="#f4f3f1" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 352.5 102)">+0.01</text>
+<rect x="372" y="88" width="37" height="21" fill="#e7c2bb" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 102)">+0.33</text>
+<rect x="410" y="88" width="37" height="21" fill="#b7ceda" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 102)">-0.33</text>
+<rect x="448" y="88" width="37" height="21" fill="#f4f1ef" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 102)">+0.02</text>
+<rect x="486" y="88" width="37" height="21" fill="#f1e6e3" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="102" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 102)">+0.09</text>
+<text x="18" y="119" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 119)">LW endothelial</text>
+<text x="18" y="129" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 129)">TNF-NF-kB</text>
+<rect x="220" y="110" width="37" height="21" fill="#dae4e9" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 124)">-0.14</text>
+<rect x="258" y="110" width="37" height="21" fill="#f1e8e5" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 124)">+0.08</text>
+<rect x="296" y="110" width="37" height="21" fill="#dfa59b" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 124)">+0.52</text>
+<rect x="334" y="110" width="37" height="21" fill="#d68578" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 352.5 124)">+0.72</text>
+<rect x="372" y="110" width="37" height="21" fill="#e4eaec" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 124)">-0.09</text>
+<rect x="410" y="110" width="37" height="21" fill="#c2d5df" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 124)">-0.27</text>
+<rect x="448" y="110" width="37" height="21" fill="#95b9cd" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 124)">-0.50</text>
+<rect x="486" y="110" width="37" height="21" fill="#b9cfdb" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="124" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 124)">-0.32</text>
+<text x="18" y="141" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 141)">SGN endothelial</text>
+<text x="18" y="151" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 151)">TNF-NF-kB</text>
+<rect x="220" y="132" width="37" height="21" fill="#e1ada4" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 146)">+0.46</text>
+<rect x="258" y="132" width="37" height="21" fill="#e9edee" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 146)">-0.06</text>
+<rect x="296" y="132" width="37" height="21" fill="#aec8d7" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 146)">-0.37</text>
+<rect x="334" y="132" width="37" height="21" fill="#e2b0a7" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 352.5 146)">+0.45</text>
+<rect x="372" y="132" width="37" height="21" fill="#f4f5f3" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 146)">0.00</text>
+<rect x="410" y="132" width="37" height="21" fill="#a9c5d5" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 146)">-0.40</text>
+<rect x="448" y="132" width="37" height="21" fill="#d3dfe5" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 146)">-0.18</text>
+<rect x="486" y="132" width="37" height="21" fill="#f0e4e0" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="146" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 146)">+0.11</text>
+<text x="18" y="163" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 163)">LW immune/myeloid</text>
+<text x="18" y="173" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 173)">TNF-NF-kB</text>
+<rect x="220" y="154" width="37" height="21" fill="#f0f2f1" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 168)">-0.03</text>
+<rect x="258" y="154" width="37" height="21" fill="#e7c2bb" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 168)">+0.33</text>
+<rect x="296" y="154" width="37" height="21" fill="#eeddd8" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 168)">+0.16</text>
+<rect x="334" y="154" width="37" height="21" fill="#d27668" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 352.5 168)">+0.82</text>
+<rect x="372" y="154" width="37" height="21" fill="#e0e8eb" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 168)">-0.11</text>
+<rect x="410" y="154" width="37" height="21" fill="#eef1f0" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 168)">-0.04</text>
+<rect x="448" y="154" width="37" height="21" fill="#9dbed0" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 168)">-0.46</text>
+<rect x="486" y="154" width="37" height="21" fill="#76a5c1" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="168" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 504.5 168)">-0.67</text>
+<text x="18" y="185" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 185)">SGN immune/myeloid</text>
+<text x="18" y="195" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 195)">TNF-NF-kB</text>
+<rect x="220" y="176" width="37" height="21" fill="#d58376" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 238.5 190)">+0.73</text>
+<rect x="258" y="176" width="37" height="21" fill="#e3b5ad" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 190)">+0.41</text>
+<rect x="296" y="176" width="37" height="21" fill="#e3b4ac" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 190)">+0.42</text>
+<rect x="334" y="176" width="37" height="21" fill="#72a2bf" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#FFFFFF" transform="rotate(0 352.5 190)">-0.69</text>
+<rect x="372" y="176" width="37" height="21" fill="#eef1f0" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 190)">-0.04</text>
+<rect x="410" y="176" width="37" height="21" fill="#c3d5df" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 190)">-0.26</text>
+<rect x="448" y="176" width="37" height="21" fill="#b6cdda" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 190)">-0.33</text>
+<rect x="486" y="176" width="37" height="21" fill="#c7d8e1" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="190" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 190)">-0.24</text>
+<text x="18" y="207" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 207)">LW endothelial</text>
+<text x="18" y="217" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 217)">MAPK-family signaling</text>
+<rect x="220" y="198" width="37" height="21" fill="#cddce3" stroke="none" stroke-width="0.5"/>
+<text x="238.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 238.5 212)">-0.21</text>
+<rect x="258" y="198" width="37" height="21" fill="#eef1f0" stroke="none" stroke-width="0.5"/>
+<text x="276.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 276.5 212)">-0.04</text>
+<rect x="296" y="198" width="37" height="21" fill="#f1f2f1" stroke="none" stroke-width="0.5"/>
+<text x="314.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 314.5 212)">-0.02</text>
+<rect x="334" y="198" width="37" height="21" fill="#ebefef" stroke="none" stroke-width="0.5"/>
+<text x="352.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 352.5 212)">-0.05</text>
+<rect x="372" y="198" width="37" height="21" fill="#eedcd8" stroke="none" stroke-width="0.5"/>
+<text x="390.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 390.5 212)">+0.16</text>
+<rect x="410" y="198" width="37" height="21" fill="#f4f1ef" stroke="none" stroke-width="0.5"/>
+<text x="428.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 428.5 212)">+0.03</text>
+<rect x="448" y="198" width="37" height="21" fill="#ecefef" stroke="none" stroke-width="0.5"/>
+<text x="466.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 466.5 212)">-0.05</text>
+<rect x="486" y="198" width="37" height="21" fill="#edd8d3" stroke="none" stroke-width="0.5"/>
+<text x="504.5" y="212" font-family="Arial, sans-serif" font-size="7.8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 504.5 212)">+0.19</text>
+<rect x="272.0" y="237" width="1.6416666666666668" height="7" fill="#377da8" stroke="none" stroke-width="0.5"/>
+<rect x="273.5416666666667" y="237" width="1.6416666666666668" height="7" fill="#3a7fa9" stroke="none" stroke-width="0.5"/>
+<rect x="275.0833333333333" y="237" width="1.6416666666666668" height="7" fill="#3d81ab" stroke="none" stroke-width="0.5"/>
+<rect x="276.625" y="237" width="1.6416666666666668" height="7" fill="#4183ac" stroke="none" stroke-width="0.5"/>
+<rect x="278.1666666666667" y="237" width="1.6416666666666668" height="7" fill="#4485ad" stroke="none" stroke-width="0.5"/>
+<rect x="279.7083333333333" y="237" width="1.6416666666666668" height="7" fill="#4787ae" stroke="none" stroke-width="0.5"/>
+<rect x="281.25" y="237" width="1.6416666666666668" height="7" fill="#4a89b0" stroke="none" stroke-width="0.5"/>
+<rect x="282.7916666666667" y="237" width="1.6416666666666668" height="7" fill="#4d8bb1" stroke="none" stroke-width="0.5"/>
+<rect x="284.3333333333333" y="237" width="1.6416666666666668" height="7" fill="#518db2" stroke="none" stroke-width="0.5"/>
+<rect x="285.875" y="237" width="1.6416666666666668" height="7" fill="#548fb3" stroke="none" stroke-width="0.5"/>
+<rect x="287.4166666666667" y="237" width="1.6416666666666668" height="7" fill="#5791b5" stroke="none" stroke-width="0.5"/>
+<rect x="288.9583333333333" y="237" width="1.6416666666666668" height="7" fill="#5a93b6" stroke="none" stroke-width="0.5"/>
+<rect x="290.5" y="237" width="1.6416666666666668" height="7" fill="#5d95b7" stroke="none" stroke-width="0.5"/>
+<rect x="292.0416666666667" y="237" width="1.6416666666666668" height="7" fill="#6197b8" stroke="none" stroke-width="0.5"/>
+<rect x="293.5833333333333" y="237" width="1.6416666666666668" height="7" fill="#6499ba" stroke="none" stroke-width="0.5"/>
+<rect x="295.125" y="237" width="1.6416666666666668" height="7" fill="#679bbb" stroke="none" stroke-width="0.5"/>
+<rect x="296.6666666666667" y="237" width="1.6416666666666668" height="7" fill="#6a9dbc" stroke="none" stroke-width="0.5"/>
+<rect x="298.2083333333333" y="237" width="1.6416666666666668" height="7" fill="#6d9fbd" stroke="none" stroke-width="0.5"/>
+<rect x="299.75" y="237" width="1.6416666666666668" height="7" fill="#70a1bf" stroke="none" stroke-width="0.5"/>
+<rect x="301.2916666666667" y="237" width="1.6416666666666668" height="7" fill="#74a3c0" stroke="none" stroke-width="0.5"/>
+<rect x="302.8333333333333" y="237" width="1.6416666666666668" height="7" fill="#77a5c1" stroke="none" stroke-width="0.5"/>
+<rect x="304.375" y="237" width="1.6416666666666668" height="7" fill="#7aa7c2" stroke="none" stroke-width="0.5"/>
+<rect x="305.9166666666667" y="237" width="1.6416666666666668" height="7" fill="#7da9c4" stroke="none" stroke-width="0.5"/>
+<rect x="307.4583333333333" y="237" width="1.6416666666666668" height="7" fill="#80abc5" stroke="none" stroke-width="0.5"/>
+<rect x="309.0" y="237" width="1.6416666666666668" height="7" fill="#84adc6" stroke="none" stroke-width="0.5"/>
+<rect x="310.5416666666667" y="237" width="1.6416666666666668" height="7" fill="#87afc8" stroke="none" stroke-width="0.5"/>
+<rect x="312.0833333333333" y="237" width="1.6416666666666668" height="7" fill="#8ab1c9" stroke="none" stroke-width="0.5"/>
+<rect x="313.625" y="237" width="1.6416666666666668" height="7" fill="#8db3ca" stroke="none" stroke-width="0.5"/>
+<rect x="315.1666666666667" y="237" width="1.6416666666666668" height="7" fill="#90b5cb" stroke="none" stroke-width="0.5"/>
+<rect x="316.7083333333333" y="237" width="1.6416666666666668" height="7" fill="#94b7cd" stroke="none" stroke-width="0.5"/>
+<rect x="318.25" y="237" width="1.6416666666666668" height="7" fill="#97bace" stroke="none" stroke-width="0.5"/>
+<rect x="319.7916666666667" y="237" width="1.6416666666666668" height="7" fill="#9abccf" stroke="none" stroke-width="0.5"/>
+<rect x="321.3333333333333" y="237" width="1.6416666666666668" height="7" fill="#9dbed0" stroke="none" stroke-width="0.5"/>
+<rect x="322.875" y="237" width="1.6416666666666668" height="7" fill="#a0c0d2" stroke="none" stroke-width="0.5"/>
+<rect x="324.4166666666667" y="237" width="1.6416666666666668" height="7" fill="#a4c2d3" stroke="none" stroke-width="0.5"/>
+<rect x="325.9583333333333" y="237" width="1.6416666666666668" height="7" fill="#a7c4d4" stroke="none" stroke-width="0.5"/>
+<rect x="327.5" y="237" width="1.6416666666666668" height="7" fill="#aac6d5" stroke="none" stroke-width="0.5"/>
+<rect x="329.0416666666667" y="237" width="1.6416666666666668" height="7" fill="#adc8d7" stroke="none" stroke-width="0.5"/>
+<rect x="330.5833333333333" y="237" width="1.6416666666666668" height="7" fill="#b0cad8" stroke="none" stroke-width="0.5"/>
+<rect x="332.125" y="237" width="1.6416666666666668" height="7" fill="#b4ccd9" stroke="none" stroke-width="0.5"/>
+<rect x="333.6666666666667" y="237" width="1.6416666666666668" height="7" fill="#b7ceda" stroke="none" stroke-width="0.5"/>
+<rect x="335.2083333333333" y="237" width="1.6416666666666668" height="7" fill="#bad0dc" stroke="none" stroke-width="0.5"/>
+<rect x="336.75" y="237" width="1.6416666666666668" height="7" fill="#bdd2dd" stroke="none" stroke-width="0.5"/>
+<rect x="338.2916666666667" y="237" width="1.6416666666666668" height="7" fill="#c0d4de" stroke="none" stroke-width="0.5"/>
+<rect x="339.8333333333333" y="237" width="1.6416666666666668" height="7" fill="#c4d6df" stroke="none" stroke-width="0.5"/>
+<rect x="341.375" y="237" width="1.6416666666666668" height="7" fill="#c7d8e1" stroke="none" stroke-width="0.5"/>
+<rect x="342.9166666666667" y="237" width="1.6416666666666668" height="7" fill="#cadae2" stroke="none" stroke-width="0.5"/>
+<rect x="344.4583333333333" y="237" width="1.6416666666666668" height="7" fill="#cddce3" stroke="none" stroke-width="0.5"/>
+<rect x="346.0" y="237" width="1.6416666666666668" height="7" fill="#d0dee5" stroke="none" stroke-width="0.5"/>
+<rect x="347.5416666666667" y="237" width="1.6416666666666668" height="7" fill="#d3e0e6" stroke="none" stroke-width="0.5"/>
+<rect x="349.0833333333333" y="237" width="1.6416666666666668" height="7" fill="#d7e2e7" stroke="none" stroke-width="0.5"/>
+<rect x="350.625" y="237" width="1.6416666666666668" height="7" fill="#dae4e8" stroke="none" stroke-width="0.5"/>
+<rect x="352.1666666666667" y="237" width="1.6416666666666668" height="7" fill="#dde6ea" stroke="none" stroke-width="0.5"/>
+<rect x="353.7083333333333" y="237" width="1.6416666666666668" height="7" fill="#e0e8eb" stroke="none" stroke-width="0.5"/>
+<rect x="355.25" y="237" width="1.6416666666666668" height="7" fill="#e3eaec" stroke="none" stroke-width="0.5"/>
+<rect x="356.7916666666667" y="237" width="1.6416666666666668" height="7" fill="#e7eced" stroke="none" stroke-width="0.5"/>
+<rect x="358.3333333333333" y="237" width="1.6416666666666668" height="7" fill="#eaeeef" stroke="none" stroke-width="0.5"/>
+<rect x="359.875" y="237" width="1.6416666666666668" height="7" fill="#edf0f0" stroke="none" stroke-width="0.5"/>
+<rect x="361.4166666666667" y="237" width="1.6416666666666668" height="7" fill="#f0f2f1" stroke="none" stroke-width="0.5"/>
+<rect x="362.9583333333333" y="237" width="1.6416666666666668" height="7" fill="#f3f4f2" stroke="none" stroke-width="0.5"/>
+<rect x="364.5" y="237" width="1.6416666666666668" height="7" fill="#f5f4f2" stroke="none" stroke-width="0.5"/>
+<rect x="366.0416666666667" y="237" width="1.6416666666666668" height="7" fill="#f4f1ef" stroke="none" stroke-width="0.5"/>
+<rect x="367.5833333333333" y="237" width="1.6416666666666668" height="7" fill="#f3eeec" stroke="none" stroke-width="0.5"/>
+<rect x="369.125" y="237" width="1.6416666666666668" height="7" fill="#f2ece9" stroke="none" stroke-width="0.5"/>
+<rect x="370.6666666666667" y="237" width="1.6416666666666668" height="7" fill="#f2e9e6" stroke="none" stroke-width="0.5"/>
+<rect x="372.2083333333333" y="237" width="1.6416666666666668" height="7" fill="#f1e7e3" stroke="none" stroke-width="0.5"/>
+<rect x="373.75" y="237" width="1.6416666666666668" height="7" fill="#f0e4e0" stroke="none" stroke-width="0.5"/>
+<rect x="375.2916666666667" y="237" width="1.6416666666666668" height="7" fill="#f0e1de" stroke="none" stroke-width="0.5"/>
+<rect x="376.8333333333333" y="237" width="1.6416666666666668" height="7" fill="#efdfdb" stroke="none" stroke-width="0.5"/>
+<rect x="378.375" y="237" width="1.6416666666666668" height="7" fill="#eedcd8" stroke="none" stroke-width="0.5"/>
+<rect x="379.9166666666667" y="237" width="1.6416666666666668" height="7" fill="#eddad5" stroke="none" stroke-width="0.5"/>
+<rect x="381.4583333333333" y="237" width="1.6416666666666668" height="7" fill="#edd7d2" stroke="none" stroke-width="0.5"/>
+<rect x="383.0" y="237" width="1.6416666666666668" height="7" fill="#ecd4cf" stroke="none" stroke-width="0.5"/>
+<rect x="384.5416666666667" y="237" width="1.6416666666666668" height="7" fill="#ebd2cc" stroke="none" stroke-width="0.5"/>
+<rect x="386.0833333333333" y="237" width="1.6416666666666668" height="7" fill="#ebcfca" stroke="none" stroke-width="0.5"/>
+<rect x="387.625" y="237" width="1.6416666666666668" height="7" fill="#eacdc7" stroke="none" stroke-width="0.5"/>
+<rect x="389.1666666666667" y="237" width="1.6416666666666668" height="7" fill="#e9cac4" stroke="none" stroke-width="0.5"/>
+<rect x="390.7083333333333" y="237" width="1.6416666666666668" height="7" fill="#e8c7c1" stroke="none" stroke-width="0.5"/>
+<rect x="392.25" y="237" width="1.6416666666666668" height="7" fill="#e8c5be" stroke="none" stroke-width="0.5"/>
+<rect x="393.7916666666667" y="237" width="1.6416666666666668" height="7" fill="#e7c2bb" stroke="none" stroke-width="0.5"/>
+<rect x="395.3333333333333" y="237" width="1.6416666666666668" height="7" fill="#e6c0b8" stroke="none" stroke-width="0.5"/>
+<rect x="396.875" y="237" width="1.6416666666666668" height="7" fill="#e5bdb6" stroke="none" stroke-width="0.5"/>
+<rect x="398.4166666666667" y="237" width="1.6416666666666668" height="7" fill="#e5bab3" stroke="none" stroke-width="0.5"/>
+<rect x="399.9583333333333" y="237" width="1.6416666666666668" height="7" fill="#e4b8b0" stroke="none" stroke-width="0.5"/>
+<rect x="401.5" y="237" width="1.6416666666666668" height="7" fill="#e3b5ad" stroke="none" stroke-width="0.5"/>
+<rect x="403.04166666666663" y="237" width="1.6416666666666668" height="7" fill="#e3b3aa" stroke="none" stroke-width="0.5"/>
+<rect x="404.58333333333337" y="237" width="1.6416666666666668" height="7" fill="#e2b0a7" stroke="none" stroke-width="0.5"/>
+<rect x="406.125" y="237" width="1.6416666666666668" height="7" fill="#e1ada4" stroke="none" stroke-width="0.5"/>
+<rect x="407.66666666666663" y="237" width="1.6416666666666668" height="7" fill="#e0aba2" stroke="none" stroke-width="0.5"/>
+<rect x="409.20833333333337" y="237" width="1.6416666666666668" height="7" fill="#e0a89f" stroke="none" stroke-width="0.5"/>
+<rect x="410.75" y="237" width="1.6416666666666668" height="7" fill="#dfa69c" stroke="none" stroke-width="0.5"/>
+<rect x="412.29166666666663" y="237" width="1.6416666666666668" height="7" fill="#dea399" stroke="none" stroke-width="0.5"/>
+<rect x="413.83333333333337" y="237" width="1.6416666666666668" height="7" fill="#dea096" stroke="none" stroke-width="0.5"/>
+<rect x="415.375" y="237" width="1.6416666666666668" height="7" fill="#dd9e93" stroke="none" stroke-width="0.5"/>
+<rect x="416.91666666666663" y="237" width="1.6416666666666668" height="7" fill="#dc9b90" stroke="none" stroke-width="0.5"/>
+<rect x="418.45833333333337" y="237" width="1.6416666666666668" height="7" fill="#db998e" stroke="none" stroke-width="0.5"/>
+<rect x="420.0" y="237" width="1.6416666666666668" height="7" fill="#db968b" stroke="none" stroke-width="0.5"/>
+<rect x="421.54166666666663" y="237" width="1.6416666666666668" height="7" fill="#da9388" stroke="none" stroke-width="0.5"/>
+<rect x="423.08333333333337" y="237" width="1.6416666666666668" height="7" fill="#d99185" stroke="none" stroke-width="0.5"/>
+<rect x="424.625" y="237" width="1.6416666666666668" height="7" fill="#d88e82" stroke="none" stroke-width="0.5"/>
+<rect x="426.16666666666663" y="237" width="1.6416666666666668" height="7" fill="#d88b7f" stroke="none" stroke-width="0.5"/>
+<rect x="427.70833333333337" y="237" width="1.6416666666666668" height="7" fill="#d7897c" stroke="none" stroke-width="0.5"/>
+<rect x="429.25" y="237" width="1.6416666666666668" height="7" fill="#d6867a" stroke="none" stroke-width="0.5"/>
+<rect x="430.79166666666663" y="237" width="1.6416666666666668" height="7" fill="#d68477" stroke="none" stroke-width="0.5"/>
+<rect x="432.33333333333337" y="237" width="1.6416666666666668" height="7" fill="#d58174" stroke="none" stroke-width="0.5"/>
+<rect x="433.875" y="237" width="1.6416666666666668" height="7" fill="#d47e71" stroke="none" stroke-width="0.5"/>
+<rect x="435.41666666666663" y="237" width="1.6416666666666668" height="7" fill="#d37c6e" stroke="none" stroke-width="0.5"/>
+<rect x="436.95833333333337" y="237" width="1.6416666666666668" height="7" fill="#d3796b" stroke="none" stroke-width="0.5"/>
+<rect x="438.5" y="237" width="1.6416666666666668" height="7" fill="#d27768" stroke="none" stroke-width="0.5"/>
+<rect x="440.04166666666663" y="237" width="1.6416666666666668" height="7" fill="#d17466" stroke="none" stroke-width="0.5"/>
+<rect x="441.58333333333337" y="237" width="1.6416666666666668" height="7" fill="#d17163" stroke="none" stroke-width="0.5"/>
+<rect x="443.125" y="237" width="1.6416666666666668" height="7" fill="#d06f60" stroke="none" stroke-width="0.5"/>
+<rect x="444.66666666666663" y="237" width="1.6416666666666668" height="7" fill="#cf6c5d" stroke="none" stroke-width="0.5"/>
+<rect x="446.20833333333337" y="237" width="1.6416666666666668" height="7" fill="#ce6a5a" stroke="none" stroke-width="0.5"/>
+<rect x="447.75" y="237" width="1.6416666666666668" height="7" fill="#ce6757" stroke="none" stroke-width="0.5"/>
+<rect x="449.29166666666663" y="237" width="1.6416666666666668" height="7" fill="#cd6454" stroke="none" stroke-width="0.5"/>
+<rect x="450.83333333333337" y="237" width="1.6416666666666668" height="7" fill="#cc6252" stroke="none" stroke-width="0.5"/>
+<rect x="452.375" y="237" width="1.6416666666666668" height="7" fill="#cb5f4f" stroke="none" stroke-width="0.5"/>
+<rect x="453.91666666666663" y="237" width="1.6416666666666668" height="7" fill="#cb5d4c" stroke="none" stroke-width="0.5"/>
+<rect x="455.45833333333337" y="237" width="1.6416666666666668" height="7" fill="#ca5a49" stroke="none" stroke-width="0.5"/>
+<text x="272.0" y="256" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 272.0 256)">-1</text>
+<text x="364.5" y="256" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 364.5 256)">0</text>
+<text x="457.0" y="256" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 457.0 256)">1</text>
+<text x="18" y="245" font-family="Arial, sans-serif" font-size="7.7" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 245)">Mean gene-standardized expression</text>
+<text x="16" y="278" font-family="Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 16 278)">b</text>
+<text x="32" y="278" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 32 278)">Leave-one-animal-out pathway estimates</text>
+<text x="471" y="296" font-family="Arial, sans-serif" font-size="7.4" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 296)">Same direction</text>
+<text x="531" y="296" font-family="Arial, sans-serif" font-size="7.4" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 296)">q &lt; 0.05</text>
+<line x1="447" y1="302" x2="447" y2="496" stroke="#D5DADF" stroke-width="0.5" />
+<line x1="207.0" y1="304" x2="207.0" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="239.28571428571428" y1="304" x2="239.28571428571428" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="271.57142857142856" y1="304" x2="271.57142857142856" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="303.85714285714283" y1="304" x2="303.85714285714283" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="336.1428571428571" y1="304" x2="336.1428571428571" y2="496" stroke="#E5E8EA" stroke-width="0.35" stroke-dasharray="1,1"/>
+<line x1="368.42857142857144" y1="304" x2="368.42857142857144" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="400.71428571428567" y1="304" x2="400.71428571428567" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<line x1="433.0" y1="304" x2="433.0" y2="496" stroke="#E5E8EA" stroke-width="0.35" />
+<text x="18" y="317" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 317)">LW fibrocyte/mesenchymal</text>
+<text x="18" y="328" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 328)">TNF-NF-kB</text>
+<line x1="378.67701354277256" y1="318" x2="400.9483976301176" y2="318" stroke="#8A949C" stroke-width="1.2" />
+<line x1="378.67701354277256" y1="315" x2="378.67701354277256" y2="321" stroke="#8A949C" stroke-width="0.7" />
+<line x1="400.9483976301176" y1="315" x2="400.9483976301176" y2="321" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="387.1704121106185" cy="312" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="378.67701354277256" cy="316" r="2.3" fill="#FFFFFF" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="389.03943062156486" cy="320" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="400.9483976301176" cy="324" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="389.28922687118063" cy="312" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="389.65462889282765" cy="316" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="379.9672749171075" cy="320" r="2.3" fill="#FFFFFF" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="391.746285073038" cy="324" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="389.34292930759193,304.9 392.44292930759195,308 389.34292930759193,311.1 386.2429293075919,308" fill="#171717"/>
+<text x="471" y="321" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 321)">8/8</text>
+<text x="531" y="321" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 321)">6/8</text>
+<text x="18" y="344" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 344)">SGN fibrocyte/mesenchymal</text>
+<text x="18" y="355" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 355)">TNF-NF-kB</text>
+<line x1="378.2905323289471" y1="345" x2="392.0251307318674" y2="345" stroke="#8A949C" stroke-width="1.2" />
+<line x1="378.2905323289471" y1="342" x2="378.2905323289471" y2="348" stroke="#8A949C" stroke-width="0.7" />
+<line x1="392.0251307318674" y1="342" x2="392.0251307318674" y2="348" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="386.09862831390035" cy="339" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="383.1584232270191" cy="343" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="383.7104795850071" cy="347" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="383.2731452372167" cy="351" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="378.2905323289471" cy="339" r="2.3" fill="#FFFFFF" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="392.0251307318674" cy="343" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="382.73002268439285" cy="347" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="383.87238714734156" cy="351" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="383.38674610604767,331.9 386.4867461060477,335 383.38674610604767,338.1 380.28674610604764,335" fill="#171717"/>
+<text x="471" y="348" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 348)">8/8</text>
+<text x="531" y="348" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 348)">7/8</text>
+<text x="18" y="371" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 371)">LW endothelial</text>
+<text x="18" y="382" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 382)">TNF-NF-kB</text>
+<line x1="237.63538301347938" y1="372" x2="250.61938568806997" y2="372" stroke="#8A949C" stroke-width="1.2" />
+<line x1="237.63538301347938" y1="369" x2="237.63538301347938" y2="375" stroke="#8A949C" stroke-width="0.7" />
+<line x1="250.61938568806997" y1="369" x2="250.61938568806997" y2="375" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="237.63538301347938" cy="366" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="248.76616794130663" cy="370" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="246.97582253781025" cy="374" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="249.30544512465286" cy="378" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="245.28932302923036" cy="366" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="243.85204935810575" cy="370" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="250.61938568806997" cy="374" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="242.59506068125862" cy="378" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="245.33827739910444,358.9 248.43827739910444,362 245.33827739910444,365.1 242.23827739910445,362" fill="#171717"/>
+<text x="471" y="375" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 375)">8/8</text>
+<text x="531" y="375" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 375)">8/8</text>
+<text x="18" y="398" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 398)">SGN endothelial</text>
+<text x="18" y="409" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 409)">TNF-NF-kB</text>
+<line x1="261.4916048347585" y1="399" x2="287.9956156898148" y2="399" stroke="#8A949C" stroke-width="1.2" />
+<line x1="261.4916048347585" y1="396" x2="261.4916048347585" y2="402" stroke="#8A949C" stroke-width="0.7" />
+<line x1="287.9956156898148" y1="396" x2="287.9956156898148" y2="402" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="287.9956156898148" cy="393" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="269.35219264627716" cy="397" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="261.4916048347585" cy="401" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="282.97628522268985" cy="405" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="276.65055716869927" cy="393" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="282.3769529021613" cy="397" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="274.980076431508" cy="401" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="268.2484116686184" cy="405" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="276.28978362197887,385.9 279.3897836219789,389 276.28978362197887,392.1 273.18978362197885,389" fill="#171717"/>
+<text x="471" y="402" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 402)">8/8</text>
+<text x="531" y="402" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 402)">8/8</text>
+<text x="18" y="425" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 425)">LW immune/myeloid</text>
+<text x="18" y="436" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 436)">TNF-NF-kB</text>
+<line x1="228.37525205110254" y1="426" x2="241.64302610623943" y2="426" stroke="#8A949C" stroke-width="1.2" />
+<line x1="228.37525205110254" y1="423" x2="228.37525205110254" y2="429" stroke="#8A949C" stroke-width="0.7" />
+<line x1="241.64302610623943" y1="423" x2="241.64302610623943" y2="429" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="232.44537983690796" cy="420" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="230.9514369372933" cy="424" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="228.37525205110254" cy="428" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="239.1368875910389" cy="432" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="232.63126314759444" cy="420" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="228.56213853249258" cy="424" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="232.98321819214658" cy="428" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="241.64302610623943" cy="432" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="232.39523641793082,412.9 235.4952364179308,416 232.39523641793082,419.1 229.29523641793082,416" fill="#171717"/>
+<text x="471" y="429" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 429)">8/8</text>
+<text x="531" y="429" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 429)">8/8</text>
+<text x="18" y="452" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 452)">SGN immune/myeloid</text>
+<text x="18" y="463" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 463)">TNF-NF-kB</text>
+<line x1="235.0191636227159" y1="453" x2="272.32453659199035" y2="453" stroke="#8A949C" stroke-width="1.2" />
+<line x1="235.0191636227159" y1="450" x2="235.0191636227159" y2="456" stroke="#8A949C" stroke-width="0.7" />
+<line x1="272.32453659199035" y1="450" x2="272.32453659199035" y2="456" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="272.32453659199035" cy="447" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="265.8709980190901" cy="451" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="267.3187904357293" cy="455" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="235.0191636227159" cy="459" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="254.62814435898872" cy="447" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="259.67249745069586" cy="451" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="261.8949889222381" cy="455" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="261.5832755160831" cy="459" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="259.45181168135423,439.9 262.55181168135425,443 259.45181168135423,446.1 256.3518116813542,443" fill="#171717"/>
+<text x="471" y="456" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 456)">8/8</text>
+<text x="531" y="456" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 456)">8/8</text>
+<text x="18" y="479" font-family="Arial, sans-serif" font-size="8.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 18 479)">LW endothelial</text>
+<text x="18" y="490" font-family="Arial, sans-serif" font-size="7.1" font-weight="normal" font-style="normal" text-anchor="start" fill="#7B858E" transform="rotate(0 18 490)">MAPK-family signaling</text>
+<line x1="394.4768181647971" y1="480" x2="398.28211949403476" y2="480" stroke="#8A949C" stroke-width="1.2" />
+<line x1="394.4768181647971" y1="477" x2="394.4768181647971" y2="483" stroke="#8A949C" stroke-width="0.7" />
+<line x1="398.28211949403476" y1="477" x2="398.28211949403476" y2="483" stroke="#8A949C" stroke-width="0.7" />
+<circle cx="394.9506620474936" cy="474" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="395.0683885483967" cy="478" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="398.28211949403476" cy="482" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="397.6075259356239" cy="486" r="2.3" fill="#377DA8" stroke="#377DA8" stroke-width="0.85"/>
+<circle cx="398.1872759380815" cy="474" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="397.4539287235633" cy="478" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="398.0133044214841" cy="482" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<circle cx="394.4768181647971" cy="486" r="2.3" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.85"/>
+<polygon points="398.0705241717681,466.9 401.17052417176814,470 398.0705241717681,473.1 394.9705241717681,470" fill="#171717"/>
+<text x="471" y="483" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 471 483)">8/8</text>
+<text x="531" y="483" font-family="Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 531 483)">8/8</text>
+<line x1="207" y1="504" x2="433" y2="504" stroke="#171717" stroke-width="0.6" />
+<line x1="207.0" y1="504" x2="207.0" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="207.0" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 207.0 517)">-4</text>
+<line x1="239.28571428571428" y1="504" x2="239.28571428571428" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="239.28571428571428" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 239.28571428571428 517)">-3</text>
+<line x1="271.57142857142856" y1="504" x2="271.57142857142856" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="271.57142857142856" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 271.57142857142856 517)">-2</text>
+<line x1="303.85714285714283" y1="504" x2="303.85714285714283" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="303.85714285714283" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 303.85714285714283 517)">-1</text>
+<line x1="336.1428571428571" y1="504" x2="336.1428571428571" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="336.1428571428571" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 336.1428571428571 517)">0</text>
+<line x1="368.42857142857144" y1="504" x2="368.42857142857144" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="368.42857142857144" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 368.42857142857144 517)">1</text>
+<line x1="400.71428571428567" y1="504" x2="400.71428571428567" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="400.71428571428567" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 400.71428571428567 517)">2</text>
+<line x1="433.0" y1="504" x2="433.0" y2="507" stroke="#171717" stroke-width="0.5" />
+<text x="433.0" y="517" font-family="Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 433.0 517)">3</text>
+<text x="320.0" y="531" font-family="Arial, sans-serif" font-size="8" font-weight="normal" font-style="normal" text-anchor="middle" fill="#171717" transform="rotate(0 320.0 531)">NES (Noise vs Naive)</text>
+<polygon points="22,550.9 25.1,554 22,557.1 18.9,554" fill="#171717"/>
+<text x="30" y="557" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 30 557)">Full 8-animal estimate</text>
+<circle cx="178" cy="554" r="2.4" fill="#377DA8" stroke="#377DA8" stroke-width="0.5"/>
+<text x="186" y="557" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 186 557)">Omit naive</text>
+<circle cx="235" cy="554" r="2.4" fill="#CA5A49" stroke="#CA5A49" stroke-width="0.5"/>
+<text x="243" y="557" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 243 557)">Omit noise</text>
+<text x="306" y="557" font-family="Arial, sans-serif" font-size="7.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#171717" transform="rotate(0 306 557)">Filled: q &lt; 0.05; open: q &gt;= 0.05</text>
+</svg>

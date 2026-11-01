@@ -1,0 +1,10 @@
+broad_label_recommended	cell_number	fraction	percentage	notes
+Immune_hematopoietic	28514	0.789620891	78.962	Includes myeloid, granulocyte, lymphoid, dendritic, mast/basophil and progenitor populations
+Other	3569	0.098834150	9.883	All are Erythroid-like; may be renamed Erythroid_hematopoietic if broad taxonomy is expanded
+Fibrocyte_mesenchymal	3316	0.091827975	9.183	Includes fibrocyte, OMC, perivascular stromal, chondro-osteogenic and mural-like states
+Endothelial_vascular	275	0.007615408	0.762	Cluster 22
+Glial	264	0.007310792	0.731	Cluster 23 Schwann/glial
+Supporting_epithelial	149	0.004126167	0.413	Cluster 25
+Hair_sensory	24	0.000664617	0.066	Cluster 27
+Neuronal	0	0.000000000	0.000	SGN not recovered
+UNRESOLVED	0	0.000000000	0.000	After incorporating the marker-audit recommendations for clusters 6,9,13,19

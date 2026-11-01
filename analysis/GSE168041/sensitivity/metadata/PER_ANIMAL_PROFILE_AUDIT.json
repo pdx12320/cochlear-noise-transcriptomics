@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "per_animal_pathway_rows": 56,
+  "per_animal_representative_gene_rows": 336,
+  "unavailable_representative_gene_rows": 0,
+  "normalization_basis": "original full8animal fit",
+  "z_score_SD_ddof": 1,
+  "pathway_summary_unsigned_equal_gene_weight": true,
+  "no_cell_level_inference": true,
+  "checks": [
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Endothelial",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 166,
+      "nonzero_variance_genes": 166,
+      "recalculated_score_max_abs_error": 2.220446049250313e-16
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Endothelial",
+      "pathway_id": "Reactome::REACTOME_MAPK_FAMILY_SIGNALING_CASCADES",
+      "animals": 8,
+      "gene_count": 226,
+      "nonzero_variance_genes": 226,
+      "recalculated_score_max_abs_error": 2.2898349882893854e-16
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Fibrocyte / mesenchymal",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 168,
+      "nonzero_variance_genes": 168,
+      "recalculated_score_max_abs_error": 1.6653345369377348e-16
+    },
+    {
+      "tissue": "Lateral_wall",
+      "cell_type": "Immune / myeloid",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 177,
+      "nonzero_variance_genes": 177,
+      "recalculated_score_max_abs_error": 8.326672684688674e-17
+    },
+    {
+      "tissue": "SGN",
+      "cell_type": "Endothelial",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 168,
+      "nonzero_variance_genes": 168,
+      "recalculated_score_max_abs_error": 1.1102230246251565e-16
+    },
+    {
+      "tissue": "SGN",
+      "cell_type": "Fibrocyte / mesenchymal",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 183,
+      "nonzero_variance_genes": 183,
+      "recalculated_score_max_abs_error": 1.1102230246251565e-16
+    },
+    {
+      "tissue": "SGN",
+      "cell_type": "Immune / myeloid",
+      "pathway_id": "Hallmark::HALLMARK_TNFA_SIGNALING_VIA_NFKB",
+      "animals": 8,
+      "gene_count": 181,
+      "nonzero_variance_genes": 181,
+      "recalculated_score_max_abs_error": 2.220446049250313e-16
+    }
+  ]
+}

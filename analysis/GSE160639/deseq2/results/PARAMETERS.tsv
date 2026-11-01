@@ -1,0 +1,22 @@
+parameter	value
+status	NEW_RECONSTRUCTION_NOT_HISTORICAL_REPRODUCTION
+R	4.6.1
+DESeq2	1.52.0
+gene_universe	exact19673frozenIDs_no_new_prefilter
+design	~dose_factor
+reference	70dB
+normalization	estimateSizeFactors(type=ratio,locfunc=median) on exact19673genes
+fitType	parametric
+betaPrior	FALSE
+minReplicatesForReplace	7
+useT	FALSE
+minmu	0.5
+alpha	0.05
+independentFiltering	TRUE
+cooksCutoff	TRUE (DESeq2 default Cook cutoff)
+pAdjustMethod	BH
+lfcThreshold	0
+lfcShrink	not_applied
+parallel	FALSE
+LRT_reduced	~1
+seed	20261101

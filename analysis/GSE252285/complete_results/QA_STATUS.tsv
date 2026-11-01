@@ -1,0 +1,14 @@
+check	status	detail
+fixed_object_dimensions	PASS	32285 x 36111
+annotation_unchanged	PASS	c0e69679b0f072ae70d58bd287b3f4ec2e452b3314061ca23743bd25bcb76de4 == c0e69679b0f072ae70d58bd287b3f4ec2e452b3314061ca23743bd25bcb76de4
+detectable_gene_universe	PASS	24428 genes with detection_cells > 0
+only_six_prespecified_tests	PASS	MAPK_AP1__Endothelial_vascular;VEGF_ANGIOGENESIS__Endothelial_vascular;TNFA_NFKB__Endothelial_vascular;TNFA_NFKB__Fibrocyte_mesenchymal;IL6_JAK_STAT3__Endothelial_vascular;IL6_JAK_STAT3__Immune_myeloid
+MYC_E2F_not_analyzed	PASS	No MYC/E2F signatures or tests
+iterations_primary	PASS	10000
+iterations_length_sensitivity	PASS	10000
+exact_signature_size_matching	PASS	MAPK_AP1=28;VEGF_ANGIOGENESIS=131;TNFA_NFKB=194;IL6_JAK_STAT3=82
+exact_stratum_supply	PASS	minimum supply ratio=2.00
+fast_UCell_matches_official_API	PASS	max absolute error=5.551115e-17
+scores_finite	PASS	All null and observed localization statistics finite
+no_condition_inference	PASS	No condition field used
+no_QC_clustering_annotation_rerun	PASS	Fixed counts, annotation, and existing object only

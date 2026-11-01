@@ -1,0 +1,15 @@
+parameter	value
+seed	20260825
+normalization_target_sum	10000
+hvg_flavor	seurat
+n_top_genes	3000
+hvg_batch_key	GSM
+scale_max_value	10
+pca_n_comps	50
+neighbors_k	15
+neighbors_n_pcs	40
+umap_min_dist	0.5
+leiden_resolution	0.6
+leiden_flavor	igraph
+batch_correction	none
+marker_method	wilcoxon

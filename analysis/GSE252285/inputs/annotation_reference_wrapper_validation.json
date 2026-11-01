@@ -1,0 +1,8 @@
+{
+  "shell_syntax_passed": true,
+  "mock_wrapper_exit": 0,
+  "stages_dispatched": 5,
+  "source_manifest_includes_minimal_reference": true,
+  "obsolete_RDS_required": false,
+  "analysis_executed": false
+}

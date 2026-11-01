@@ -1,0 +1,20 @@
+{
+  "status": "STATICALLY_VALIDATED_NOT_EXECUTED",
+  "source": "work/remote_audit/methods/GSE168041_cellstate_20260825/14_methods/scripts/phase7_fgsea_celltypes.R",
+  "source_sha256": "60b2cf565fbc4b8fafbe658609177507efd7007e63ae310164e082f3bee42931",
+  "offline_sha256": "ad5b27b971cefa4b9583220685b29c5ecc86f3ab868bb477e2e7aa240acf96dc",
+  "membership_sha256": "98dcdf8081f93b433396b8cbc1eaa6ad0e34ce2afc84ae82fbda99df2e641caf",
+  "collection_snapshot_sha256": "ccc776cbfc4efeed819ad29f627f8779e7cadc24495da6652c4b1fe014e79a48",
+  "membership_rows": 82288,
+  "Hallmark_sets": 50,
+  "Reactome_sets": 1333,
+  "scientific_core_byte_identical": true,
+  "core_sha256": "89f2a7373a62599e3ff74ab16b821df1a246f807fae0ba8f3d40ecbf81b61214",
+  "changes": [
+    "remove unused network-provider library requirement",
+    "three explicit local inputs",
+    "refuse overwriting nonempty10_gsea directory",
+    "replace networkMSigDB retrieval with checksum-verified frozen table",
+    "provider provenance records frozenexport version26.1.1 rather than loadedpackageversion"
+  ]
+}

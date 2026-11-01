@@ -1,0 +1,2 @@
+tissue	n_cells	n_genes	n_clusters	sample_cluster_AMI	condition_cluster_AMI	knn_same_sample_observed	knn_same_sample_expected_random	knn_sample_enrichment_ratio	median_cluster_dominant_sample_fraction	max_cluster_dominant_sample_fraction	min_cluster_sample_entropy	batch_correction
+Lateral_wall	33149	27998	22	0.12826079002625107	0.13087067853838874	0.4421626595070741	0.13064440904037816	3.384474412298924	0.30628141033811285	1.0	-0.0	none

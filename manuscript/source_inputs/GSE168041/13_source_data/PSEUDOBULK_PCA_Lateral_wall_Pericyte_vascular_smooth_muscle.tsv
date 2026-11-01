@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+Lateral_wall_naive_1	GSM5124299	Naive	1	Lateral_wall	Pericyte / vascular smooth muscle	72	248478	-31.389863085735332	-13.814671620031916
+Lateral_wall_naive_2	GSM5124300	Naive	2	Lateral_wall	Pericyte / vascular smooth muscle	83	388928	-1.6017599224537982	22.84425057111494
+Lateral_wall_naive_3	GSM5124301	Naive	3	Lateral_wall	Pericyte / vascular smooth muscle	213	681168	-2.210638336796337	2.732892538883755
+Lateral_wall_naive_4	GSM5124302	Naive	4	Lateral_wall	Pericyte / vascular smooth muscle	113	363215	-2.5646995196568643	-0.5335989820026766
+Lateral_wall_noise_1	GSM5124303	Noise	1	Lateral_wall	Pericyte / vascular smooth muscle	74	303686	21.018748743559513	-22.141490295185832
+Lateral_wall_noise_2	GSM5124304	Noise	2	Lateral_wall	Pericyte / vascular smooth muscle	150	591919	3.4478835483860806	0.12800943157728004
+Lateral_wall_noise_3	GSM5124305	Noise	3	Lateral_wall	Pericyte / vascular smooth muscle	109	452913	6.899620857573547	7.093828086868183
+Lateral_wall_noise_4	GSM5124306	Noise	4	Lateral_wall	Pericyte / vascular smooth muscle	112	492080	6.400707715123209	3.690780268776286

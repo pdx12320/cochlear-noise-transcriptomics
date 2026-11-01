@@ -1,0 +1,936 @@
+{
+  "audit": "read_only_remote_object_metadata",
+  "objects": [
+    {
+      "asset": "SGN_annotated.h5ad",
+      "string_values_scanned": 174947,
+      "findings": [],
+      "metadata": {
+        "n_obs": 31556,
+        "obs_fields": [
+          "GSM",
+          "barcode",
+          "broad_annotation",
+          "condition",
+          "doublet_class",
+          "doublet_score",
+          "genes_per_umi",
+          "knn_same_sample_fraction",
+          "leiden",
+          "n_genes_by_counts",
+          "original_barcode",
+          "pct_counts_hb",
+          "pct_counts_mt",
+          "pct_counts_ribo",
+          "replicate",
+          "sample_id",
+          "tissue",
+          "total_counts"
+        ],
+        "n_var": 27998,
+        "var_fields": [
+          "dispersions",
+          "dispersions_norm",
+          "gene_id",
+          "gene_symbol",
+          "highly_variable",
+          "highly_variable_intersection",
+          "highly_variable_nbatches",
+          "means"
+        ],
+        "broad_annotation_counts": {
+          "Endothelial": 1101,
+          "Epithelial / supporting-associated": 6907,
+          "Fibrocyte / mesenchymal": 6760,
+          "Glial / Schwann-like": 3462,
+          "Immune / myeloid": 1554,
+          "Melanocyte / intermediate": 250,
+          "Neuronal / SGN": 10276,
+          "Pericyte / vascular smooth muscle": 365,
+          "UNRESOLVED": 881
+        },
+        "condition_counts": {
+          "Naive": 16112,
+          "Noise": 15444
+        },
+        "sample_id_counts": {
+          "SGN_naive_1": 2698,
+          "SGN_naive_2": 5417,
+          "SGN_naive_3": 3338,
+          "SGN_naive_4": 4659,
+          "SGN_noise_1": 4440,
+          "SGN_noise_2": 4270,
+          "SGN_noise_3": 3502,
+          "SGN_noise_4": 3232
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "Lateral_wall_annotated.h5ad",
+      "string_values_scanned": 178035,
+      "findings": [],
+      "metadata": {
+        "n_obs": 33149,
+        "obs_fields": [
+          "GSM",
+          "barcode",
+          "broad_annotation",
+          "condition",
+          "doublet_class",
+          "doublet_score",
+          "genes_per_umi",
+          "knn_same_sample_fraction",
+          "leiden",
+          "n_genes_by_counts",
+          "original_barcode",
+          "pct_counts_hb",
+          "pct_counts_mt",
+          "pct_counts_ribo",
+          "replicate",
+          "sample_id",
+          "tissue",
+          "total_counts"
+        ],
+        "n_var": 27998,
+        "var_fields": [
+          "dispersions",
+          "dispersions_norm",
+          "gene_id",
+          "gene_symbol",
+          "highly_variable",
+          "highly_variable_intersection",
+          "highly_variable_nbatches",
+          "means"
+        ],
+        "broad_annotation_counts": {
+          "Endothelial": 2941,
+          "Epithelial / supporting-associated": 11338,
+          "Fibrocyte / mesenchymal": 3794,
+          "Immune / myeloid": 673,
+          "Melanocyte / intermediate": 13134,
+          "Pericyte / vascular smooth muscle": 926,
+          "UNRESOLVED": 343
+        },
+        "condition_counts": {
+          "Naive": 16232,
+          "Noise": 16917
+        },
+        "sample_id_counts": {
+          "Lateral_wall_naive_1": 2605,
+          "Lateral_wall_naive_2": 5808,
+          "Lateral_wall_naive_3": 3968,
+          "Lateral_wall_naive_4": 3851,
+          "Lateral_wall_noise_1": 3478,
+          "Lateral_wall_noise_2": 4164,
+          "Lateral_wall_noise_3": 4730,
+          "Lateral_wall_noise_4": 4545
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Endothelial.h5ad",
+      "string_values_scanned": 25528,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 12667,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Endothelial": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Epithelial_supporting_associated.h5ad",
+      "string_values_scanned": 33004,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 16405,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Epithelial / supporting-associated": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Fibrocyte_mesenchymal.h5ad",
+      "string_values_scanned": 31600,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 15703,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Fibrocyte / mesenchymal": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Glial_Schwann_like.h5ad",
+      "string_values_scanned": 28348,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 14077,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Glial / Schwann-like": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Immune_myeloid.h5ad",
+      "string_values_scanned": 27172,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 13489,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Immune / myeloid": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Neuronal_SGN.h5ad",
+      "string_values_scanned": 34594,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 17200,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Neuronal / SGN": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/SGN/S1_DDS_OBJECT_Pericyte_vascular_smooth_muscle.h5ad",
+      "string_values_scanned": 20402,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 10104,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Pericyte / vascular smooth muscle": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Endothelial.h5ad",
+      "string_values_scanned": 27212,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 13509,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Endothelial": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Epithelial_supporting_associated.h5ad",
+      "string_values_scanned": 32444,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 16125,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Epithelial / supporting-associated": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Fibrocyte_mesenchymal.h5ad",
+      "string_values_scanned": 28374,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 14090,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Fibrocyte / mesenchymal": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Immune_myeloid.h5ad",
+      "string_values_scanned": 23236,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 11521,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Immune / myeloid": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Melanocyte_intermediate.h5ad",
+      "string_values_scanned": 31360,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 15583,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Melanocyte / intermediate": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE168041/09_differential/Lateral_wall/S1_DDS_OBJECT_Pericyte_vascular_smooth_muscle.h5ad",
+      "string_values_scanned": 22066,
+      "findings": [],
+      "metadata": {
+        "n_obs": 8,
+        "obs_fields": [
+          "GSM",
+          "cell_type",
+          "condition",
+          "n_cells",
+          "raw_library_size",
+          "replaceable",
+          "replicate",
+          "sample_id",
+          "size_factors",
+          "tissue"
+        ],
+        "n_var": 10936,
+        "var_fields": [
+          "MAP_dispersions",
+          "_LFC_converged",
+          "_MAP_converged",
+          "_MoM_dispersions",
+          "_genewise_converged",
+          "_index",
+          "_normed_means",
+          "_outlier_genes",
+          "_pvalue_cooks_outlier",
+          "dispersions",
+          "fitted_dispersions",
+          "genewise_dispersions",
+          "non_zero",
+          "refitted",
+          "replaced"
+        ],
+        "cell_type_counts": {
+          "Pericyte / vascular smooth muscle": 8
+        },
+        "condition_counts": {
+          "Naive": 4,
+          "Noise": 4
+        }
+      },
+      "findings_count": 0
+    },
+    {
+      "asset": "GSE252285_36111cells_annotated.rds",
+      "n_cells": 36111,
+      "assay_feature_counts": {
+        "RNA": 32285
+      },
+      "metadata_fields": [
+        "orig.ident",
+        "nCount_RNA",
+        "nFeature_RNA",
+        "barcode",
+        "barcode_suffix",
+        "library_id",
+        "condition",
+        "percent.mt",
+        "qc_pass",
+        "doublet_filter_applied",
+        "analysis_branch",
+        "embedding_for_display",
+        "RNA_snn_res.0.4",
+        "RNA_snn_res.0.6",
+        "RNA_snn_res.0.8",
+        "RNA_snn_res.1",
+        "seurat_clusters",
+        "seurat_clusters_no_doublet",
+        "broad_annotation_no_doublet_sensitivity",
+        "annotation_confidence_no_doublet_sensitivity",
+        "annotation_version_no_doublet_sensitivity"
+      ],
+      "label_counts": {
+        "library_id": {
+          "LIB1": 16631,
+          "LIB2": 9207,
+          "LIB3": 10273
+        },
+        "condition": {
+          "UNKNOWN": 36111
+        },
+        "seurat_clusters": {
+          "0": 4363,
+          "1": 2567,
+          "10": 1513,
+          "11": 961,
+          "12": 943,
+          "13": 842,
+          "14": 841,
+          "15": 766,
+          "16": 758,
+          "17": 740,
+          "18": 687,
+          "19": 640,
+          "2": 2533,
+          "20": 546,
+          "21": 513,
+          "22": 420,
+          "23": 401,
+          "24": 398,
+          "25": 392,
+          "26": 348,
+          "27": 319,
+          "28": 297,
+          "29": 287,
+          "3": 2225,
+          "30": 275,
+          "31": 263,
+          "32": 189,
+          "33": 149,
+          "34": 121,
+          "35": 51,
+          "36": 24,
+          "4": 2013,
+          "5": 1999,
+          "6": 1903,
+          "7": 1661,
+          "8": 1641,
+          "9": 1522
+        },
+        "seurat_clusters_no_doublet": {
+          "0": 5397,
+          "1": 3684,
+          "10": 1190,
+          "11": 961,
+          "12": 929,
+          "13": 838,
+          "14": 650,
+          "15": 398,
+          "16": 392,
+          "17": 389,
+          "18": 347,
+          "19": 319,
+          "2": 3406,
+          "20": 297,
+          "21": 287,
+          "22": 275,
+          "23": 264,
+          "24": 189,
+          "25": 149,
+          "26": 121,
+          "27": 24,
+          "3": 2950,
+          "4": 2921,
+          "5": 2497,
+          "6": 2359,
+          "7": 1957,
+          "8": 1711,
+          "9": 1210
+        },
+        "broad_annotation_no_doublet_sensitivity": {
+          "Endothelial_vascular": 275,
+          "Fibrocyte_mesenchymal": 2997,
+          "Glial": 264,
+          "Hair_sensory": 24,
+          "Immune_myeloid": 27676,
+          "Supporting_epithelial": 149,
+          "UNRESOLVED": 4726
+        }
+      },
+      "string_values_scanned": 747460,
+      "traversal_nodes": 240,
+      "traversal_truncations": [],
+      "slot_classes": [
+        {
+          "field": "assays",
+          "class": "list",
+          "length": 1
+        },
+        {
+          "field": "meta.data",
+          "class": "data.frame",
+          "length": 21
+        },
+        {
+          "field": "active.assay",
+          "class": "character",
+          "length": 1
+        },
+        {
+          "field": "active.ident",
+          "class": "factor",
+          "length": 36111
+        },
+        {
+          "field": "graphs",
+          "class": "list",
+          "length": 2
+        },
+        {
+          "field": "neighbors",
+          "class": "list",
+          "length": 0
+        },
+        {
+          "field": "reductions",
+          "class": "list",
+          "length": 2
+        },
+        {
+          "field": "images",
+          "class": "list",
+          "length": 0
+        },
+        {
+          "field": "project.name",
+          "class": "character",
+          "length": 1
+        },
+        {
+          "field": "misc",
+          "class": "list",
+          "length": 0
+        },
+        {
+          "field": "version",
+          "class": [
+            "package_version",
+            "numeric_version"
+          ],
+          "length": 1
+        },
+        {
+          "field": "commands",
+          "class": "list",
+          "length": 7
+        },
+        {
+          "field": "tools",
+          "class": "list",
+          "length": 0
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "date": "2026-11-01",
+  "read_only": true,
+  "objects_modified": false,
+  "credential_or_private_path_findings": 0,
+  "audit_complete": true,
+  "limitations": "Pattern checks inspect string metadata and stored labels; they are not a mathematical guarantee against every secret encoding. Numeric expression/model arrays were not reanalyzed.",
+  "rds_usage_notes": {
+    "selected_clusters_field": "seurat_clusters_no_doublet",
+    "selected_clusters": 28,
+    "generic_seurat_clusters": 37,
+    "stored_condition": "UNKNOWN",
+    "resolved_mapping": "LIB3=Control; LIB1=HHL; LIB2=NIHL; use accompanying accession/barcode mapping tables."
+  }
+}

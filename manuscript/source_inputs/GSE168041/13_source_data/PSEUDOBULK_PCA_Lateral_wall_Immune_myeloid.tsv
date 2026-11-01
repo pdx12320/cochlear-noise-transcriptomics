@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+Lateral_wall_naive_1	GSM5124299	Naive	1	Lateral_wall	Immune / myeloid	23	97347	-65.69546991209744	-0.052302073764892223
+Lateral_wall_naive_2	GSM5124300	Naive	2	Lateral_wall	Immune / myeloid	98	504339	6.469802413743574	-2.3334030472212275
+Lateral_wall_naive_3	GSM5124301	Naive	3	Lateral_wall	Immune / myeloid	52	259248	10.583097434516125	36.45945308815856
+Lateral_wall_naive_4	GSM5124302	Naive	4	Lateral_wall	Immune / myeloid	74	371176	3.6562403144850943	-0.5661430578162897
+Lateral_wall_noise_1	GSM5124303	Noise	1	Lateral_wall	Immune / myeloid	79	579953	12.743415275960706	-7.937055727896871
+Lateral_wall_noise_2	GSM5124304	Noise	2	Lateral_wall	Immune / myeloid	111	732283	7.6314203295847705	-10.233376452352093
+Lateral_wall_noise_3	GSM5124305	Noise	3	Lateral_wall	Immune / myeloid	87	790161	13.242381677149703	-9.882672456442945
+Lateral_wall_noise_4	GSM5124306	Noise	4	Lateral_wall	Immune / myeloid	149	1352848	11.369112466657496	-5.454500272664177

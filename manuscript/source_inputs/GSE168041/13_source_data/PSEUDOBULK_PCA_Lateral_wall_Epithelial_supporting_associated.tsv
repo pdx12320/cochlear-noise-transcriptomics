@@ -1,0 +1,9 @@
+sample_id	GSM	condition	replicate	tissue	cell_type	n_cells	raw_library_size	PC1	PC2
+Lateral_wall_naive_1	GSM5124299	Naive	1	Lateral_wall	Epithelial / supporting-associated	963	12122268	-27.030702182126923	-11.962435113416388
+Lateral_wall_naive_2	GSM5124300	Naive	2	Lateral_wall	Epithelial / supporting-associated	2478	25802871	-7.535323322808156	11.4639892964776
+Lateral_wall_naive_3	GSM5124301	Naive	3	Lateral_wall	Epithelial / supporting-associated	1150	11548416	-19.022532859090372	-10.877884355537022
+Lateral_wall_naive_4	GSM5124302	Naive	4	Lateral_wall	Epithelial / supporting-associated	1444	14454367	-13.079904305750414	26.102815600476294
+Lateral_wall_noise_1	GSM5124303	Noise	1	Lateral_wall	Epithelial / supporting-associated	948	11677768	23.486260162868142	16.480545507775215
+Lateral_wall_noise_2	GSM5124304	Noise	2	Lateral_wall	Epithelial / supporting-associated	1157	13031235	11.776690389198391	-2.053795243030854
+Lateral_wall_noise_3	GSM5124305	Noise	3	Lateral_wall	Epithelial / supporting-associated	1706	18321362	13.094381427785873	-13.126661683372946
+Lateral_wall_noise_4	GSM5124306	Noise	4	Lateral_wall	Epithelial / supporting-associated	1492	17011392	18.311130689923495	-16.026574009371974
